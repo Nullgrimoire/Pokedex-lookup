@@ -1,0 +1,1810 @@
+[
+  {
+    "id": "650",
+    "name": "Chespin",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Grass"
+        ],
+        "stats": {
+          "total": 313,
+          "hp": 56,
+          "attack": 61,
+          "defense": 65,
+          "sp_attack": 48,
+          "sp_defense": 45,
+          "speed": 38
+        }
+      }
+    ]
+  },
+  {
+    "id": "651",
+    "name": "Quilladin",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Grass"
+        ],
+        "stats": {
+          "total": 405,
+          "hp": 61,
+          "attack": 78,
+          "defense": 95,
+          "sp_attack": 56,
+          "sp_defense": 58,
+          "speed": 57
+        }
+      }
+    ]
+  },
+  {
+    "id": "652",
+    "name": "Chesnaught",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Grass",
+          "Fighting"
+        ],
+        "stats": {
+          "total": 530,
+          "hp": 88,
+          "attack": 107,
+          "defense": 122,
+          "sp_attack": 74,
+          "sp_defense": 75,
+          "speed": 64
+        }
+      }
+    ]
+  },
+  {
+    "id": "653",
+    "name": "Fennekin",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fire"
+        ],
+        "stats": {
+          "total": 307,
+          "hp": 40,
+          "attack": 45,
+          "defense": 40,
+          "sp_attack": 62,
+          "sp_defense": 60,
+          "speed": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": "654",
+    "name": "Braixen",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fire"
+        ],
+        "stats": {
+          "total": 409,
+          "hp": 59,
+          "attack": 59,
+          "defense": 58,
+          "sp_attack": 90,
+          "sp_defense": 70,
+          "speed": 73
+        }
+      }
+    ]
+  },
+  {
+    "id": "655",
+    "name": "Delphox",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fire",
+          "Psychic"
+        ],
+        "stats": {
+          "total": 534,
+          "hp": 75,
+          "attack": 69,
+          "defense": 72,
+          "sp_attack": 114,
+          "sp_defense": 100,
+          "speed": 104
+        }
+      }
+    ]
+  },
+  {
+    "id": "656",
+    "name": "Froakie",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Water"
+        ],
+        "stats": {
+          "total": 314,
+          "hp": 41,
+          "attack": 56,
+          "defense": 40,
+          "sp_attack": 62,
+          "sp_defense": 44,
+          "speed": 71
+        }
+      }
+    ]
+  },
+  {
+    "id": "657",
+    "name": "Frogadier",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Water"
+        ],
+        "stats": {
+          "total": 405,
+          "hp": 54,
+          "attack": 63,
+          "defense": 52,
+          "sp_attack": 83,
+          "sp_defense": 56,
+          "speed": 97
+        }
+      }
+    ]
+  },
+  {
+    "id": "658",
+    "name": "Greninja",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Water",
+          "Dark"
+        ],
+        "stats": {
+          "total": 530,
+          "hp": 72,
+          "attack": 95,
+          "defense": 67,
+          "sp_attack": 103,
+          "sp_defense": 71,
+          "speed": 122
+        }
+      },
+      {
+        "form": "Ash-Greninja",
+        "type": [
+          "Water",
+          "Dark"
+        ],
+        "stats": {
+          "total": 640,
+          "hp": 72,
+          "attack": 145,
+          "defense": 67,
+          "sp_attack": 153,
+          "sp_defense": 71,
+          "speed": 132
+        }
+      }
+    ]
+  },
+  {
+    "id": "659",
+    "name": "Bunnelby",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Normal"
+        ],
+        "stats": {
+          "total": 237,
+          "hp": 38,
+          "attack": 36,
+          "defense": 38,
+          "sp_attack": 32,
+          "sp_defense": 36,
+          "speed": 57
+        }
+      }
+    ]
+  },
+  {
+    "id": "660",
+    "name": "Diggersby",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Normal",
+          "Ground"
+        ],
+        "stats": {
+          "total": 423,
+          "hp": 85,
+          "attack": 56,
+          "defense": 77,
+          "sp_attack": 50,
+          "sp_defense": 77,
+          "speed": 78
+        }
+      }
+    ]
+  },
+  {
+    "id": "661",
+    "name": "Fletchling",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Normal",
+          "Flying"
+        ],
+        "stats": {
+          "total": 278,
+          "hp": 45,
+          "attack": 50,
+          "defense": 43,
+          "sp_attack": 40,
+          "sp_defense": 38,
+          "speed": 62
+        }
+      }
+    ]
+  },
+  {
+    "id": "662",
+    "name": "Fletchinder",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fire",
+          "Flying"
+        ],
+        "stats": {
+          "total": 382,
+          "hp": 62,
+          "attack": 73,
+          "defense": 55,
+          "sp_attack": 56,
+          "sp_defense": 52,
+          "speed": 84
+        }
+      }
+    ]
+  },
+  {
+    "id": "663",
+    "name": "Talonflame",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fire",
+          "Flying"
+        ],
+        "stats": {
+          "total": 499,
+          "hp": 78,
+          "attack": 81,
+          "defense": 71,
+          "sp_attack": 74,
+          "sp_defense": 69,
+          "speed": 126
+        }
+      }
+    ]
+  },
+  {
+    "id": "664",
+    "name": "Scatterbug",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Bug"
+        ],
+        "stats": {
+          "total": 200,
+          "hp": 38,
+          "attack": 35,
+          "defense": 40,
+          "sp_attack": 27,
+          "sp_defense": 25,
+          "speed": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "665",
+    "name": "Spewpa",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Bug"
+        ],
+        "stats": {
+          "total": 213,
+          "hp": 45,
+          "attack": 22,
+          "defense": 60,
+          "sp_attack": 27,
+          "sp_defense": 30,
+          "speed": 29
+        }
+      }
+    ]
+  },
+  {
+    "id": "666",
+    "name": "Vivillon",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Bug",
+          "Flying"
+        ],
+        "stats": {
+          "total": 411,
+          "hp": 80,
+          "attack": 52,
+          "defense": 50,
+          "sp_attack": 90,
+          "sp_defense": 50,
+          "speed": 89
+        }
+      }
+    ]
+  },
+  {
+    "id": "667",
+    "name": "Litleo",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fire",
+          "Normal"
+        ],
+        "stats": {
+          "total": 369,
+          "hp": 62,
+          "attack": 50,
+          "defense": 58,
+          "sp_attack": 73,
+          "sp_defense": 54,
+          "speed": 72
+        }
+      }
+    ]
+  },
+  {
+    "id": "668",
+    "name": "Pyroar",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fire",
+          "Normal"
+        ],
+        "stats": {
+          "total": 507,
+          "hp": 86,
+          "attack": 68,
+          "defense": 72,
+          "sp_attack": 109,
+          "sp_defense": 66,
+          "speed": 106
+        }
+      }
+    ]
+  },
+  {
+    "id": "669",
+    "name": "Flab\u00e9b\u00e9",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fairy"
+        ],
+        "stats": {
+          "total": 303,
+          "hp": 44,
+          "attack": 38,
+          "defense": 39,
+          "sp_attack": 61,
+          "sp_defense": 79,
+          "speed": 42
+        }
+      }
+    ]
+  },
+  {
+    "id": "670",
+    "name": "Floette",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fairy"
+        ],
+        "stats": {
+          "total": 371,
+          "hp": 54,
+          "attack": 45,
+          "defense": 47,
+          "sp_attack": 75,
+          "sp_defense": 98,
+          "speed": 52
+        }
+      }
+    ]
+  },
+  {
+    "id": "671",
+    "name": "Florges",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fairy"
+        ],
+        "stats": {
+          "total": 552,
+          "hp": 78,
+          "attack": 65,
+          "defense": 68,
+          "sp_attack": 112,
+          "sp_defense": 154,
+          "speed": 75
+        }
+      }
+    ]
+  },
+  {
+    "id": "672",
+    "name": "Skiddo",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Grass"
+        ],
+        "stats": {
+          "total": 350,
+          "hp": 66,
+          "attack": 65,
+          "defense": 48,
+          "sp_attack": 62,
+          "sp_defense": 57,
+          "speed": 52
+        }
+      }
+    ]
+  },
+  {
+    "id": "673",
+    "name": "Gogoat",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Grass"
+        ],
+        "stats": {
+          "total": 531,
+          "hp": 123,
+          "attack": 100,
+          "defense": 62,
+          "sp_attack": 97,
+          "sp_defense": 81,
+          "speed": 68
+        }
+      }
+    ]
+  },
+  {
+    "id": "674",
+    "name": "Pancham",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fighting"
+        ],
+        "stats": {
+          "total": 348,
+          "hp": 67,
+          "attack": 82,
+          "defense": 62,
+          "sp_attack": 46,
+          "sp_defense": 48,
+          "speed": 43
+        }
+      }
+    ]
+  },
+  {
+    "id": "675",
+    "name": "Pangoro",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fighting",
+          "Dark"
+        ],
+        "stats": {
+          "total": 495,
+          "hp": 95,
+          "attack": 124,
+          "defense": 78,
+          "sp_attack": 69,
+          "sp_defense": 71,
+          "speed": 58
+        }
+      }
+    ]
+  },
+  {
+    "id": "676",
+    "name": "Furfrou",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Normal"
+        ],
+        "stats": {
+          "total": 472,
+          "hp": 75,
+          "attack": 80,
+          "defense": 60,
+          "sp_attack": 65,
+          "sp_defense": 90,
+          "speed": 102
+        }
+      }
+    ]
+  },
+  {
+    "id": "677",
+    "name": "Espurr",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Psychic"
+        ],
+        "stats": {
+          "total": 355,
+          "hp": 62,
+          "attack": 48,
+          "defense": 54,
+          "sp_attack": 63,
+          "sp_defense": 60,
+          "speed": 68
+        }
+      }
+    ]
+  },
+  {
+    "id": "678",
+    "name": "Meowstic",
+    "forms": [
+      {
+        "form": "Male",
+        "type": [
+          "Psychic"
+        ],
+        "stats": {
+          "total": 466,
+          "hp": 74,
+          "attack": 48,
+          "defense": 76,
+          "sp_attack": 83,
+          "sp_defense": 81,
+          "speed": 104
+        }
+      },
+      {
+        "form": "Female",
+        "type": [
+          "Psychic"
+        ],
+        "stats": {
+          "total": 466,
+          "hp": 74,
+          "attack": 48,
+          "defense": 76,
+          "sp_attack": 83,
+          "sp_defense": 81,
+          "speed": 104
+        }
+      }
+    ]
+  },
+  {
+    "id": "679",
+    "name": "Honedge",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Steel",
+          "Ghost"
+        ],
+        "stats": {
+          "total": 325,
+          "hp": 45,
+          "attack": 80,
+          "defense": 100,
+          "sp_attack": 35,
+          "sp_defense": 37,
+          "speed": 28
+        }
+      }
+    ]
+  },
+  {
+    "id": "680",
+    "name": "Doublade",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Steel",
+          "Ghost"
+        ],
+        "stats": {
+          "total": 448,
+          "hp": 59,
+          "attack": 110,
+          "defense": 150,
+          "sp_attack": 45,
+          "sp_defense": 49,
+          "speed": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "681",
+    "name": "Aegislash",
+    "forms": [
+      {
+        "form": "Shield Forme",
+        "type": [
+          "Steel",
+          "Ghost"
+        ],
+        "stats": {
+          "total": 500,
+          "hp": 60,
+          "attack": 50,
+          "defense": 140,
+          "sp_attack": 50,
+          "sp_defense": 140,
+          "speed": 60
+        }
+      },
+      {
+        "form": "Blade Forme",
+        "type": [
+          "Steel",
+          "Ghost"
+        ],
+        "stats": {
+          "total": 500,
+          "hp": 60,
+          "attack": 140,
+          "defense": 50,
+          "sp_attack": 140,
+          "sp_defense": 50,
+          "speed": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": "682",
+    "name": "Spritzee",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fairy"
+        ],
+        "stats": {
+          "total": 341,
+          "hp": 78,
+          "attack": 52,
+          "defense": 60,
+          "sp_attack": 63,
+          "sp_defense": 65,
+          "speed": 23
+        }
+      }
+    ]
+  },
+  {
+    "id": "683",
+    "name": "Aromatisse",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fairy"
+        ],
+        "stats": {
+          "total": 462,
+          "hp": 101,
+          "attack": 72,
+          "defense": 72,
+          "sp_attack": 99,
+          "sp_defense": 89,
+          "speed": 29
+        }
+      }
+    ]
+  },
+  {
+    "id": "684",
+    "name": "Swirlix",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fairy"
+        ],
+        "stats": {
+          "total": 341,
+          "hp": 62,
+          "attack": 48,
+          "defense": 66,
+          "sp_attack": 59,
+          "sp_defense": 57,
+          "speed": 49
+        }
+      }
+    ]
+  },
+  {
+    "id": "685",
+    "name": "Slurpuff",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fairy"
+        ],
+        "stats": {
+          "total": 480,
+          "hp": 82,
+          "attack": 80,
+          "defense": 86,
+          "sp_attack": 85,
+          "sp_defense": 75,
+          "speed": 72
+        }
+      }
+    ]
+  },
+  {
+    "id": "686",
+    "name": "Inkay",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Dark",
+          "Psychic"
+        ],
+        "stats": {
+          "total": 288,
+          "hp": 53,
+          "attack": 54,
+          "defense": 53,
+          "sp_attack": 37,
+          "sp_defense": 46,
+          "speed": 45
+        }
+      }
+    ]
+  },
+  {
+    "id": "687",
+    "name": "Malamar",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Dark",
+          "Psychic"
+        ],
+        "stats": {
+          "total": 482,
+          "hp": 86,
+          "attack": 92,
+          "defense": 88,
+          "sp_attack": 68,
+          "sp_defense": 75,
+          "speed": 73
+        }
+      }
+    ]
+  },
+  {
+    "id": "688",
+    "name": "Binacle",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Rock",
+          "Water"
+        ],
+        "stats": {
+          "total": 306,
+          "hp": 42,
+          "attack": 52,
+          "defense": 67,
+          "sp_attack": 39,
+          "sp_defense": 56,
+          "speed": 50
+        }
+      }
+    ]
+  },
+  {
+    "id": "689",
+    "name": "Barbaracle",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Rock",
+          "Water"
+        ],
+        "stats": {
+          "total": 500,
+          "hp": 72,
+          "attack": 105,
+          "defense": 115,
+          "sp_attack": 54,
+          "sp_defense": 86,
+          "speed": 68
+        }
+      }
+    ]
+  },
+  {
+    "id": "690",
+    "name": "Skrelp",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Poison",
+          "Water"
+        ],
+        "stats": {
+          "total": 320,
+          "hp": 50,
+          "attack": 60,
+          "defense": 60,
+          "sp_attack": 60,
+          "sp_defense": 60,
+          "speed": 30
+        }
+      }
+    ]
+  },
+  {
+    "id": "691",
+    "name": "Dragalge",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Poison",
+          "Dragon"
+        ],
+        "stats": {
+          "total": 494,
+          "hp": 65,
+          "attack": 75,
+          "defense": 90,
+          "sp_attack": 97,
+          "sp_defense": 123,
+          "speed": 44
+        }
+      }
+    ]
+  },
+  {
+    "id": "692",
+    "name": "Clauncher",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Water"
+        ],
+        "stats": {
+          "total": 330,
+          "hp": 50,
+          "attack": 53,
+          "defense": 62,
+          "sp_attack": 58,
+          "sp_defense": 63,
+          "speed": 44
+        }
+      }
+    ]
+  },
+  {
+    "id": "693",
+    "name": "Clawitzer",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Water"
+        ],
+        "stats": {
+          "total": 500,
+          "hp": 71,
+          "attack": 73,
+          "defense": 88,
+          "sp_attack": 120,
+          "sp_defense": 89,
+          "speed": 59
+        }
+      }
+    ]
+  },
+  {
+    "id": "694",
+    "name": "Helioptile",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Electric",
+          "Normal"
+        ],
+        "stats": {
+          "total": 289,
+          "hp": 44,
+          "attack": 38,
+          "defense": 33,
+          "sp_attack": 61,
+          "sp_defense": 43,
+          "speed": 70
+        }
+      }
+    ]
+  },
+  {
+    "id": "695",
+    "name": "Heliolisk",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Electric",
+          "Normal"
+        ],
+        "stats": {
+          "total": 481,
+          "hp": 62,
+          "attack": 55,
+          "defense": 52,
+          "sp_attack": 109,
+          "sp_defense": 94,
+          "speed": 109
+        }
+      }
+    ]
+  },
+  {
+    "id": "696",
+    "name": "Tyrunt",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Rock",
+          "Dragon"
+        ],
+        "stats": {
+          "total": 362,
+          "hp": 58,
+          "attack": 89,
+          "defense": 77,
+          "sp_attack": 45,
+          "sp_defense": 45,
+          "speed": 48
+        }
+      }
+    ]
+  },
+  {
+    "id": "697",
+    "name": "Tyrantrum",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Rock",
+          "Dragon"
+        ],
+        "stats": {
+          "total": 521,
+          "hp": 82,
+          "attack": 121,
+          "defense": 119,
+          "sp_attack": 69,
+          "sp_defense": 59,
+          "speed": 71
+        }
+      }
+    ]
+  },
+  {
+    "id": "698",
+    "name": "Amaura",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Rock",
+          "Ice"
+        ],
+        "stats": {
+          "total": 362,
+          "hp": 77,
+          "attack": 59,
+          "defense": 50,
+          "sp_attack": 67,
+          "sp_defense": 63,
+          "speed": 46
+        }
+      }
+    ]
+  },
+  {
+    "id": "699",
+    "name": "Aurorus",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Rock",
+          "Ice"
+        ],
+        "stats": {
+          "total": 521,
+          "hp": 123,
+          "attack": 77,
+          "defense": 72,
+          "sp_attack": 99,
+          "sp_defense": 92,
+          "speed": 58
+        }
+      }
+    ]
+  },
+  {
+    "id": "700",
+    "name": "Sylveon",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fairy"
+        ],
+        "stats": {
+          "total": 525,
+          "hp": 95,
+          "attack": 65,
+          "defense": 65,
+          "sp_attack": 110,
+          "sp_defense": 130,
+          "speed": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": "701",
+    "name": "Hawlucha",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fighting",
+          "Flying"
+        ],
+        "stats": {
+          "total": 500,
+          "hp": 78,
+          "attack": 92,
+          "defense": 75,
+          "sp_attack": 74,
+          "sp_defense": 63,
+          "speed": 118
+        }
+      }
+    ]
+  },
+  {
+    "id": "702",
+    "name": "Dedenne",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Electric",
+          "Fairy"
+        ],
+        "stats": {
+          "total": 431,
+          "hp": 67,
+          "attack": 58,
+          "defense": 57,
+          "sp_attack": 81,
+          "sp_defense": 67,
+          "speed": 101
+        }
+      }
+    ]
+  },
+  {
+    "id": "703",
+    "name": "Carbink",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Rock",
+          "Fairy"
+        ],
+        "stats": {
+          "total": 500,
+          "hp": 50,
+          "attack": 50,
+          "defense": 150,
+          "sp_attack": 50,
+          "sp_defense": 150,
+          "speed": 50
+        }
+      }
+    ]
+  },
+  {
+    "id": "704",
+    "name": "Goomy",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Dragon"
+        ],
+        "stats": {
+          "total": 300,
+          "hp": 45,
+          "attack": 50,
+          "defense": 35,
+          "sp_attack": 55,
+          "sp_defense": 75,
+          "speed": 40
+        }
+      }
+    ]
+  },
+  {
+    "id": "705",
+    "name": "Sliggoo",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Dragon"
+        ],
+        "stats": {
+          "total": 452,
+          "hp": 68,
+          "attack": 75,
+          "defense": 53,
+          "sp_attack": 83,
+          "sp_defense": 113,
+          "speed": 60
+        }
+      },
+      {
+        "form": "Hisuian Sliggoo",
+        "type": [
+          "Steel",
+          "Dragon"
+        ],
+        "stats": {
+          "total": 452,
+          "hp": 58,
+          "attack": 75,
+          "defense": 83,
+          "sp_attack": 83,
+          "sp_defense": 113,
+          "speed": 40
+        }
+      }
+    ]
+  },
+  {
+    "id": "706",
+    "name": "Goodra",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Dragon"
+        ],
+        "stats": {
+          "total": 600,
+          "hp": 90,
+          "attack": 100,
+          "defense": 70,
+          "sp_attack": 110,
+          "sp_defense": 150,
+          "speed": 80
+        }
+      },
+      {
+        "form": "Hisuian Goodra",
+        "type": [
+          "Steel",
+          "Dragon"
+        ],
+        "stats": {
+          "total": 600,
+          "hp": 80,
+          "attack": 100,
+          "defense": 100,
+          "sp_attack": 110,
+          "sp_defense": 150,
+          "speed": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": "707",
+    "name": "Klefki",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Steel",
+          "Fairy"
+        ],
+        "stats": {
+          "total": 470,
+          "hp": 57,
+          "attack": 80,
+          "defense": 91,
+          "sp_attack": 80,
+          "sp_defense": 87,
+          "speed": 75
+        }
+      }
+    ]
+  },
+  {
+    "id": "708",
+    "name": "Phantump",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Ghost",
+          "Grass"
+        ],
+        "stats": {
+          "total": 309,
+          "hp": 43,
+          "attack": 70,
+          "defense": 48,
+          "sp_attack": 50,
+          "sp_defense": 60,
+          "speed": 38
+        }
+      }
+    ]
+  },
+  {
+    "id": "709",
+    "name": "Trevenant",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Ghost",
+          "Grass"
+        ],
+        "stats": {
+          "total": 474,
+          "hp": 85,
+          "attack": 110,
+          "defense": 76,
+          "sp_attack": 65,
+          "sp_defense": 82,
+          "speed": 56
+        }
+      }
+    ]
+  },
+  {
+    "id": "710",
+    "name": "Pumpkaboo",
+    "forms": [
+      {
+        "form": "Average Size",
+        "type": [
+          "Ghost",
+          "Grass"
+        ],
+        "stats": {
+          "total": 335,
+          "hp": 49,
+          "attack": 66,
+          "defense": 70,
+          "sp_attack": 44,
+          "sp_defense": 55,
+          "speed": 51
+        }
+      },
+      {
+        "form": "Small Size",
+        "type": [
+          "Ghost",
+          "Grass"
+        ],
+        "stats": {
+          "total": 335,
+          "hp": 44,
+          "attack": 66,
+          "defense": 70,
+          "sp_attack": 44,
+          "sp_defense": 55,
+          "speed": 56
+        }
+      },
+      {
+        "form": "Large Size",
+        "type": [
+          "Ghost",
+          "Grass"
+        ],
+        "stats": {
+          "total": 335,
+          "hp": 54,
+          "attack": 66,
+          "defense": 70,
+          "sp_attack": 44,
+          "sp_defense": 55,
+          "speed": 46
+        }
+      },
+      {
+        "form": "Super Size",
+        "type": [
+          "Ghost",
+          "Grass"
+        ],
+        "stats": {
+          "total": 335,
+          "hp": 59,
+          "attack": 66,
+          "defense": 70,
+          "sp_attack": 44,
+          "sp_defense": 55,
+          "speed": 41
+        }
+      }
+    ]
+  },
+  {
+    "id": "711",
+    "name": "Gourgeist",
+    "forms": [
+      {
+        "form": "Average Size",
+        "type": [
+          "Ghost",
+          "Grass"
+        ],
+        "stats": {
+          "total": 494,
+          "hp": 65,
+          "attack": 90,
+          "defense": 122,
+          "sp_attack": 58,
+          "sp_defense": 75,
+          "speed": 84
+        }
+      },
+      {
+        "form": "Small Size",
+        "type": [
+          "Ghost",
+          "Grass"
+        ],
+        "stats": {
+          "total": 494,
+          "hp": 55,
+          "attack": 85,
+          "defense": 122,
+          "sp_attack": 58,
+          "sp_defense": 75,
+          "speed": 99
+        }
+      },
+      {
+        "form": "Large Size",
+        "type": [
+          "Ghost",
+          "Grass"
+        ],
+        "stats": {
+          "total": 494,
+          "hp": 75,
+          "attack": 95,
+          "defense": 122,
+          "sp_attack": 58,
+          "sp_defense": 75,
+          "speed": 69
+        }
+      },
+      {
+        "form": "Super Size",
+        "type": [
+          "Ghost",
+          "Grass"
+        ],
+        "stats": {
+          "total": 494,
+          "hp": 85,
+          "attack": 100,
+          "defense": 122,
+          "sp_attack": 58,
+          "sp_defense": 75,
+          "speed": 54
+        }
+      }
+    ]
+  },
+  {
+    "id": "712",
+    "name": "Bergmite",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Ice"
+        ],
+        "stats": {
+          "total": 304,
+          "hp": 55,
+          "attack": 69,
+          "defense": 85,
+          "sp_attack": 32,
+          "sp_defense": 35,
+          "speed": 28
+        }
+      }
+    ]
+  },
+  {
+    "id": "713",
+    "name": "Avalugg",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Ice"
+        ],
+        "stats": {
+          "total": 514,
+          "hp": 95,
+          "attack": 117,
+          "defense": 184,
+          "sp_attack": 44,
+          "sp_defense": 46,
+          "speed": 28
+        }
+      },
+      {
+        "form": "Hisuian Avalugg",
+        "type": [
+          "Ice",
+          "Rock"
+        ],
+        "stats": {
+          "total": 514,
+          "hp": 95,
+          "attack": 127,
+          "defense": 184,
+          "sp_attack": 34,
+          "sp_defense": 36,
+          "speed": 38
+        }
+      }
+    ]
+  },
+  {
+    "id": "714",
+    "name": "Noibat",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Flying",
+          "Dragon"
+        ],
+        "stats": {
+          "total": 245,
+          "hp": 40,
+          "attack": 30,
+          "defense": 35,
+          "sp_attack": 45,
+          "sp_defense": 40,
+          "speed": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "715",
+    "name": "Noivern",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Flying",
+          "Dragon"
+        ],
+        "stats": {
+          "total": 535,
+          "hp": 85,
+          "attack": 70,
+          "defense": 80,
+          "sp_attack": 97,
+          "sp_defense": 80,
+          "speed": 123
+        }
+      }
+    ]
+  },
+  {
+    "id": "716",
+    "name": "Xerneas",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fairy"
+        ],
+        "stats": {
+          "total": 680,
+          "hp": 126,
+          "attack": 131,
+          "defense": 95,
+          "sp_attack": 131,
+          "sp_defense": 98,
+          "speed": 99
+        }
+      }
+    ]
+  },
+  {
+    "id": "717",
+    "name": "Yveltal",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Dark",
+          "Flying"
+        ],
+        "stats": {
+          "total": 680,
+          "hp": 126,
+          "attack": 131,
+          "defense": 95,
+          "sp_attack": 131,
+          "sp_defense": 98,
+          "speed": 99
+        }
+      }
+    ]
+  },
+  {
+    "id": "718",
+    "name": "Zygarde",
+    "forms": [
+      {
+        "form": "50% Forme",
+        "type": [
+          "Dragon",
+          "Ground"
+        ],
+        "stats": {
+          "total": 600,
+          "hp": 108,
+          "attack": 100,
+          "defense": 121,
+          "sp_attack": 81,
+          "sp_defense": 95,
+          "speed": 95
+        }
+      },
+      {
+        "form": "10% Forme",
+        "type": [
+          "Dragon",
+          "Ground"
+        ],
+        "stats": {
+          "total": 486,
+          "hp": 54,
+          "attack": 100,
+          "defense": 71,
+          "sp_attack": 61,
+          "sp_defense": 85,
+          "speed": 115
+        }
+      },
+      {
+        "form": "Complete Forme",
+        "type": [
+          "Dragon",
+          "Ground"
+        ],
+        "stats": {
+          "total": 708,
+          "hp": 216,
+          "attack": 100,
+          "defense": 121,
+          "sp_attack": 91,
+          "sp_defense": 95,
+          "speed": 85
+        }
+      }
+    ]
+  },
+  {
+    "id": "719",
+    "name": "Diancie",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Rock",
+          "Fairy"
+        ],
+        "stats": {
+          "total": 600,
+          "hp": 50,
+          "attack": 100,
+          "defense": 150,
+          "sp_attack": 100,
+          "sp_defense": 150,
+          "speed": 50
+        }
+      },
+      {
+        "form": "Mega Diancie",
+        "type": [
+          "Rock",
+          "Fairy"
+        ],
+        "stats": {
+          "total": 700,
+          "hp": 50,
+          "attack": 160,
+          "defense": 110,
+          "sp_attack": 160,
+          "sp_defense": 110,
+          "speed": 110
+        }
+      }
+    ]
+  },
+  {
+    "id": "720",
+    "name": "Hoopa",
+    "forms": [
+      {
+        "form": "Hoopa Confined",
+        "type": [
+          "Psychic",
+          "Ghost"
+        ],
+        "stats": {
+          "total": 600,
+          "hp": 80,
+          "attack": 110,
+          "defense": 60,
+          "sp_attack": 150,
+          "sp_defense": 130,
+          "speed": 70
+        }
+      },
+      {
+        "form": "Hoopa Unbound",
+        "type": [
+          "Psychic",
+          "Dark"
+        ],
+        "stats": {
+          "total": 680,
+          "hp": 80,
+          "attack": 160,
+          "defense": 60,
+          "sp_attack": 170,
+          "sp_defense": 130,
+          "speed": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": "721",
+    "name": "Volcanion",
+    "forms": [
+      {
+        "form": "",
+        "type": [
+          "Fire",
+          "Water"
+        ],
+        "stats": {
+          "total": 600,
+          "hp": 80,
+          "attack": 110,
+          "defense": 120,
+          "sp_attack": 130,
+          "sp_defense": 90,
+          "speed": 70
+        }
+      }
+    ]
+  }
+]
