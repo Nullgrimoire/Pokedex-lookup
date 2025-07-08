@@ -7,3 +7,4 @@ version exclusives
 maybe? spawn locations
 
 all forms single entry = current file for pokedex
+    get evolution methods, and any form divergent evolution chains
