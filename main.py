@@ -1,4 +1,5 @@
 import json
+from utils.tools import clear_console
 
 def load_pokedex(filename="pokedex.json"):
     try:
@@ -12,6 +13,7 @@ def lookup_pokemon(pokedex, name):
     if pokemon:
         print(f"\n{name.title()}, I choose you!")
         print(f"No. {pokemon['dex']}")
+        print(f"Evolution: {pokemon['Evolution']}")
     else:
         print(f"\n{name.title()} not found...")
 
@@ -20,12 +22,14 @@ def main():
     print("Welcome to Pokedex Lookup :) \n")
 
     while True:
+        #clear_console()
+        print("Options: ")
         print("\n1. Search Pokémon\n2. List All\n3. Exit")
         
-        choice = input("> ")
+        choice = input("> ").strip()
 
         if choice == "1":
-            name = input("Enter Desired Pokemon: ")
+            name = input("Enter Desired Pokemon: ").strip()
             lookup_pokemon(pokedex, name)
         elif choice == "2":
             print("\n Pokemon in Pokedex:")
