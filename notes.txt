@@ -1,3 +1,7 @@
+# Project Notes
+
+- [2024-xx-xx] Added unit tests for core logic in tests/ and improved documentation (README, type hints, docstrings).
+
 # Pokedex-lookup
 evolution lines
 generational dexes

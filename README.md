@@ -11,6 +11,8 @@ Welcome to the **Pokédex Lookup CLI**, a simple but powerful terminal tool buil
 - 🔗 See full Evolution Chains  
 - 📁 Backed by a JSON-based Pokédex database  
 - 🧼 Includes a cross-platform console clear tool
+- 🧪 Includes unit tests for core logic (see below)
+- 📝 Type hints and improved docstrings for maintainability
 
 ---
 
@@ -31,14 +33,28 @@ python main.py
 
 ---
 
+## 🧪 Running Tests
+
+This project uses `pytest` for unit testing. To run the tests:
+
+```bash
+pip install pytest
+pytest
+```
+
+Tests are located in the `tests/` directory and cover core logic such as Pokédex loading and Pokémon lookup.
+
+---
+
 ## 🧠 Project Structure
 
 ```plaintext
 .
 ├── main.py              # Main CLI script
-├── pokedex.json         # Pokémon data (Dex, Type, Evolution)
+├── pokedex/             # Pokémon data (Dex, Type, Evolution)
 ├── utils/
 │   └── tools.py         # Utility functions like clear_console()
+├── tests/               # Unit tests for core logic
 └── README.md            # This file
 ```
 

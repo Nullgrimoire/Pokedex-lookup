@@ -8,25 +8,27 @@ Author: [Nullgrimoire and Racer1428]
 """
 
 import json
+from typing import Dict, Any
 from utils.tools import clear_console
 
-def load_pokedex(filename="pokedex.json"):
+def load_pokedex(filename: str = "pokedex/pokedex.json") -> Dict[str, Any]:
     """
     Load the Pokédex data from a JSON file.
 
     Args:
-        filename (str): The name of the JSON file to load. Defaults to 'pokedex.json'.
+        filename (str): The name of the JSON file to load. Defaults to 'pokedex/pokedex.json'.
 
     Returns:
-        dict: A dictionary containing Pokémon data.
+        dict: A dictionary containing Pokémon data, keyed by Pokémon name.
     """
     try:
         with open(filename, "r") as file:
             return json.load(file)
     except FileNotFoundError:
+        print(f"Warning: {filename} not found. Returning empty Pokédex.")
         return {}
 
-def lookup_pokemon(pokedex, name):
+def lookup_pokemon(pokedex: Dict[str, Any], name: str) -> None:
     """
     Look up a Pokémon by name and print its information.
 
@@ -37,13 +39,13 @@ def lookup_pokemon(pokedex, name):
     pokemon = pokedex.get(name.title())
     if pokemon:
         print(f"\n{name.title()}, I choose you!")
-        print(f"No. {pokemon['dex']}")
-        print(f"Type: {pokemon['Type']}")
-        print(f"Evolution: {pokemon['Evolution']}")
+        print(f"No. {pokemon.get('dex', 'N/A')}")
+        print(f"Type: {pokemon.get('Type', 'Unknown')}")
+        print(f"Evolution: {pokemon.get('Evolution', 'Unknown')}")
     else:
         print(f"\n{name.title()} not found...")
 
-def main():
+def main() -> None:
     """
     Main function to run the Pokédex menu interface.
     Allows users to search for Pokémon, list all Pokémon, or exit the app.
@@ -60,10 +62,13 @@ def main():
 
         if choice == "1":
             name = input("Enter Desired Pokemon: ").strip()
+            if not name:
+                print("Please enter a Pokémon name.")
+                continue
             lookup_pokemon(pokedex, name)
         elif choice == "2":
             print("\n Pokémon in Pokedex:")
-            for name in pokedex:
+            for name in sorted(pokedex):
                 print(f"- {name}")
         elif choice == "3":
             print("Goodbye... :(")
