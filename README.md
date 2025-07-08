@@ -82,7 +82,7 @@ Evolution: Bulbasaur --> Ivysaur --> Venusaur
 ## ✨ Credits
 
 Built with ❤️ by  
-**Noah** & **Your Friend's Name**
+**Nullgrimoire** & **Racer1428**
 
 ---
 
