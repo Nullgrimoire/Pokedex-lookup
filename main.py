@@ -13,6 +13,7 @@ def lookup_pokemon(pokedex, name):
     if pokemon:
         print(f"\n{name.title()}, I choose you!")
         print(f"No. {pokemon['dex']}")
+        print(f"Type: {pokemon['Type']}")
         print(f"Evolution: {pokemon['Evolution']}")
     else:
         print(f"\n{name.title()} not found...")
