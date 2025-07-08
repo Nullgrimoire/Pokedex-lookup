@@ -5,3 +5,5 @@ version exclusives
 
 
 maybe? spawn locations
+
+all forms single entry = current file for pokedex

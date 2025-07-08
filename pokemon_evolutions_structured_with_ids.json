@@ -1,0 +1,6093 @@
+[
+  {
+    "id": [
+      "1",
+      "2",
+      "3"
+    ],
+    "line": [
+      "Bulbasaur",
+      "Ivysaur",
+      "Venusaur"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 32"
+    ]
+  },
+  {
+    "id": [
+      "4",
+      "5",
+      "6"
+    ],
+    "line": [
+      "Charmander",
+      "Charmeleon",
+      "Charizard"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "7",
+      "8",
+      "9"
+    ],
+    "line": [
+      "Squirtle",
+      "Wartortle",
+      "Blastoise"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "10",
+      "11",
+      "12"
+    ],
+    "line": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree"
+    ],
+    "conditions": [
+      "Level 7",
+      "Level 10"
+    ]
+  },
+  {
+    "id": [
+      "13",
+      "14",
+      "15"
+    ],
+    "line": [
+      "Weedle",
+      "Kakuna",
+      "Beedrill"
+    ],
+    "conditions": [
+      "Level 7",
+      "Level 10"
+    ]
+  },
+  {
+    "id": [
+      "16",
+      "17",
+      "18"
+    ],
+    "line": [
+      "Pidgey",
+      "Pidgeotto",
+      "Pidgeot"
+    ],
+    "conditions": [
+      "Level 18",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "19",
+      "20"
+    ],
+    "line": [
+      "Rattata",
+      "Raticate"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "19",
+      "20"
+    ],
+    "line": [
+      "Rattata (Alolan Rattata)",
+      "Raticate (Alolan Raticate)"
+    ],
+    "conditions": [
+      "Level 20, Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "21",
+      "22"
+    ],
+    "line": [
+      "Spearow",
+      "Fearow"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "23",
+      "24"
+    ],
+    "line": [
+      "Ekans",
+      "Arbok"
+    ],
+    "conditions": [
+      "Level 22"
+    ]
+  },
+  {
+    "id": [
+      "172",
+      "25",
+      "26",
+      "26"
+    ],
+    "line": [
+      "Pichu",
+      "Pikachu",
+      "Raichu",
+      "Raichu (Alolan Raichu)"
+    ],
+    "conditions": [
+      "high Friendship ",
+      "Thunder Stone , outside Alola",
+      "Thunder Stone , in Alola"
+    ]
+  },
+  {
+    "id": [
+      "26"
+    ],
+    "line": [
+      "Raichu"
+    ],
+    "conditions": [
+      "Thunder Stone , outside Alola"
+    ]
+  },
+  {
+    "id": [
+      "26"
+    ],
+    "line": [
+      "Raichu (Alolan Raichu)"
+    ],
+    "conditions": [
+      "Thunder Stone , in Alola"
+    ]
+  },
+  {
+    "id": [
+      "27",
+      "28"
+    ],
+    "line": [
+      "Sandshrew",
+      "Sandslash"
+    ],
+    "conditions": [
+      "Level 22"
+    ]
+  },
+  {
+    "id": [
+      "27",
+      "28"
+    ],
+    "line": [
+      "Sandshrew (Alolan Sandshrew)",
+      "Sandslash (Alolan Sandslash)"
+    ],
+    "conditions": [
+      "Ice Stone "
+    ]
+  },
+  {
+    "id": [
+      "29",
+      "30",
+      "31"
+    ],
+    "line": [
+      "Nidoran♀",
+      "Nidorina",
+      "Nidoqueen"
+    ],
+    "conditions": [
+      "Level 16",
+      "Moon Stone "
+    ]
+  },
+  {
+    "id": [
+      "32",
+      "33",
+      "34"
+    ],
+    "line": [
+      "Nidoran♂",
+      "Nidorino",
+      "Nidoking"
+    ],
+    "conditions": [
+      "Level 16",
+      "Moon Stone "
+    ]
+  },
+  {
+    "id": [
+      "173",
+      "35",
+      "36"
+    ],
+    "line": [
+      "Cleffa",
+      "Clefairy",
+      "Clefable"
+    ],
+    "conditions": [
+      "high Friendship ",
+      "Moon Stone "
+    ]
+  },
+  {
+    "id": [
+      "37",
+      "38"
+    ],
+    "line": [
+      "Vulpix",
+      "Ninetales"
+    ],
+    "conditions": [
+      "Fire Stone "
+    ]
+  },
+  {
+    "id": [
+      "37",
+      "38"
+    ],
+    "line": [
+      "Vulpix (Alolan Vulpix)",
+      "Ninetales (Alolan Ninetales)"
+    ],
+    "conditions": [
+      "Ice Stone "
+    ]
+  },
+  {
+    "id": [
+      "174",
+      "39",
+      "40"
+    ],
+    "line": [
+      "Igglybuff",
+      "Jigglypuff",
+      "Wigglytuff"
+    ],
+    "conditions": [
+      "high Friendship ",
+      "Moon Stone "
+    ]
+  },
+  {
+    "id": [
+      "41",
+      "42",
+      "169"
+    ],
+    "line": [
+      "Zubat",
+      "Golbat",
+      "Crobat"
+    ],
+    "conditions": [
+      "Level 22",
+      "high Friendship "
+    ]
+  },
+  {
+    "id": [
+      "43",
+      "44",
+      "45",
+      "182"
+    ],
+    "line": [
+      "Oddish",
+      "Gloom",
+      "Vileplume",
+      "Bellossom"
+    ],
+    "conditions": [
+      "Level 21",
+      "Leaf Stone ",
+      "Sun Stone "
+    ]
+  },
+  {
+    "id": [
+      "45"
+    ],
+    "line": [
+      "Vileplume"
+    ],
+    "conditions": [
+      "Leaf Stone "
+    ]
+  },
+  {
+    "id": [
+      "182"
+    ],
+    "line": [
+      "Bellossom"
+    ],
+    "conditions": [
+      "Sun Stone "
+    ]
+  },
+  {
+    "id": [
+      "46",
+      "47"
+    ],
+    "line": [
+      "Paras",
+      "Parasect"
+    ],
+    "conditions": [
+      "Level 24"
+    ]
+  },
+  {
+    "id": [
+      "48",
+      "49"
+    ],
+    "line": [
+      "Venonat",
+      "Venomoth"
+    ],
+    "conditions": [
+      "Level 31"
+    ]
+  },
+  {
+    "id": [
+      "50",
+      "51"
+    ],
+    "line": [
+      "Diglett",
+      "Dugtrio"
+    ],
+    "conditions": [
+      "Level 26"
+    ]
+  },
+  {
+    "id": [
+      "50",
+      "51"
+    ],
+    "line": [
+      "Diglett (Alolan Diglett)",
+      "Dugtrio (Alolan Dugtrio)"
+    ],
+    "conditions": [
+      "Level 26"
+    ]
+  },
+  {
+    "id": [
+      "52",
+      "53"
+    ],
+    "line": [
+      "Meowth",
+      "Persian"
+    ],
+    "conditions": [
+      "Level 28"
+    ]
+  },
+  {
+    "id": [
+      "52",
+      "53"
+    ],
+    "line": [
+      "Meowth (Alolan Meowth)",
+      "Persian (Alolan Persian)"
+    ],
+    "conditions": [
+      "high Friendship "
+    ]
+  },
+  {
+    "id": [
+      "52",
+      "863"
+    ],
+    "line": [
+      "Meowth (Galarian Meowth)",
+      "Perrserker"
+    ],
+    "conditions": [
+      "Level 28"
+    ]
+  },
+  {
+    "id": [
+      "54",
+      "55"
+    ],
+    "line": [
+      "Psyduck",
+      "Golduck"
+    ],
+    "conditions": [
+      "Level 33"
+    ]
+  },
+  {
+    "id": [
+      "56",
+      "57",
+      "979"
+    ],
+    "line": [
+      "Mankey",
+      "Primeape",
+      "Annihilape"
+    ],
+    "conditions": [
+      "Level 28",
+      "Use Rage Fist 20 times"
+    ]
+  },
+  {
+    "id": [
+      "58",
+      "59"
+    ],
+    "line": [
+      "Growlithe",
+      "Arcanine"
+    ],
+    "conditions": [
+      "Fire Stone "
+    ]
+  },
+  {
+    "id": [
+      "58",
+      "59"
+    ],
+    "line": [
+      "Growlithe (Hisuian Growlithe)",
+      "Arcanine (Hisuian Arcanine)"
+    ],
+    "conditions": [
+      "Fire Stone "
+    ]
+  },
+  {
+    "id": [
+      "60",
+      "61",
+      "62",
+      "186"
+    ],
+    "line": [
+      "Poliwag",
+      "Poliwhirl",
+      "Poliwrath",
+      "Politoed"
+    ],
+    "conditions": [
+      "Level 25",
+      "Water Stone ",
+      "trade holding Kings Rock "
+    ]
+  },
+  {
+    "id": [
+      "62"
+    ],
+    "line": [
+      "Poliwrath"
+    ],
+    "conditions": [
+      "Water Stone "
+    ]
+  },
+  {
+    "id": [
+      "186"
+    ],
+    "line": [
+      "Politoed"
+    ],
+    "conditions": [
+      "trade holding Kings Rock "
+    ]
+  },
+  {
+    "id": [
+      "63",
+      "64",
+      "65"
+    ],
+    "line": [
+      "Abra",
+      "Kadabra",
+      "Alakazam"
+    ],
+    "conditions": [
+      "Level 16",
+      "Trade"
+    ]
+  },
+  {
+    "id": [
+      "66",
+      "67",
+      "68"
+    ],
+    "line": [
+      "Machop",
+      "Machoke",
+      "Machamp"
+    ],
+    "conditions": [
+      "Level 28",
+      "Trade"
+    ]
+  },
+  {
+    "id": [
+      "69",
+      "70",
+      "71"
+    ],
+    "line": [
+      "Bellsprout",
+      "Weepinbell",
+      "Victreebel"
+    ],
+    "conditions": [
+      "Level 21",
+      "Leaf Stone "
+    ]
+  },
+  {
+    "id": [
+      "72",
+      "73"
+    ],
+    "line": [
+      "Tentacool",
+      "Tentacruel"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "74",
+      "75",
+      "76"
+    ],
+    "line": [
+      "Geodude",
+      "Graveler",
+      "Golem"
+    ],
+    "conditions": [
+      "Level 25",
+      "Trade"
+    ]
+  },
+  {
+    "id": [
+      "74",
+      "75",
+      "76"
+    ],
+    "line": [
+      "Geodude (Alolan Geodude)",
+      "Graveler (Alolan Graveler)",
+      "Golem (Alolan Golem)"
+    ],
+    "conditions": [
+      "Level 25",
+      "Trade"
+    ]
+  },
+  {
+    "id": [
+      "77",
+      "78"
+    ],
+    "line": [
+      "Ponyta",
+      "Rapidash"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "77",
+      "78"
+    ],
+    "line": [
+      "Ponyta (Galarian Ponyta)",
+      "Rapidash (Galarian Rapidash)"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "79",
+      "80",
+      "199"
+    ],
+    "line": [
+      "Slowpoke",
+      "Slowbro",
+      "Slowking"
+    ],
+    "conditions": [
+      "Level 37",
+      "trade holding Kings Rock "
+    ]
+  },
+  {
+    "id": [
+      "80"
+    ],
+    "line": [
+      "Slowbro"
+    ],
+    "conditions": [
+      "Level 37"
+    ]
+  },
+  {
+    "id": [
+      "199"
+    ],
+    "line": [
+      "Slowking"
+    ],
+    "conditions": [
+      "trade holding Kings Rock "
+    ]
+  },
+  {
+    "id": [
+      "79",
+      "80",
+      "199"
+    ],
+    "line": [
+      "Slowpoke (Galarian Slowpoke)",
+      "Slowbro (Galarian Slowbro)",
+      "Slowking (Galarian Slowking)"
+    ],
+    "conditions": [
+      "Galarica Cuff ",
+      "Galarica Wreath "
+    ]
+  },
+  {
+    "id": [
+      "80"
+    ],
+    "line": [
+      "Slowbro (Galarian Slowbro)"
+    ],
+    "conditions": [
+      "Galarica Cuff "
+    ]
+  },
+  {
+    "id": [
+      "199"
+    ],
+    "line": [
+      "Slowking (Galarian Slowking)"
+    ],
+    "conditions": [
+      "Galarica Wreath "
+    ]
+  },
+  {
+    "id": [
+      "81",
+      "82",
+      "462"
+    ],
+    "line": [
+      "Magnemite",
+      "Magneton",
+      "Magnezone"
+    ],
+    "conditions": [
+      "Level 30",
+      "Thunder Stone , in Gen 8+, or level up in a Magnetic Field area"
+    ]
+  },
+  {
+    "id": [
+      "84",
+      "85"
+    ],
+    "line": [
+      "Doduo",
+      "Dodrio"
+    ],
+    "conditions": [
+      "Level 31"
+    ]
+  },
+  {
+    "id": [
+      "86",
+      "87"
+    ],
+    "line": [
+      "Seel",
+      "Dewgong"
+    ],
+    "conditions": [
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "88",
+      "89"
+    ],
+    "line": [
+      "Grimer",
+      "Muk"
+    ],
+    "conditions": [
+      "Level 38"
+    ]
+  },
+  {
+    "id": [
+      "88",
+      "89"
+    ],
+    "line": [
+      "Grimer (Alolan Grimer)",
+      "Muk (Alolan Muk)"
+    ],
+    "conditions": [
+      "Level 38"
+    ]
+  },
+  {
+    "id": [
+      "90",
+      "91"
+    ],
+    "line": [
+      "Shellder",
+      "Cloyster"
+    ],
+    "conditions": [
+      "Water Stone "
+    ]
+  },
+  {
+    "id": [
+      "92",
+      "93",
+      "94"
+    ],
+    "line": [
+      "Gastly",
+      "Haunter",
+      "Gengar"
+    ],
+    "conditions": [
+      "Level 25",
+      "Trade"
+    ]
+  },
+  {
+    "id": [
+      "95",
+      "208"
+    ],
+    "line": [
+      "Onix",
+      "Steelix"
+    ],
+    "conditions": [
+      "trade holding Metal Coat "
+    ]
+  },
+  {
+    "id": [
+      "96",
+      "97"
+    ],
+    "line": [
+      "Drowzee",
+      "Hypno"
+    ],
+    "conditions": [
+      "Level 26"
+    ]
+  },
+  {
+    "id": [
+      "98",
+      "99"
+    ],
+    "line": [
+      "Krabby",
+      "Kingler"
+    ],
+    "conditions": [
+      "Level 28"
+    ]
+  },
+  {
+    "id": [
+      "100",
+      "101"
+    ],
+    "line": [
+      "Voltorb",
+      "Electrode"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "100",
+      "101"
+    ],
+    "line": [
+      "Voltorb (Hisuian Voltorb)",
+      "Electrode (Hisuian Electrode)"
+    ],
+    "conditions": [
+      "Leaf Stone "
+    ]
+  },
+  {
+    "id": [
+      "102",
+      "103",
+      "103"
+    ],
+    "line": [
+      "Exeggcute",
+      "Exeggutor",
+      "Exeggutor (Alolan Exeggutor)"
+    ],
+    "conditions": [
+      "Leaf Stone , outside Alola",
+      "Leaf Stone , in Alola"
+    ]
+  },
+  {
+    "id": [
+      "103"
+    ],
+    "line": [
+      "Exeggutor"
+    ],
+    "conditions": [
+      "Leaf Stone , outside Alola"
+    ]
+  },
+  {
+    "id": [
+      "103"
+    ],
+    "line": [
+      "Exeggutor (Alolan Exeggutor)"
+    ],
+    "conditions": [
+      "Leaf Stone , in Alola"
+    ]
+  },
+  {
+    "id": [
+      "104",
+      "105",
+      "105"
+    ],
+    "line": [
+      "Cubone",
+      "Marowak",
+      "Marowak (Alolan Marowak)"
+    ],
+    "conditions": [
+      "Level 28, outside Alola",
+      "Level 28, Nighttime, in Alola"
+    ]
+  },
+  {
+    "id": [
+      "105"
+    ],
+    "line": [
+      "Marowak"
+    ],
+    "conditions": [
+      "Level 28, outside Alola"
+    ]
+  },
+  {
+    "id": [
+      "105"
+    ],
+    "line": [
+      "Marowak (Alolan Marowak)"
+    ],
+    "conditions": [
+      "Level 28, Nighttime, in Alola"
+    ]
+  },
+  {
+    "id": [
+      "236",
+      "106",
+      "107",
+      "237"
+    ],
+    "line": [
+      "Tyrogue",
+      "Hitmonlee",
+      "Hitmonchan",
+      "Hitmontop"
+    ],
+    "conditions": [
+      "Level 20, Attack > Defense ",
+      "Level 20, Attack < Defense ",
+      "Level 20, Attack = Defense "
+    ]
+  },
+  {
+    "id": [
+      "106"
+    ],
+    "line": [
+      "Hitmonlee"
+    ],
+    "conditions": [
+      "Level 20, Attack > Defense "
+    ]
+  },
+  {
+    "id": [
+      "107"
+    ],
+    "line": [
+      "Hitmonchan"
+    ],
+    "conditions": [
+      "Level 20, Attack < Defense "
+    ]
+  },
+  {
+    "id": [
+      "237"
+    ],
+    "line": [
+      "Hitmontop"
+    ],
+    "conditions": [
+      "Level 20, Attack = Defense "
+    ]
+  },
+  {
+    "id": [
+      "108",
+      "463"
+    ],
+    "line": [
+      "Lickitung",
+      "Lickilicky"
+    ],
+    "conditions": [
+      "after Rollout learned"
+    ]
+  },
+  {
+    "id": [
+      "109",
+      "110",
+      "110"
+    ],
+    "line": [
+      "Koffing",
+      "Weezing",
+      "Weezing (Galarian Weezing)"
+    ],
+    "conditions": [
+      "Level 35, outside Galar",
+      "Level 35, in Galar"
+    ]
+  },
+  {
+    "id": [
+      "110"
+    ],
+    "line": [
+      "Weezing"
+    ],
+    "conditions": [
+      "Level 35, outside Galar"
+    ]
+  },
+  {
+    "id": [
+      "110"
+    ],
+    "line": [
+      "Weezing (Galarian Weezing)"
+    ],
+    "conditions": [
+      "Level 35, in Galar"
+    ]
+  },
+  {
+    "id": [
+      "111",
+      "112",
+      "464"
+    ],
+    "line": [
+      "Rhyhorn",
+      "Rhydon",
+      "Rhyperior"
+    ],
+    "conditions": [
+      "Level 42",
+      "trade holding Protector "
+    ]
+  },
+  {
+    "id": [
+      "440",
+      "113",
+      "242"
+    ],
+    "line": [
+      "Happiny",
+      "Chansey",
+      "Blissey"
+    ],
+    "conditions": [
+      "hold Oval Stone , Daytime",
+      "high Friendship "
+    ]
+  },
+  {
+    "id": [
+      "114",
+      "465"
+    ],
+    "line": [
+      "Tangela",
+      "Tangrowth"
+    ],
+    "conditions": [
+      "after Ancient Power learned"
+    ]
+  },
+  {
+    "id": [
+      "116",
+      "117",
+      "230"
+    ],
+    "line": [
+      "Horsea",
+      "Seadra",
+      "Kingdra"
+    ],
+    "conditions": [
+      "Level 32",
+      "trade holding Dragon Scale "
+    ]
+  },
+  {
+    "id": [
+      "118",
+      "119"
+    ],
+    "line": [
+      "Goldeen",
+      "Seaking"
+    ],
+    "conditions": [
+      "Level 33"
+    ]
+  },
+  {
+    "id": [
+      "120",
+      "121"
+    ],
+    "line": [
+      "Staryu",
+      "Starmie"
+    ],
+    "conditions": [
+      "Water Stone "
+    ]
+  },
+  {
+    "id": [
+      "439",
+      "122",
+      "122",
+      "866"
+    ],
+    "line": [
+      "Mime Jr.",
+      "Mr. Mime",
+      "Mr. Mime (Galarian Mr. Mime)",
+      "Mr. Rime"
+    ],
+    "conditions": [
+      "after Mimic learned, outside Galar",
+      "after Mimic learned, in Galar",
+      "Level 42"
+    ]
+  },
+  {
+    "id": [
+      "122"
+    ],
+    "line": [
+      "Mr. Mime"
+    ],
+    "conditions": [
+      "after Mimic learned, outside Galar"
+    ]
+  },
+  {
+    "id": [
+      "122",
+      "866"
+    ],
+    "line": [
+      "Mr. Mime (Galarian Mr. Mime)",
+      "Mr. Rime"
+    ],
+    "conditions": [
+      "after Mimic learned, in Galar",
+      "Level 42"
+    ]
+  },
+  {
+    "id": [
+      "123",
+      "212",
+      "900"
+    ],
+    "line": [
+      "Scyther",
+      "Scizor",
+      "Kleavor"
+    ],
+    "conditions": [
+      "trade holding Metal Coat ",
+      "Black Augurite "
+    ]
+  },
+  {
+    "id": [
+      "212"
+    ],
+    "line": [
+      "Scizor"
+    ],
+    "conditions": [
+      "trade holding Metal Coat "
+    ]
+  },
+  {
+    "id": [
+      "900"
+    ],
+    "line": [
+      "Kleavor"
+    ],
+    "conditions": [
+      "Black Augurite "
+    ]
+  },
+  {
+    "id": [
+      "238",
+      "124"
+    ],
+    "line": [
+      "Smoochum",
+      "Jynx"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "239",
+      "125",
+      "466"
+    ],
+    "line": [
+      "Elekid",
+      "Electabuzz",
+      "Electivire"
+    ],
+    "conditions": [
+      "Level 30",
+      "trade holding Electirizer "
+    ]
+  },
+  {
+    "id": [
+      "240",
+      "126",
+      "467"
+    ],
+    "line": [
+      "Magby",
+      "Magmar",
+      "Magmortar"
+    ],
+    "conditions": [
+      "Level 30",
+      "trade holding Magmarizer "
+    ]
+  },
+  {
+    "id": [
+      "129",
+      "130"
+    ],
+    "line": [
+      "Magikarp",
+      "Gyarados"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "133",
+      "134",
+      "135",
+      "136"
+    ],
+    "line": [
+      "Eevee",
+      "Vaporeon",
+      "Jolteon",
+      "Flareon"
+    ],
+    "conditions": [
+      "Water Stone ",
+      "Thunder Stone ",
+      "Fire Stone "
+    ]
+  },
+  {
+    "id": [
+      "134"
+    ],
+    "line": [
+      "Vaporeon"
+    ],
+    "conditions": [
+      "Water Stone "
+    ]
+  },
+  {
+    "id": [
+      "135"
+    ],
+    "line": [
+      "Jolteon"
+    ],
+    "conditions": [
+      "Thunder Stone "
+    ]
+  },
+  {
+    "id": [
+      "136"
+    ],
+    "line": [
+      "Flareon"
+    ],
+    "conditions": [
+      "Fire Stone "
+    ]
+  },
+  {
+    "id": [
+      "133",
+      "196",
+      "197"
+    ],
+    "line": [
+      "Eevee",
+      "Espeon",
+      "Umbreon"
+    ],
+    "conditions": [
+      "high Friendship , Daytime",
+      "high Friendship , Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "196"
+    ],
+    "line": [
+      "Espeon"
+    ],
+    "conditions": [
+      "high Friendship , Daytime"
+    ]
+  },
+  {
+    "id": [
+      "197"
+    ],
+    "line": [
+      "Umbreon"
+    ],
+    "conditions": [
+      "high Friendship , Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "133",
+      "470",
+      "471"
+    ],
+    "line": [
+      "Eevee",
+      "Leafeon",
+      "Glaceon"
+    ],
+    "conditions": [
+      "Leaf Stone , or level up near a Moss-rock ",
+      "Ice Stone , or level up near an Ice-rock "
+    ]
+  },
+  {
+    "id": [
+      "470"
+    ],
+    "line": [
+      "Leafeon"
+    ],
+    "conditions": [
+      "Leaf Stone , or level up near a Moss-rock "
+    ]
+  },
+  {
+    "id": [
+      "471"
+    ],
+    "line": [
+      "Glaceon"
+    ],
+    "conditions": [
+      "Ice Stone , or level up near an Ice-rock "
+    ]
+  },
+  {
+    "id": [
+      "133",
+      "700"
+    ],
+    "line": [
+      "Eevee",
+      "Sylveon"
+    ],
+    "conditions": [
+      "after Fairy-type move learned, and either ♥♥ Affection in Gen 6-7 or high friendship in Gen 8+"
+    ]
+  },
+  {
+    "id": [
+      "137",
+      "233",
+      "474"
+    ],
+    "line": [
+      "Porygon",
+      "Porygon2",
+      "Porygon-Z"
+    ],
+    "conditions": [
+      "trade holding Upgrade ",
+      "trade holding Dubious Disc "
+    ]
+  },
+  {
+    "id": [
+      "138",
+      "139"
+    ],
+    "line": [
+      "Omanyte",
+      "Omastar"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "140",
+      "141"
+    ],
+    "line": [
+      "Kabuto",
+      "Kabutops"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "446",
+      "143"
+    ],
+    "line": [
+      "Munchlax",
+      "Snorlax"
+    ],
+    "conditions": [
+      "high Friendship "
+    ]
+  },
+  {
+    "id": [
+      "147",
+      "148",
+      "149"
+    ],
+    "line": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite"
+    ],
+    "conditions": [
+      "Level 30",
+      "Level 55"
+    ]
+  },
+  {
+    "id": [
+      "152",
+      "153",
+      "154"
+    ],
+    "line": [
+      "Chikorita",
+      "Bayleef",
+      "Meganium"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 32"
+    ]
+  },
+  {
+    "id": [
+      "155",
+      "156",
+      "157",
+      "157"
+    ],
+    "line": [
+      "Cyndaquil",
+      "Quilava",
+      "Typhlosion",
+      "Typhlosion (Hisuian Typhlosion)"
+    ],
+    "conditions": [
+      "Level 14, or Level 17 in Legends: Arceus",
+      "Level 36",
+      "Level 36, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "157"
+    ],
+    "line": [
+      "Typhlosion"
+    ],
+    "conditions": [
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "157"
+    ],
+    "line": [
+      "Typhlosion (Hisuian Typhlosion)"
+    ],
+    "conditions": [
+      "Level 36, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "158",
+      "159",
+      "160"
+    ],
+    "line": [
+      "Totodile",
+      "Croconaw",
+      "Feraligatr"
+    ],
+    "conditions": [
+      "Level 18",
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "161",
+      "162"
+    ],
+    "line": [
+      "Sentret",
+      "Furret"
+    ],
+    "conditions": [
+      "Level 15"
+    ]
+  },
+  {
+    "id": [
+      "163",
+      "164"
+    ],
+    "line": [
+      "Hoothoot",
+      "Noctowl"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "165",
+      "166"
+    ],
+    "line": [
+      "Ledyba",
+      "Ledian"
+    ],
+    "conditions": [
+      "Level 18"
+    ]
+  },
+  {
+    "id": [
+      "167",
+      "168"
+    ],
+    "line": [
+      "Spinarak",
+      "Ariados"
+    ],
+    "conditions": [
+      "Level 22"
+    ]
+  },
+  {
+    "id": [
+      "170",
+      "171"
+    ],
+    "line": [
+      "Chinchou",
+      "Lanturn"
+    ],
+    "conditions": [
+      "Level 27"
+    ]
+  },
+  {
+    "id": [
+      "175",
+      "176",
+      "468"
+    ],
+    "line": [
+      "Togepi",
+      "Togetic",
+      "Togekiss"
+    ],
+    "conditions": [
+      "high Friendship ",
+      "Shiny Stone "
+    ]
+  },
+  {
+    "id": [
+      "177",
+      "178"
+    ],
+    "line": [
+      "Natu",
+      "Xatu"
+    ],
+    "conditions": [
+      "Level 25"
+    ]
+  },
+  {
+    "id": [
+      "179",
+      "180",
+      "181"
+    ],
+    "line": [
+      "Mareep",
+      "Flaaffy",
+      "Ampharos"
+    ],
+    "conditions": [
+      "Level 15",
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "298",
+      "183",
+      "184"
+    ],
+    "line": [
+      "Azurill",
+      "Marill",
+      "Azumarill"
+    ],
+    "conditions": [
+      "high Friendship ",
+      "Level 18"
+    ]
+  },
+  {
+    "id": [
+      "438",
+      "185"
+    ],
+    "line": [
+      "Bonsly",
+      "Sudowoodo"
+    ],
+    "conditions": [
+      "after Mimic learned"
+    ]
+  },
+  {
+    "id": [
+      "187",
+      "188",
+      "189"
+    ],
+    "line": [
+      "Hoppip",
+      "Skiploom",
+      "Jumpluff"
+    ],
+    "conditions": [
+      "Level 18",
+      "Level 27"
+    ]
+  },
+  {
+    "id": [
+      "190",
+      "424"
+    ],
+    "line": [
+      "Aipom",
+      "Ambipom"
+    ],
+    "conditions": [
+      "after Double Hit learned"
+    ]
+  },
+  {
+    "id": [
+      "191",
+      "192"
+    ],
+    "line": [
+      "Sunkern",
+      "Sunflora"
+    ],
+    "conditions": [
+      "Sun Stone "
+    ]
+  },
+  {
+    "id": [
+      "193",
+      "469"
+    ],
+    "line": [
+      "Yanma",
+      "Yanmega"
+    ],
+    "conditions": [
+      "after Ancient Power learned"
+    ]
+  },
+  {
+    "id": [
+      "194",
+      "195"
+    ],
+    "line": [
+      "Wooper",
+      "Quagsire"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "194",
+      "980"
+    ],
+    "line": [
+      "Wooper (Paldean Wooper)",
+      "Clodsire"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "198",
+      "430"
+    ],
+    "line": [
+      "Murkrow",
+      "Honchkrow"
+    ],
+    "conditions": [
+      "Dusk Stone "
+    ]
+  },
+  {
+    "id": [
+      "200",
+      "429"
+    ],
+    "line": [
+      "Misdreavus",
+      "Mismagius"
+    ],
+    "conditions": [
+      "Dusk Stone "
+    ]
+  },
+  {
+    "id": [
+      "360",
+      "202"
+    ],
+    "line": [
+      "Wynaut",
+      "Wobbuffet"
+    ],
+    "conditions": [
+      "Level 15"
+    ]
+  },
+  {
+    "id": [
+      "204",
+      "205"
+    ],
+    "line": [
+      "Pineco",
+      "Forretress"
+    ],
+    "conditions": [
+      "Level 31"
+    ]
+  },
+  {
+    "id": [
+      "207",
+      "472"
+    ],
+    "line": [
+      "Gligar",
+      "Gliscor"
+    ],
+    "conditions": [
+      "hold Razor Fang , Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "209",
+      "210"
+    ],
+    "line": [
+      "Snubbull",
+      "Granbull"
+    ],
+    "conditions": [
+      "Level 23"
+    ]
+  },
+  {
+    "id": [
+      "215",
+      "461"
+    ],
+    "line": [
+      "Sneasel",
+      "Weavile"
+    ],
+    "conditions": [
+      "hold Razor Claw , Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "215",
+      "903"
+    ],
+    "line": [
+      "Sneasel (Hisuian Sneasel)",
+      "Sneasler"
+    ],
+    "conditions": [
+      "Razor Claw , Daytime"
+    ]
+  },
+  {
+    "id": [
+      "216",
+      "217",
+      "901"
+    ],
+    "line": [
+      "Teddiursa",
+      "Ursaring",
+      "Ursaluna"
+    ],
+    "conditions": [
+      "Level 30",
+      "Peat Block , under a full moon, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "218",
+      "219"
+    ],
+    "line": [
+      "Slugma",
+      "Magcargo"
+    ],
+    "conditions": [
+      "Level 38"
+    ]
+  },
+  {
+    "id": [
+      "220",
+      "221",
+      "473"
+    ],
+    "line": [
+      "Swinub",
+      "Piloswine",
+      "Mamoswine"
+    ],
+    "conditions": [
+      "Level 33",
+      "after Ancient Power learned"
+    ]
+  },
+  {
+    "id": [
+      "223",
+      "224"
+    ],
+    "line": [
+      "Remoraid",
+      "Octillery"
+    ],
+    "conditions": [
+      "Level 25"
+    ]
+  },
+  {
+    "id": [
+      "458",
+      "226"
+    ],
+    "line": [
+      "Mantyke",
+      "Mantine"
+    ],
+    "conditions": [
+      "with Remoraid in party"
+    ]
+  },
+  {
+    "id": [
+      "228",
+      "229"
+    ],
+    "line": [
+      "Houndour",
+      "Houndoom"
+    ],
+    "conditions": [
+      "Level 24"
+    ]
+  },
+  {
+    "id": [
+      "231",
+      "232"
+    ],
+    "line": [
+      "Phanpy",
+      "Donphan"
+    ],
+    "conditions": [
+      "Level 25"
+    ]
+  },
+  {
+    "id": [
+      "246",
+      "247",
+      "248"
+    ],
+    "line": [
+      "Larvitar",
+      "Pupitar",
+      "Tyranitar"
+    ],
+    "conditions": [
+      "Level 30",
+      "Level 55"
+    ]
+  },
+  {
+    "id": [
+      "234",
+      "899"
+    ],
+    "line": [
+      "Stantler",
+      "Wyrdeer"
+    ],
+    "conditions": [
+      "Psyshield Bash 20 times in Agile Style"
+    ]
+  },
+  {
+    "id": [
+      "203",
+      "981"
+    ],
+    "line": [
+      "Girafarig",
+      "Farigiraf"
+    ],
+    "conditions": [
+      "after Twin Beam learned"
+    ]
+  },
+  {
+    "id": [
+      "206",
+      "982",
+      "982"
+    ],
+    "line": [
+      "Dunsparce",
+      "Dudunsparce",
+      "Dudunsparce"
+    ],
+    "conditions": [
+      "after Hyper Drill learned",
+      "after Hyper Drill learned, rare"
+    ]
+  },
+  {
+    "id": [
+      "982"
+    ],
+    "line": [
+      "Dudunsparce"
+    ],
+    "conditions": [
+      "after Hyper Drill learned"
+    ]
+  },
+  {
+    "id": [
+      "982"
+    ],
+    "line": [
+      "Dudunsparce"
+    ],
+    "conditions": [
+      "after Hyper Drill learned, rare"
+    ]
+  },
+  {
+    "id": [
+      "252",
+      "253",
+      "254"
+    ],
+    "line": [
+      "Treecko",
+      "Grovyle",
+      "Sceptile"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "255",
+      "256",
+      "257"
+    ],
+    "line": [
+      "Torchic",
+      "Combusken",
+      "Blaziken"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "258",
+      "259",
+      "260"
+    ],
+    "line": [
+      "Mudkip",
+      "Marshtomp",
+      "Swampert"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "261",
+      "262"
+    ],
+    "line": [
+      "Poochyena",
+      "Mightyena"
+    ],
+    "conditions": [
+      "Level 18"
+    ]
+  },
+  {
+    "id": [
+      "263",
+      "264"
+    ],
+    "line": [
+      "Zigzagoon",
+      "Linoone"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "263",
+      "264",
+      "862"
+    ],
+    "line": [
+      "Zigzagoon (Galarian Zigzagoon)",
+      "Linoone (Galarian Linoone)",
+      "Obstagoon"
+    ],
+    "conditions": [
+      "Level 20",
+      "Level 35, Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "265",
+      "266",
+      "267",
+      "268",
+      "269"
+    ],
+    "line": [
+      "Wurmple",
+      "Silcoon",
+      "Beautifly",
+      "Cascoon",
+      "Dustox"
+    ],
+    "conditions": [
+      "Level 7, random based on personality",
+      "Level 10",
+      "Level 7, random based on personality",
+      "Level 10"
+    ]
+  },
+  {
+    "id": [
+      "266",
+      "267"
+    ],
+    "line": [
+      "Silcoon",
+      "Beautifly"
+    ],
+    "conditions": [
+      "Level 7, random based on personality",
+      "Level 10"
+    ]
+  },
+  {
+    "id": [
+      "268",
+      "269"
+    ],
+    "line": [
+      "Cascoon",
+      "Dustox"
+    ],
+    "conditions": [
+      "Level 7, random based on personality",
+      "Level 10"
+    ]
+  },
+  {
+    "id": [
+      "270",
+      "271",
+      "272"
+    ],
+    "line": [
+      "Lotad",
+      "Lombre",
+      "Ludicolo"
+    ],
+    "conditions": [
+      "Level 14",
+      "Water Stone "
+    ]
+  },
+  {
+    "id": [
+      "273",
+      "274",
+      "275"
+    ],
+    "line": [
+      "Seedot",
+      "Nuzleaf",
+      "Shiftry"
+    ],
+    "conditions": [
+      "Level 14",
+      "Leaf Stone "
+    ]
+  },
+  {
+    "id": [
+      "276",
+      "277"
+    ],
+    "line": [
+      "Taillow",
+      "Swellow"
+    ],
+    "conditions": [
+      "Level 22"
+    ]
+  },
+  {
+    "id": [
+      "278",
+      "279"
+    ],
+    "line": [
+      "Wingull",
+      "Pelipper"
+    ],
+    "conditions": [
+      "Level 25"
+    ]
+  },
+  {
+    "id": [
+      "280",
+      "281",
+      "282",
+      "475"
+    ],
+    "line": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir",
+      "Gallade"
+    ],
+    "conditions": [
+      "Level 20",
+      "Level 30",
+      "Dawn Stone , Male"
+    ]
+  },
+  {
+    "id": [
+      "282"
+    ],
+    "line": [
+      "Gardevoir"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "475"
+    ],
+    "line": [
+      "Gallade"
+    ],
+    "conditions": [
+      "Dawn Stone , Male"
+    ]
+  },
+  {
+    "id": [
+      "283",
+      "284"
+    ],
+    "line": [
+      "Surskit",
+      "Masquerain"
+    ],
+    "conditions": [
+      "Level 22"
+    ]
+  },
+  {
+    "id": [
+      "285",
+      "286"
+    ],
+    "line": [
+      "Shroomish",
+      "Breloom"
+    ],
+    "conditions": [
+      "Level 23"
+    ]
+  },
+  {
+    "id": [
+      "287",
+      "288",
+      "289"
+    ],
+    "line": [
+      "Slakoth",
+      "Vigoroth",
+      "Slaking"
+    ],
+    "conditions": [
+      "Level 18",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "290",
+      "291",
+      "291",
+      "292"
+    ],
+    "line": [
+      "Nincada",
+      "Ninjask",
+      "Ninjask",
+      "Shedinja"
+    ],
+    "conditions": [
+      "Level 20",
+      "Level 20, empty spot in party, Pokéball in bag"
+    ]
+  },
+  {
+    "id": [
+      "291"
+    ],
+    "line": [
+      "Ninjask"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "291",
+      "292"
+    ],
+    "line": [
+      "Ninjask",
+      "Shedinja"
+    ],
+    "conditions": [
+      "Level 20, empty spot in party, Pokéball in bag"
+    ]
+  },
+  {
+    "id": [
+      "293",
+      "294",
+      "295"
+    ],
+    "line": [
+      "Whismur",
+      "Loudred",
+      "Exploud"
+    ],
+    "conditions": [
+      "Level 20",
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "296",
+      "297"
+    ],
+    "line": [
+      "Makuhita",
+      "Hariyama"
+    ],
+    "conditions": [
+      "Level 24"
+    ]
+  },
+  {
+    "id": [
+      "299",
+      "476"
+    ],
+    "line": [
+      "Nosepass",
+      "Probopass"
+    ],
+    "conditions": [
+      "Thunder Stone , in Gen 8+, or level up in a Magnetic Field area"
+    ]
+  },
+  {
+    "id": [
+      "300",
+      "301"
+    ],
+    "line": [
+      "Skitty",
+      "Delcatty"
+    ],
+    "conditions": [
+      "Moon Stone "
+    ]
+  },
+  {
+    "id": [
+      "304",
+      "305",
+      "306"
+    ],
+    "line": [
+      "Aron",
+      "Lairon",
+      "Aggron"
+    ],
+    "conditions": [
+      "Level 32",
+      "Level 42"
+    ]
+  },
+  {
+    "id": [
+      "307",
+      "308"
+    ],
+    "line": [
+      "Meditite",
+      "Medicham"
+    ],
+    "conditions": [
+      "Level 37"
+    ]
+  },
+  {
+    "id": [
+      "309",
+      "310"
+    ],
+    "line": [
+      "Electrike",
+      "Manectric"
+    ],
+    "conditions": [
+      "Level 26"
+    ]
+  },
+  {
+    "id": [
+      "406",
+      "315",
+      "407"
+    ],
+    "line": [
+      "Budew",
+      "Roselia",
+      "Roserade"
+    ],
+    "conditions": [
+      "high Friendship , Daytime",
+      "Shiny Stone "
+    ]
+  },
+  {
+    "id": [
+      "316",
+      "317"
+    ],
+    "line": [
+      "Gulpin",
+      "Swalot"
+    ],
+    "conditions": [
+      "Level 26"
+    ]
+  },
+  {
+    "id": [
+      "318",
+      "319"
+    ],
+    "line": [
+      "Carvanha",
+      "Sharpedo"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "320",
+      "321"
+    ],
+    "line": [
+      "Wailmer",
+      "Wailord"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "322",
+      "323"
+    ],
+    "line": [
+      "Numel",
+      "Camerupt"
+    ],
+    "conditions": [
+      "Level 33"
+    ]
+  },
+  {
+    "id": [
+      "325",
+      "326"
+    ],
+    "line": [
+      "Spoink",
+      "Grumpig"
+    ],
+    "conditions": [
+      "Level 32"
+    ]
+  },
+  {
+    "id": [
+      "328",
+      "329",
+      "330"
+    ],
+    "line": [
+      "Trapinch",
+      "Vibrava",
+      "Flygon"
+    ],
+    "conditions": [
+      "Level 35",
+      "Level 45"
+    ]
+  },
+  {
+    "id": [
+      "331",
+      "332"
+    ],
+    "line": [
+      "Cacnea",
+      "Cacturne"
+    ],
+    "conditions": [
+      "Level 32"
+    ]
+  },
+  {
+    "id": [
+      "333",
+      "334"
+    ],
+    "line": [
+      "Swablu",
+      "Altaria"
+    ],
+    "conditions": [
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "339",
+      "340"
+    ],
+    "line": [
+      "Barboach",
+      "Whiscash"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "341",
+      "342"
+    ],
+    "line": [
+      "Corphish",
+      "Crawdaunt"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "343",
+      "344"
+    ],
+    "line": [
+      "Baltoy",
+      "Claydol"
+    ],
+    "conditions": [
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "345",
+      "346"
+    ],
+    "line": [
+      "Lileep",
+      "Cradily"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "347",
+      "348"
+    ],
+    "line": [
+      "Anorith",
+      "Armaldo"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "349",
+      "350"
+    ],
+    "line": [
+      "Feebas",
+      "Milotic"
+    ],
+    "conditions": [
+      "trade holding Prism Scale , or level up with max Beauty"
+    ]
+  },
+  {
+    "id": [
+      "353",
+      "354"
+    ],
+    "line": [
+      "Shuppet",
+      "Banette"
+    ],
+    "conditions": [
+      "Level 37"
+    ]
+  },
+  {
+    "id": [
+      "355",
+      "356",
+      "477"
+    ],
+    "line": [
+      "Duskull",
+      "Dusclops",
+      "Dusknoir"
+    ],
+    "conditions": [
+      "Level 37",
+      "trade holding Reaper Cloth "
+    ]
+  },
+  {
+    "id": [
+      "433",
+      "358"
+    ],
+    "line": [
+      "Chingling",
+      "Chimecho"
+    ],
+    "conditions": [
+      "high Friendship , Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "361",
+      "362",
+      "478"
+    ],
+    "line": [
+      "Snorunt",
+      "Glalie",
+      "Froslass"
+    ],
+    "conditions": [
+      "Level 42",
+      "Dawn Stone , Female"
+    ]
+  },
+  {
+    "id": [
+      "362"
+    ],
+    "line": [
+      "Glalie"
+    ],
+    "conditions": [
+      "Level 42"
+    ]
+  },
+  {
+    "id": [
+      "478"
+    ],
+    "line": [
+      "Froslass"
+    ],
+    "conditions": [
+      "Dawn Stone , Female"
+    ]
+  },
+  {
+    "id": [
+      "363",
+      "364",
+      "365"
+    ],
+    "line": [
+      "Spheal",
+      "Sealeo",
+      "Walrein"
+    ],
+    "conditions": [
+      "Level 32",
+      "Level 44"
+    ]
+  },
+  {
+    "id": [
+      "366",
+      "367",
+      "368"
+    ],
+    "line": [
+      "Clamperl",
+      "Huntail",
+      "Gorebyss"
+    ],
+    "conditions": [
+      "trade holding Deep Sea Tooth ",
+      "trade holding Deep Sea Scale "
+    ]
+  },
+  {
+    "id": [
+      "367"
+    ],
+    "line": [
+      "Huntail"
+    ],
+    "conditions": [
+      "trade holding Deep Sea Tooth "
+    ]
+  },
+  {
+    "id": [
+      "368"
+    ],
+    "line": [
+      "Gorebyss"
+    ],
+    "conditions": [
+      "trade holding Deep Sea Scale "
+    ]
+  },
+  {
+    "id": [
+      "371",
+      "372",
+      "373"
+    ],
+    "line": [
+      "Bagon",
+      "Shelgon",
+      "Salamence"
+    ],
+    "conditions": [
+      "Level 30",
+      "Level 50"
+    ]
+  },
+  {
+    "id": [
+      "374",
+      "375",
+      "376"
+    ],
+    "line": [
+      "Beldum",
+      "Metang",
+      "Metagross"
+    ],
+    "conditions": [
+      "Level 20",
+      "Level 45"
+    ]
+  },
+  {
+    "id": [
+      "387",
+      "388",
+      "389"
+    ],
+    "line": [
+      "Turtwig",
+      "Grotle",
+      "Torterra"
+    ],
+    "conditions": [
+      "Level 18",
+      "Level 32"
+    ]
+  },
+  {
+    "id": [
+      "390",
+      "391",
+      "392"
+    ],
+    "line": [
+      "Chimchar",
+      "Monferno",
+      "Infernape"
+    ],
+    "conditions": [
+      "Level 14",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "393",
+      "394",
+      "395"
+    ],
+    "line": [
+      "Piplup",
+      "Prinplup",
+      "Empoleon"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "396",
+      "397",
+      "398"
+    ],
+    "line": [
+      "Starly",
+      "Staravia",
+      "Staraptor"
+    ],
+    "conditions": [
+      "Level 14",
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "399",
+      "400"
+    ],
+    "line": [
+      "Bidoof",
+      "Bibarel"
+    ],
+    "conditions": [
+      "Level 15"
+    ]
+  },
+  {
+    "id": [
+      "401",
+      "402"
+    ],
+    "line": [
+      "Kricketot",
+      "Kricketune"
+    ],
+    "conditions": [
+      "Level 10"
+    ]
+  },
+  {
+    "id": [
+      "403",
+      "404",
+      "405"
+    ],
+    "line": [
+      "Shinx",
+      "Luxio",
+      "Luxray"
+    ],
+    "conditions": [
+      "Level 15",
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "408",
+      "409"
+    ],
+    "line": [
+      "Cranidos",
+      "Rampardos"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "410",
+      "411"
+    ],
+    "line": [
+      "Shieldon",
+      "Bastiodon"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "412",
+      "414"
+    ],
+    "line": [
+      "Burmy",
+      "Mothim"
+    ],
+    "conditions": [
+      "Level 20, Male"
+    ]
+  },
+  {
+    "id": [
+      "412",
+      "413"
+    ],
+    "line": [
+      "Burmy",
+      "Wormadam"
+    ],
+    "conditions": [
+      "Level 20, Female, in grass"
+    ]
+  },
+  {
+    "id": [
+      "412",
+      "413"
+    ],
+    "line": [
+      "Burmy",
+      "Wormadam"
+    ],
+    "conditions": [
+      "Level 20, Female, in caves"
+    ]
+  },
+  {
+    "id": [
+      "412",
+      "413"
+    ],
+    "line": [
+      "Burmy",
+      "Wormadam"
+    ],
+    "conditions": [
+      "Level 20, Female, in buildings"
+    ]
+  },
+  {
+    "id": [
+      "415",
+      "416"
+    ],
+    "line": [
+      "Combee",
+      "Vespiquen"
+    ],
+    "conditions": [
+      "Level 21, Female"
+    ]
+  },
+  {
+    "id": [
+      "418",
+      "419"
+    ],
+    "line": [
+      "Buizel",
+      "Floatzel"
+    ],
+    "conditions": [
+      "Level 26"
+    ]
+  },
+  {
+    "id": [
+      "420",
+      "421"
+    ],
+    "line": [
+      "Cherubi",
+      "Cherrim"
+    ],
+    "conditions": [
+      "Level 25"
+    ]
+  },
+  {
+    "id": [
+      "422",
+      "423"
+    ],
+    "line": [
+      "Shellos",
+      "Gastrodon"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "425",
+      "426"
+    ],
+    "line": [
+      "Drifloon",
+      "Drifblim"
+    ],
+    "conditions": [
+      "Level 28"
+    ]
+  },
+  {
+    "id": [
+      "427",
+      "428"
+    ],
+    "line": [
+      "Buneary",
+      "Lopunny"
+    ],
+    "conditions": [
+      "high Friendship "
+    ]
+  },
+  {
+    "id": [
+      "431",
+      "432"
+    ],
+    "line": [
+      "Glameow",
+      "Purugly"
+    ],
+    "conditions": [
+      "Level 38"
+    ]
+  },
+  {
+    "id": [
+      "434",
+      "435"
+    ],
+    "line": [
+      "Stunky",
+      "Skuntank"
+    ],
+    "conditions": [
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "436",
+      "437"
+    ],
+    "line": [
+      "Bronzor",
+      "Bronzong"
+    ],
+    "conditions": [
+      "Level 33"
+    ]
+  },
+  {
+    "id": [
+      "443",
+      "444",
+      "445"
+    ],
+    "line": [
+      "Gible",
+      "Gabite",
+      "Garchomp"
+    ],
+    "conditions": [
+      "Level 24",
+      "Level 48"
+    ]
+  },
+  {
+    "id": [
+      "447",
+      "448"
+    ],
+    "line": [
+      "Riolu",
+      "Lucario"
+    ],
+    "conditions": [
+      "high Friendship , Daytime"
+    ]
+  },
+  {
+    "id": [
+      "449",
+      "450"
+    ],
+    "line": [
+      "Hippopotas",
+      "Hippowdon"
+    ],
+    "conditions": [
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "451",
+      "452"
+    ],
+    "line": [
+      "Skorupi",
+      "Drapion"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "453",
+      "454"
+    ],
+    "line": [
+      "Croagunk",
+      "Toxicroak"
+    ],
+    "conditions": [
+      "Level 37"
+    ]
+  },
+  {
+    "id": [
+      "456",
+      "457"
+    ],
+    "line": [
+      "Finneon",
+      "Lumineon"
+    ],
+    "conditions": [
+      "Level 31"
+    ]
+  },
+  {
+    "id": [
+      "459",
+      "460"
+    ],
+    "line": [
+      "Snover",
+      "Abomasnow"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "495",
+      "496",
+      "497"
+    ],
+    "line": [
+      "Snivy",
+      "Servine",
+      "Serperior"
+    ],
+    "conditions": [
+      "Level 17",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "498",
+      "499",
+      "500"
+    ],
+    "line": [
+      "Tepig",
+      "Pignite",
+      "Emboar"
+    ],
+    "conditions": [
+      "Level 17",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "501",
+      "502",
+      "503",
+      "503"
+    ],
+    "line": [
+      "Oshawott",
+      "Dewott",
+      "Samurott",
+      "Samurott (Hisuian Samurott)"
+    ],
+    "conditions": [
+      "Level 17",
+      "Level 36",
+      "Level 36, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "503"
+    ],
+    "line": [
+      "Samurott"
+    ],
+    "conditions": [
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "503"
+    ],
+    "line": [
+      "Samurott (Hisuian Samurott)"
+    ],
+    "conditions": [
+      "Level 36, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "504",
+      "505"
+    ],
+    "line": [
+      "Patrat",
+      "Watchog"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "506",
+      "507",
+      "508"
+    ],
+    "line": [
+      "Lillipup",
+      "Herdier",
+      "Stoutland"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 32"
+    ]
+  },
+  {
+    "id": [
+      "509",
+      "510"
+    ],
+    "line": [
+      "Purrloin",
+      "Liepard"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "511",
+      "512"
+    ],
+    "line": [
+      "Pansage",
+      "Simisage"
+    ],
+    "conditions": [
+      "Leaf Stone "
+    ]
+  },
+  {
+    "id": [
+      "513",
+      "514"
+    ],
+    "line": [
+      "Pansear",
+      "Simisear"
+    ],
+    "conditions": [
+      "Fire Stone "
+    ]
+  },
+  {
+    "id": [
+      "515",
+      "516"
+    ],
+    "line": [
+      "Panpour",
+      "Simipour"
+    ],
+    "conditions": [
+      "Water Stone "
+    ]
+  },
+  {
+    "id": [
+      "517",
+      "518"
+    ],
+    "line": [
+      "Munna",
+      "Musharna"
+    ],
+    "conditions": [
+      "Moon Stone "
+    ]
+  },
+  {
+    "id": [
+      "519",
+      "520",
+      "521"
+    ],
+    "line": [
+      "Pidove",
+      "Tranquill",
+      "Unfezant"
+    ],
+    "conditions": [
+      "Level 21",
+      "Level 32"
+    ]
+  },
+  {
+    "id": [
+      "522",
+      "523"
+    ],
+    "line": [
+      "Blitzle",
+      "Zebstrika"
+    ],
+    "conditions": [
+      "Level 27"
+    ]
+  },
+  {
+    "id": [
+      "524",
+      "525",
+      "526"
+    ],
+    "line": [
+      "Roggenrola",
+      "Boldore",
+      "Gigalith"
+    ],
+    "conditions": [
+      "Level 25",
+      "Trade"
+    ]
+  },
+  {
+    "id": [
+      "527",
+      "528"
+    ],
+    "line": [
+      "Woobat",
+      "Swoobat"
+    ],
+    "conditions": [
+      "high Friendship "
+    ]
+  },
+  {
+    "id": [
+      "529",
+      "530"
+    ],
+    "line": [
+      "Drilbur",
+      "Excadrill"
+    ],
+    "conditions": [
+      "Level 31"
+    ]
+  },
+  {
+    "id": [
+      "532",
+      "533",
+      "534"
+    ],
+    "line": [
+      "Timburr",
+      "Gurdurr",
+      "Conkeldurr"
+    ],
+    "conditions": [
+      "Level 25",
+      "Trade"
+    ]
+  },
+  {
+    "id": [
+      "535",
+      "536",
+      "537"
+    ],
+    "line": [
+      "Tympole",
+      "Palpitoad",
+      "Seismitoad"
+    ],
+    "conditions": [
+      "Level 25",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "540",
+      "541",
+      "542"
+    ],
+    "line": [
+      "Sewaddle",
+      "Swadloon",
+      "Leavanny"
+    ],
+    "conditions": [
+      "Level 20",
+      "high Friendship "
+    ]
+  },
+  {
+    "id": [
+      "543",
+      "544",
+      "545"
+    ],
+    "line": [
+      "Venipede",
+      "Whirlipede",
+      "Scolipede"
+    ],
+    "conditions": [
+      "Level 22",
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "546",
+      "547"
+    ],
+    "line": [
+      "Cottonee",
+      "Whimsicott"
+    ],
+    "conditions": [
+      "Sun Stone "
+    ]
+  },
+  {
+    "id": [
+      "548",
+      "549",
+      "549"
+    ],
+    "line": [
+      "Petilil",
+      "Lilligant",
+      "Lilligant (Hisuian Lilligant)"
+    ],
+    "conditions": [
+      "Sun Stone ",
+      "Sun Stone , in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "549"
+    ],
+    "line": [
+      "Lilligant"
+    ],
+    "conditions": [
+      "Sun Stone "
+    ]
+  },
+  {
+    "id": [
+      "549"
+    ],
+    "line": [
+      "Lilligant (Hisuian Lilligant)"
+    ],
+    "conditions": [
+      "Sun Stone , in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "551",
+      "552",
+      "553"
+    ],
+    "line": [
+      "Sandile",
+      "Krokorok",
+      "Krookodile"
+    ],
+    "conditions": [
+      "Level 29",
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "554",
+      "555"
+    ],
+    "line": [
+      "Darumaka",
+      "Darmanitan"
+    ],
+    "conditions": [
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "554",
+      "555"
+    ],
+    "line": [
+      "Darumaka (Galarian Darumaka)",
+      "Darmanitan (Galarian Standard Mode)"
+    ],
+    "conditions": [
+      "Ice Stone "
+    ]
+  },
+  {
+    "id": [
+      "557",
+      "558"
+    ],
+    "line": [
+      "Dwebble",
+      "Crustle"
+    ],
+    "conditions": [
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "559",
+      "560"
+    ],
+    "line": [
+      "Scraggy",
+      "Scrafty"
+    ],
+    "conditions": [
+      "Level 39"
+    ]
+  },
+  {
+    "id": [
+      "562",
+      "563"
+    ],
+    "line": [
+      "Yamask",
+      "Cofagrigus"
+    ],
+    "conditions": [
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "562",
+      "867"
+    ],
+    "line": [
+      "Yamask (Galarian Yamask)",
+      "Runerigus"
+    ],
+    "conditions": [
+      "near Dusty Bowl"
+    ]
+  },
+  {
+    "id": [
+      "564",
+      "565"
+    ],
+    "line": [
+      "Tirtouga",
+      "Carracosta"
+    ],
+    "conditions": [
+      "Level 37"
+    ]
+  },
+  {
+    "id": [
+      "566",
+      "567"
+    ],
+    "line": [
+      "Archen",
+      "Archeops"
+    ],
+    "conditions": [
+      "Level 37"
+    ]
+  },
+  {
+    "id": [
+      "568",
+      "569"
+    ],
+    "line": [
+      "Trubbish",
+      "Garbodor"
+    ],
+    "conditions": [
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "570",
+      "571"
+    ],
+    "line": [
+      "Zorua",
+      "Zoroark"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "570",
+      "571"
+    ],
+    "line": [
+      "Zorua (Hisuian Zorua)",
+      "Zoroark (Hisuian Zoroark)"
+    ],
+    "conditions": [
+      "Level 30, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "572",
+      "573"
+    ],
+    "line": [
+      "Minccino",
+      "Cinccino"
+    ],
+    "conditions": [
+      "Shiny Stone "
+    ]
+  },
+  {
+    "id": [
+      "574",
+      "575",
+      "576"
+    ],
+    "line": [
+      "Gothita",
+      "Gothorita",
+      "Gothitelle"
+    ],
+    "conditions": [
+      "Level 32",
+      "Level 41"
+    ]
+  },
+  {
+    "id": [
+      "577",
+      "578",
+      "579"
+    ],
+    "line": [
+      "Solosis",
+      "Duosion",
+      "Reuniclus"
+    ],
+    "conditions": [
+      "Level 32",
+      "Level 41"
+    ]
+  },
+  {
+    "id": [
+      "580",
+      "581"
+    ],
+    "line": [
+      "Ducklett",
+      "Swanna"
+    ],
+    "conditions": [
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "582",
+      "583",
+      "584"
+    ],
+    "line": [
+      "Vanillite",
+      "Vanillish",
+      "Vanilluxe"
+    ],
+    "conditions": [
+      "Level 35",
+      "Level 47"
+    ]
+  },
+  {
+    "id": [
+      "585",
+      "586"
+    ],
+    "line": [
+      "Deerling",
+      "Sawsbuck"
+    ],
+    "conditions": [
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "588",
+      "589"
+    ],
+    "line": [
+      "Karrablast",
+      "Escavalier"
+    ],
+    "conditions": [
+      "Trade with Shelmet "
+    ]
+  },
+  {
+    "id": [
+      "590",
+      "591"
+    ],
+    "line": [
+      "Foongus",
+      "Amoonguss"
+    ],
+    "conditions": [
+      "Level 39"
+    ]
+  },
+  {
+    "id": [
+      "592",
+      "593"
+    ],
+    "line": [
+      "Frillish",
+      "Jellicent"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "595",
+      "596"
+    ],
+    "line": [
+      "Joltik",
+      "Galvantula"
+    ],
+    "conditions": [
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "597",
+      "598"
+    ],
+    "line": [
+      "Ferroseed",
+      "Ferrothorn"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "599",
+      "600",
+      "601"
+    ],
+    "line": [
+      "Klink",
+      "Klang",
+      "Klinklang"
+    ],
+    "conditions": [
+      "Level 38",
+      "Level 49"
+    ]
+  },
+  {
+    "id": [
+      "602",
+      "603",
+      "604"
+    ],
+    "line": [
+      "Tynamo",
+      "Eelektrik",
+      "Eelektross"
+    ],
+    "conditions": [
+      "Level 39",
+      "Thunder Stone "
+    ]
+  },
+  {
+    "id": [
+      "605",
+      "606"
+    ],
+    "line": [
+      "Elgyem",
+      "Beheeyem"
+    ],
+    "conditions": [
+      "Level 42"
+    ]
+  },
+  {
+    "id": [
+      "607",
+      "608",
+      "609"
+    ],
+    "line": [
+      "Litwick",
+      "Lampent",
+      "Chandelure"
+    ],
+    "conditions": [
+      "Level 41",
+      "Dusk Stone "
+    ]
+  },
+  {
+    "id": [
+      "610",
+      "611",
+      "612"
+    ],
+    "line": [
+      "Axew",
+      "Fraxure",
+      "Haxorus"
+    ],
+    "conditions": [
+      "Level 38",
+      "Level 48"
+    ]
+  },
+  {
+    "id": [
+      "613",
+      "614"
+    ],
+    "line": [
+      "Cubchoo",
+      "Beartic"
+    ],
+    "conditions": [
+      "Level 37"
+    ]
+  },
+  {
+    "id": [
+      "616",
+      "617"
+    ],
+    "line": [
+      "Shelmet",
+      "Accelgor"
+    ],
+    "conditions": [
+      "Trade with Karrablast "
+    ]
+  },
+  {
+    "id": [
+      "619",
+      "620"
+    ],
+    "line": [
+      "Mienfoo",
+      "Mienshao"
+    ],
+    "conditions": [
+      "Level 50"
+    ]
+  },
+  {
+    "id": [
+      "622",
+      "623"
+    ],
+    "line": [
+      "Golett",
+      "Golurk"
+    ],
+    "conditions": [
+      "Level 43"
+    ]
+  },
+  {
+    "id": [
+      "624",
+      "625",
+      "983"
+    ],
+    "line": [
+      "Pawniard",
+      "Bisharp",
+      "Kingambit"
+    ],
+    "conditions": [
+      "Level 52",
+      "defeat 3 Bisharp that are holding Leader's Crest"
+    ]
+  },
+  {
+    "id": [
+      "627",
+      "628",
+      "628"
+    ],
+    "line": [
+      "Rufflet",
+      "Braviary",
+      "Braviary (Hisuian Braviary)"
+    ],
+    "conditions": [
+      "Level 54",
+      "Level 54, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "628"
+    ],
+    "line": [
+      "Braviary"
+    ],
+    "conditions": [
+      "Level 54"
+    ]
+  },
+  {
+    "id": [
+      "628"
+    ],
+    "line": [
+      "Braviary (Hisuian Braviary)"
+    ],
+    "conditions": [
+      "Level 54, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "629",
+      "630"
+    ],
+    "line": [
+      "Vullaby",
+      "Mandibuzz"
+    ],
+    "conditions": [
+      "Level 54"
+    ]
+  },
+  {
+    "id": [
+      "633",
+      "634",
+      "635"
+    ],
+    "line": [
+      "Deino",
+      "Zweilous",
+      "Hydreigon"
+    ],
+    "conditions": [
+      "Level 50",
+      "Level 64"
+    ]
+  },
+  {
+    "id": [
+      "636",
+      "637"
+    ],
+    "line": [
+      "Larvesta",
+      "Volcarona"
+    ],
+    "conditions": [
+      "Level 59"
+    ]
+  },
+  {
+    "id": [
+      "650",
+      "651",
+      "652"
+    ],
+    "line": [
+      "Chespin",
+      "Quilladin",
+      "Chesnaught"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "653",
+      "654",
+      "655"
+    ],
+    "line": [
+      "Fennekin",
+      "Braixen",
+      "Delphox"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "656",
+      "657",
+      "658"
+    ],
+    "line": [
+      "Froakie",
+      "Frogadier",
+      "Greninja"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "659",
+      "660"
+    ],
+    "line": [
+      "Bunnelby",
+      "Diggersby"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "661",
+      "662",
+      "663"
+    ],
+    "line": [
+      "Fletchling",
+      "Fletchinder",
+      "Talonflame"
+    ],
+    "conditions": [
+      "Level 17",
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "664",
+      "665",
+      "666"
+    ],
+    "line": [
+      "Scatterbug",
+      "Spewpa",
+      "Vivillon"
+    ],
+    "conditions": [
+      "Level 9",
+      "Level 12"
+    ]
+  },
+  {
+    "id": [
+      "667",
+      "668"
+    ],
+    "line": [
+      "Litleo",
+      "Pyroar"
+    ],
+    "conditions": [
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "669",
+      "670",
+      "671"
+    ],
+    "line": [
+      "Flabébé",
+      "Floette",
+      "Florges"
+    ],
+    "conditions": [
+      "Level 19",
+      "Shiny Stone "
+    ]
+  },
+  {
+    "id": [
+      "672",
+      "673"
+    ],
+    "line": [
+      "Skiddo",
+      "Gogoat"
+    ],
+    "conditions": [
+      "Level 32"
+    ]
+  },
+  {
+    "id": [
+      "674",
+      "675"
+    ],
+    "line": [
+      "Pancham",
+      "Pangoro"
+    ],
+    "conditions": [
+      "Level 32, Dark type Pokémon in party"
+    ]
+  },
+  {
+    "id": [
+      "677",
+      "678",
+      "678"
+    ],
+    "line": [
+      "Espurr",
+      "Meowstic",
+      "Meowstic"
+    ],
+    "conditions": [
+      "Level 25, Male",
+      "Level 25, Female"
+    ]
+  },
+  {
+    "id": [
+      "678"
+    ],
+    "line": [
+      "Meowstic"
+    ],
+    "conditions": [
+      "Level 25, Male"
+    ]
+  },
+  {
+    "id": [
+      "678"
+    ],
+    "line": [
+      "Meowstic"
+    ],
+    "conditions": [
+      "Level 25, Female"
+    ]
+  },
+  {
+    "id": [
+      "679",
+      "680",
+      "681"
+    ],
+    "line": [
+      "Honedge",
+      "Doublade",
+      "Aegislash"
+    ],
+    "conditions": [
+      "Level 35",
+      "Dusk Stone "
+    ]
+  },
+  {
+    "id": [
+      "682",
+      "683"
+    ],
+    "line": [
+      "Spritzee",
+      "Aromatisse"
+    ],
+    "conditions": [
+      "trade holding Sachet "
+    ]
+  },
+  {
+    "id": [
+      "684",
+      "685"
+    ],
+    "line": [
+      "Swirlix",
+      "Slurpuff"
+    ],
+    "conditions": [
+      "trade holding Whipped Dream "
+    ]
+  },
+  {
+    "id": [
+      "686",
+      "687"
+    ],
+    "line": [
+      "Inkay",
+      "Malamar"
+    ],
+    "conditions": [
+      "Level 30, holding console upside down"
+    ]
+  },
+  {
+    "id": [
+      "688",
+      "689"
+    ],
+    "line": [
+      "Binacle",
+      "Barbaracle"
+    ],
+    "conditions": [
+      "Level 39"
+    ]
+  },
+  {
+    "id": [
+      "690",
+      "691"
+    ],
+    "line": [
+      "Skrelp",
+      "Dragalge"
+    ],
+    "conditions": [
+      "Level 48"
+    ]
+  },
+  {
+    "id": [
+      "692",
+      "693"
+    ],
+    "line": [
+      "Clauncher",
+      "Clawitzer"
+    ],
+    "conditions": [
+      "Level 37"
+    ]
+  },
+  {
+    "id": [
+      "694",
+      "695"
+    ],
+    "line": [
+      "Helioptile",
+      "Heliolisk"
+    ],
+    "conditions": [
+      "Sun Stone "
+    ]
+  },
+  {
+    "id": [
+      "696",
+      "697"
+    ],
+    "line": [
+      "Tyrunt",
+      "Tyrantrum"
+    ],
+    "conditions": [
+      "Level 39, Daytime"
+    ]
+  },
+  {
+    "id": [
+      "698",
+      "699"
+    ],
+    "line": [
+      "Amaura",
+      "Aurorus"
+    ],
+    "conditions": [
+      "Level 39, Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "704",
+      "705",
+      "706",
+      "705",
+      "706"
+    ],
+    "line": [
+      "Goomy",
+      "Sliggoo",
+      "Goodra",
+      "Sliggoo (Hisuian Sliggoo)",
+      "Goodra (Hisuian Goodra)"
+    ],
+    "conditions": [
+      "Level 40",
+      "Level 50, during rain",
+      "Level 40, in Legends: Arceus",
+      "Level 50, during rain, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "705",
+      "706"
+    ],
+    "line": [
+      "Sliggoo",
+      "Goodra"
+    ],
+    "conditions": [
+      "Level 40",
+      "Level 50, during rain"
+    ]
+  },
+  {
+    "id": [
+      "705",
+      "706"
+    ],
+    "line": [
+      "Sliggoo (Hisuian Sliggoo)",
+      "Goodra (Hisuian Goodra)"
+    ],
+    "conditions": [
+      "Level 40, in Legends: Arceus",
+      "Level 50, during rain, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "708",
+      "709"
+    ],
+    "line": [
+      "Phantump",
+      "Trevenant"
+    ],
+    "conditions": [
+      "Trade"
+    ]
+  },
+  {
+    "id": [
+      "710",
+      "711"
+    ],
+    "line": [
+      "Pumpkaboo",
+      "Gourgeist"
+    ],
+    "conditions": [
+      "Trade"
+    ]
+  },
+  {
+    "id": [
+      "712",
+      "713",
+      "713"
+    ],
+    "line": [
+      "Bergmite",
+      "Avalugg",
+      "Avalugg (Hisuian Avalugg)"
+    ],
+    "conditions": [
+      "Level 37",
+      "Level 37, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "713"
+    ],
+    "line": [
+      "Avalugg"
+    ],
+    "conditions": [
+      "Level 37"
+    ]
+  },
+  {
+    "id": [
+      "713"
+    ],
+    "line": [
+      "Avalugg (Hisuian Avalugg)"
+    ],
+    "conditions": [
+      "Level 37, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "714",
+      "715"
+    ],
+    "line": [
+      "Noibat",
+      "Noivern"
+    ],
+    "conditions": [
+      "Level 48"
+    ]
+  },
+  {
+    "id": [
+      "722",
+      "723",
+      "724",
+      "724"
+    ],
+    "line": [
+      "Rowlet",
+      "Dartrix",
+      "Decidueye",
+      "Decidueye (Hisuian Decidueye)"
+    ],
+    "conditions": [
+      "Level 17",
+      "Level 34",
+      "Level 36, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "724"
+    ],
+    "line": [
+      "Decidueye"
+    ],
+    "conditions": [
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "724"
+    ],
+    "line": [
+      "Decidueye (Hisuian Decidueye)"
+    ],
+    "conditions": [
+      "Level 36, in Legends: Arceus"
+    ]
+  },
+  {
+    "id": [
+      "725",
+      "726",
+      "727"
+    ],
+    "line": [
+      "Litten",
+      "Torracat",
+      "Incineroar"
+    ],
+    "conditions": [
+      "Level 17",
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "728",
+      "729",
+      "730"
+    ],
+    "line": [
+      "Popplio",
+      "Brionne",
+      "Primarina"
+    ],
+    "conditions": [
+      "Level 17",
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "731",
+      "732",
+      "733"
+    ],
+    "line": [
+      "Pikipek",
+      "Trumbeak",
+      "Toucannon"
+    ],
+    "conditions": [
+      "Level 14",
+      "Level 28"
+    ]
+  },
+  {
+    "id": [
+      "734",
+      "735"
+    ],
+    "line": [
+      "Yungoos",
+      "Gumshoos"
+    ],
+    "conditions": [
+      "Level 20, Daytime"
+    ]
+  },
+  {
+    "id": [
+      "736",
+      "737",
+      "738"
+    ],
+    "line": [
+      "Grubbin",
+      "Charjabug",
+      "Vikavolt"
+    ],
+    "conditions": [
+      "Level 20",
+      "Thunder Stone , in Gen 8+, or level up in a Magnetic Field area"
+    ]
+  },
+  {
+    "id": [
+      "739",
+      "740"
+    ],
+    "line": [
+      "Crabrawler",
+      "Crabominable"
+    ],
+    "conditions": [
+      "Ice Stone , or at Mount Lanakila in Alola"
+    ]
+  },
+  {
+    "id": [
+      "742",
+      "743"
+    ],
+    "line": [
+      "Cutiefly",
+      "Ribombee"
+    ],
+    "conditions": [
+      "Level 25"
+    ]
+  },
+  {
+    "id": [
+      "744",
+      "745",
+      "745"
+    ],
+    "line": [
+      "Rockruff",
+      "Lycanroc",
+      "Lycanroc"
+    ],
+    "conditions": [
+      "Level 25, Daytime",
+      "Level 25, Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "745"
+    ],
+    "line": [
+      "Lycanroc"
+    ],
+    "conditions": [
+      "Level 25, Daytime"
+    ]
+  },
+  {
+    "id": [
+      "745"
+    ],
+    "line": [
+      "Lycanroc"
+    ],
+    "conditions": [
+      "Level 25, Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "744",
+      "745"
+    ],
+    "line": [
+      "Rockruff",
+      "Lycanroc"
+    ],
+    "conditions": [
+      "Level 25, Dusk"
+    ]
+  },
+  {
+    "id": [
+      "747",
+      "748"
+    ],
+    "line": [
+      "Mareanie",
+      "Toxapex"
+    ],
+    "conditions": [
+      "Level 38"
+    ]
+  },
+  {
+    "id": [
+      "749",
+      "750"
+    ],
+    "line": [
+      "Mudbray",
+      "Mudsdale"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "751",
+      "752"
+    ],
+    "line": [
+      "Dewpider",
+      "Araquanid"
+    ],
+    "conditions": [
+      "Level 22"
+    ]
+  },
+  {
+    "id": [
+      "753",
+      "754"
+    ],
+    "line": [
+      "Fomantis",
+      "Lurantis"
+    ],
+    "conditions": [
+      "Level 34, Daytime"
+    ]
+  },
+  {
+    "id": [
+      "755",
+      "756"
+    ],
+    "line": [
+      "Morelull",
+      "Shiinotic"
+    ],
+    "conditions": [
+      "Level 24"
+    ]
+  },
+  {
+    "id": [
+      "757",
+      "758"
+    ],
+    "line": [
+      "Salandit",
+      "Salazzle"
+    ],
+    "conditions": [
+      "Level 33, Female"
+    ]
+  },
+  {
+    "id": [
+      "759",
+      "760"
+    ],
+    "line": [
+      "Stufful",
+      "Bewear"
+    ],
+    "conditions": [
+      "Level 27"
+    ]
+  },
+  {
+    "id": [
+      "761",
+      "762",
+      "763"
+    ],
+    "line": [
+      "Bounsweet",
+      "Steenee",
+      "Tsareena"
+    ],
+    "conditions": [
+      "Level 18",
+      "after Stomp learned"
+    ]
+  },
+  {
+    "id": [
+      "767",
+      "768"
+    ],
+    "line": [
+      "Wimpod",
+      "Golisopod"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "769",
+      "770"
+    ],
+    "line": [
+      "Sandygast",
+      "Palossand"
+    ],
+    "conditions": [
+      "Level 42"
+    ]
+  },
+  {
+    "id": [
+      "772",
+      "773"
+    ],
+    "line": [
+      "Type: Null",
+      "Silvally"
+    ],
+    "conditions": [
+      "high Friendship "
+    ]
+  },
+  {
+    "id": [
+      "782",
+      "783",
+      "784"
+    ],
+    "line": [
+      "Jangmo-o",
+      "Hakamo-o",
+      "Kommo-o"
+    ],
+    "conditions": [
+      "Level 35",
+      "Level 45"
+    ]
+  },
+  {
+    "id": [
+      "789",
+      "790",
+      "791",
+      "792"
+    ],
+    "line": [
+      "Cosmog",
+      "Cosmoem",
+      "Solgaleo",
+      "Lunala"
+    ],
+    "conditions": [
+      "Level 43",
+      "Level 53, in Pokémon Sun or Ultra Sun",
+      "Level 53, in Pokémon Moon or Ultra Moon"
+    ]
+  },
+  {
+    "id": [
+      "791"
+    ],
+    "line": [
+      "Solgaleo"
+    ],
+    "conditions": [
+      "Level 53, in Pokémon Sun or Ultra Sun"
+    ]
+  },
+  {
+    "id": [
+      "792"
+    ],
+    "line": [
+      "Lunala"
+    ],
+    "conditions": [
+      "Level 53, in Pokémon Moon or Ultra Moon"
+    ]
+  },
+  {
+    "id": [
+      "803",
+      "804"
+    ],
+    "line": [
+      "Poipole",
+      "Naganadel"
+    ],
+    "conditions": [
+      "after Dragon Pulse learned"
+    ]
+  },
+  {
+    "id": [
+      "808",
+      "809"
+    ],
+    "line": [
+      "Meltan",
+      "Melmetal"
+    ],
+    "conditions": [
+      "Pokémon GO only, 400 Meltan Candies"
+    ]
+  },
+  {
+    "id": [
+      "810",
+      "811",
+      "812"
+    ],
+    "line": [
+      "Grookey",
+      "Thwackey",
+      "Rillaboom"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "813",
+      "814",
+      "815"
+    ],
+    "line": [
+      "Scorbunny",
+      "Raboot",
+      "Cinderace"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "816",
+      "817",
+      "818"
+    ],
+    "line": [
+      "Sobble",
+      "Drizzile",
+      "Inteleon"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "824",
+      "825",
+      "826"
+    ],
+    "line": [
+      "Blipbug",
+      "Dottler",
+      "Orbeetle"
+    ],
+    "conditions": [
+      "Level 10",
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "821",
+      "822",
+      "823"
+    ],
+    "line": [
+      "Rookidee",
+      "Corvisquire",
+      "Corviknight"
+    ],
+    "conditions": [
+      "Level 18",
+      "Level 38"
+    ]
+  },
+  {
+    "id": [
+      "819",
+      "820"
+    ],
+    "line": [
+      "Skwovet",
+      "Greedent"
+    ],
+    "conditions": [
+      "Level 24"
+    ]
+  },
+  {
+    "id": [
+      "827",
+      "828"
+    ],
+    "line": [
+      "Nickit",
+      "Thievul"
+    ],
+    "conditions": [
+      "Level 18"
+    ]
+  },
+  {
+    "id": [
+      "831",
+      "832"
+    ],
+    "line": [
+      "Wooloo",
+      "Dubwool"
+    ],
+    "conditions": [
+      "Level 24"
+    ]
+  },
+  {
+    "id": [
+      "833",
+      "834"
+    ],
+    "line": [
+      "Chewtle",
+      "Drednaw"
+    ],
+    "conditions": [
+      "Level 22"
+    ]
+  },
+  {
+    "id": [
+      "835",
+      "836"
+    ],
+    "line": [
+      "Yamper",
+      "Boltund"
+    ],
+    "conditions": [
+      "Level 25"
+    ]
+  },
+  {
+    "id": [
+      "829",
+      "830"
+    ],
+    "line": [
+      "Gossifleur",
+      "Eldegoss"
+    ],
+    "conditions": [
+      "Level 20"
+    ]
+  },
+  {
+    "id": [
+      "850",
+      "851"
+    ],
+    "line": [
+      "Sizzlipede",
+      "Centiskorch"
+    ],
+    "conditions": [
+      "Level 28"
+    ]
+  },
+  {
+    "id": [
+      "837",
+      "838",
+      "839"
+    ],
+    "line": [
+      "Rolycoly",
+      "Carkol",
+      "Coalossal"
+    ],
+    "conditions": [
+      "Level 18",
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "846",
+      "847"
+    ],
+    "line": [
+      "Arrokuda",
+      "Barraskewda"
+    ],
+    "conditions": [
+      "Level 26"
+    ]
+  },
+  {
+    "id": [
+      "868",
+      "869"
+    ],
+    "line": [
+      "Milcery",
+      "Alcremie"
+    ],
+    "conditions": [
+      "spin around holding Sweet"
+    ]
+  },
+  {
+    "id": [
+      "840",
+      "841",
+      "842",
+      "1011",
+      "1019"
+    ],
+    "line": [
+      "Applin",
+      "Flapple",
+      "Appletun",
+      "Dipplin",
+      "Hydrapple"
+    ],
+    "conditions": [
+      "Tart Apple ",
+      "Sweet Apple ",
+      "Syrupy Apple ",
+      "after Dragon Cheer learned"
+    ]
+  },
+  {
+    "id": [
+      "841"
+    ],
+    "line": [
+      "Flapple"
+    ],
+    "conditions": [
+      "Tart Apple "
+    ]
+  },
+  {
+    "id": [
+      "842"
+    ],
+    "line": [
+      "Appletun"
+    ],
+    "conditions": [
+      "Sweet Apple "
+    ]
+  },
+  {
+    "id": [
+      "1011",
+      "1019"
+    ],
+    "line": [
+      "Dipplin",
+      "Hydrapple"
+    ],
+    "conditions": [
+      "Syrupy Apple ",
+      "after Dragon Cheer learned"
+    ]
+  },
+  {
+    "id": [
+      "83",
+      "865"
+    ],
+    "line": [
+      "Farfetch'd (Galarian Farfetch'd)",
+      "Sirfetch'd"
+    ],
+    "conditions": [
+      "achieve 3 critical hits in one battle"
+    ]
+  },
+  {
+    "id": [
+      "222",
+      "864"
+    ],
+    "line": [
+      "Corsola (Galarian Corsola)",
+      "Cursola"
+    ],
+    "conditions": [
+      "Level 38"
+    ]
+  },
+  {
+    "id": [
+      "859",
+      "860",
+      "861"
+    ],
+    "line": [
+      "Impidimp",
+      "Morgrem",
+      "Grimmsnarl"
+    ],
+    "conditions": [
+      "Level 32",
+      "Level 42"
+    ]
+  },
+  {
+    "id": [
+      "856",
+      "857",
+      "858"
+    ],
+    "line": [
+      "Hatenna",
+      "Hattrem",
+      "Hatterene"
+    ],
+    "conditions": [
+      "Level 32",
+      "Level 42"
+    ]
+  },
+  {
+    "id": [
+      "878",
+      "879"
+    ],
+    "line": [
+      "Cufant",
+      "Copperajah"
+    ],
+    "conditions": [
+      "Level 34"
+    ]
+  },
+  {
+    "id": [
+      "848",
+      "849",
+      "849"
+    ],
+    "line": [
+      "Toxel",
+      "Toxtricity",
+      "Toxtricity"
+    ],
+    "conditions": [
+      "Level 30, with an amped Nature",
+      "Level 30, with a low key Nature"
+    ]
+  },
+  {
+    "id": [
+      "849"
+    ],
+    "line": [
+      "Toxtricity"
+    ],
+    "conditions": [
+      "Level 30, with an amped Nature"
+    ]
+  },
+  {
+    "id": [
+      "849"
+    ],
+    "line": [
+      "Toxtricity"
+    ],
+    "conditions": [
+      "Level 30, with a low key Nature"
+    ]
+  },
+  {
+    "id": [
+      "843",
+      "844"
+    ],
+    "line": [
+      "Silicobra",
+      "Sandaconda"
+    ],
+    "conditions": [
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "854",
+      "855"
+    ],
+    "line": [
+      "Sinistea",
+      "Polteageist"
+    ],
+    "conditions": [
+      "Cracked Pot "
+    ]
+  },
+  {
+    "id": [
+      "872",
+      "873"
+    ],
+    "line": [
+      "Snom",
+      "Frosmoth"
+    ],
+    "conditions": [
+      "high Friendship , Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "852",
+      "853"
+    ],
+    "line": [
+      "Clobbopus",
+      "Grapploct"
+    ],
+    "conditions": [
+      "after Taunt learned"
+    ]
+  },
+  {
+    "id": [
+      "885",
+      "886",
+      "887"
+    ],
+    "line": [
+      "Dreepy",
+      "Drakloak",
+      "Dragapult"
+    ],
+    "conditions": [
+      "Level 50",
+      "Level 60"
+    ]
+  },
+  {
+    "id": [
+      "891",
+      "892",
+      "892"
+    ],
+    "line": [
+      "Kubfu",
+      "Urshifu",
+      "Urshifu"
+    ],
+    "conditions": [
+      "Scroll Of Darkness , or in Tower of Darkness in Galar",
+      "Scroll Of Waters , or in Tower of Water in Galar"
+    ]
+  },
+  {
+    "id": [
+      "892"
+    ],
+    "line": [
+      "Urshifu"
+    ],
+    "conditions": [
+      "Scroll Of Darkness , or in Tower of Darkness in Galar"
+    ]
+  },
+  {
+    "id": [
+      "892"
+    ],
+    "line": [
+      "Urshifu"
+    ],
+    "conditions": [
+      "Scroll Of Waters , or in Tower of Water in Galar"
+    ]
+  },
+  {
+    "id": [
+      "550",
+      "902",
+      "902"
+    ],
+    "line": [
+      "Basculin",
+      "Basculegion",
+      "Basculegion"
+    ],
+    "conditions": [
+      "Male, receive 294 recoil damage in battle",
+      "Female, receive 294 recoil damage in battle"
+    ]
+  },
+  {
+    "id": [
+      "902"
+    ],
+    "line": [
+      "Basculegion"
+    ],
+    "conditions": [
+      "Male, receive 294 recoil damage in battle"
+    ]
+  },
+  {
+    "id": [
+      "902"
+    ],
+    "line": [
+      "Basculegion"
+    ],
+    "conditions": [
+      "Female, receive 294 recoil damage in battle"
+    ]
+  },
+  {
+    "id": [
+      "211",
+      "904"
+    ],
+    "line": [
+      "Qwilfish (Hisuian Qwilfish)",
+      "Overqwil"
+    ],
+    "conditions": [
+      "Barb Barrage 20 times in Strong Style"
+    ]
+  },
+  {
+    "id": [
+      "884",
+      "1018"
+    ],
+    "line": [
+      "Duraludon",
+      "Archaludon"
+    ],
+    "conditions": [
+      "Metal Alloy "
+    ]
+  },
+  {
+    "id": [
+      "906",
+      "907",
+      "908"
+    ],
+    "line": [
+      "Sprigatito",
+      "Floragato",
+      "Meowscarada"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "909",
+      "910",
+      "911"
+    ],
+    "line": [
+      "Fuecoco",
+      "Crocalor",
+      "Skeledirge"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "912",
+      "913",
+      "914"
+    ],
+    "line": [
+      "Quaxly",
+      "Quaxwell",
+      "Quaquaval"
+    ],
+    "conditions": [
+      "Level 16",
+      "Level 36"
+    ]
+  },
+  {
+    "id": [
+      "915",
+      "916",
+      "916"
+    ],
+    "line": [
+      "Lechonk",
+      "Oinkologne",
+      "Oinkologne"
+    ],
+    "conditions": [
+      "Level 18, Male",
+      "Level 18, Female"
+    ]
+  },
+  {
+    "id": [
+      "916"
+    ],
+    "line": [
+      "Oinkologne"
+    ],
+    "conditions": [
+      "Level 18, Male"
+    ]
+  },
+  {
+    "id": [
+      "916"
+    ],
+    "line": [
+      "Oinkologne"
+    ],
+    "conditions": [
+      "Level 18, Female"
+    ]
+  },
+  {
+    "id": [
+      "917",
+      "918"
+    ],
+    "line": [
+      "Tarountula",
+      "Spidops"
+    ],
+    "conditions": [
+      "Level 15"
+    ]
+  },
+  {
+    "id": [
+      "919",
+      "920"
+    ],
+    "line": [
+      "Nymble",
+      "Lokix"
+    ],
+    "conditions": [
+      "Level 24"
+    ]
+  },
+  {
+    "id": [
+      "953",
+      "954"
+    ],
+    "line": [
+      "Rellor",
+      "Rabsca"
+    ],
+    "conditions": [
+      "walk 1,000 steps in Let's Go mode"
+    ]
+  },
+  {
+    "id": [
+      "971",
+      "972"
+    ],
+    "line": [
+      "Greavard",
+      "Houndstone"
+    ],
+    "conditions": [
+      "Level 30, Nighttime"
+    ]
+  },
+  {
+    "id": [
+      "955",
+      "956"
+    ],
+    "line": [
+      "Flittle",
+      "Espathra"
+    ],
+    "conditions": [
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "960",
+      "961"
+    ],
+    "line": [
+      "Wiglett",
+      "Wugtrio"
+    ],
+    "conditions": [
+      "Level 26"
+    ]
+  },
+  {
+    "id": [
+      "963",
+      "964"
+    ],
+    "line": [
+      "Finizen",
+      "Palafin"
+    ],
+    "conditions": [
+      "Level 38, while in multiplayer"
+    ]
+  },
+  {
+    "id": [
+      "928",
+      "929",
+      "930"
+    ],
+    "line": [
+      "Smoliv",
+      "Dolliv",
+      "Arboliva"
+    ],
+    "conditions": [
+      "Level 25",
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "951",
+      "952"
+    ],
+    "line": [
+      "Capsakid",
+      "Scovillain"
+    ],
+    "conditions": [
+      "Fire Stone "
+    ]
+  },
+  {
+    "id": [
+      "938",
+      "939"
+    ],
+    "line": [
+      "Tadbulb",
+      "Bellibolt"
+    ],
+    "conditions": [
+      "Thunder Stone "
+    ]
+  },
+  {
+    "id": [
+      "965",
+      "966"
+    ],
+    "line": [
+      "Varoom",
+      "Revavroom"
+    ],
+    "conditions": [
+      "Level 40"
+    ]
+  },
+  {
+    "id": [
+      "924",
+      "925",
+      "925"
+    ],
+    "line": [
+      "Tandemaus",
+      "Maushold",
+      "Maushold"
+    ],
+    "conditions": [
+      "Level 25, rare",
+      "Level 25"
+    ]
+  },
+  {
+    "id": [
+      "925"
+    ],
+    "line": [
+      "Maushold"
+    ],
+    "conditions": [
+      "Level 25, rare"
+    ]
+  },
+  {
+    "id": [
+      "925"
+    ],
+    "line": [
+      "Maushold"
+    ],
+    "conditions": [
+      "Level 25"
+    ]
+  },
+  {
+    "id": [
+      "974",
+      "975"
+    ],
+    "line": [
+      "Cetoddle",
+      "Cetitan"
+    ],
+    "conditions": [
+      "Ice Stone "
+    ]
+  },
+  {
+    "id": [
+      "996",
+      "997",
+      "998"
+    ],
+    "line": [
+      "Frigibax",
+      "Arctibax",
+      "Baxcalibur"
+    ],
+    "conditions": [
+      "Level 35",
+      "Level 54"
+    ]
+  },
+  {
+    "id": [
+      "921",
+      "922",
+      "923"
+    ],
+    "line": [
+      "Pawmi",
+      "Pawmo",
+      "Pawmot"
+    ],
+    "conditions": [
+      "Level 18",
+      "walk 1,000 steps in Let's Go mode"
+    ]
+  },
+  {
+    "id": [
+      "940",
+      "941"
+    ],
+    "line": [
+      "Wattrel",
+      "Kilowattrel"
+    ],
+    "conditions": [
+      "Level 25"
+    ]
+  },
+  {
+    "id": [
+      "932",
+      "933",
+      "934"
+    ],
+    "line": [
+      "Nacli",
+      "Naclstack",
+      "Garganacl"
+    ],
+    "conditions": [
+      "Level 24",
+      "Level 38"
+    ]
+  },
+  {
+    "id": [
+      "969",
+      "970"
+    ],
+    "line": [
+      "Glimmet",
+      "Glimmora"
+    ],
+    "conditions": [
+      "Level 35"
+    ]
+  },
+  {
+    "id": [
+      "944",
+      "945"
+    ],
+    "line": [
+      "Shroodle",
+      "Grafaiai"
+    ],
+    "conditions": [
+      "Level 28"
+    ]
+  },
+  {
+    "id": [
+      "926",
+      "927"
+    ],
+    "line": [
+      "Fidough",
+      "Dachsbun"
+    ],
+    "conditions": [
+      "Level 26"
+    ]
+  },
+  {
+    "id": [
+      "942",
+      "943"
+    ],
+    "line": [
+      "Maschiff",
+      "Mabosstiff"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "946",
+      "947"
+    ],
+    "line": [
+      "Bramblin",
+      "Brambleghast"
+    ],
+    "conditions": [
+      "walk 1,000 steps in Let's Go mode"
+    ]
+  },
+  {
+    "id": [
+      "999",
+      "1000"
+    ],
+    "line": [
+      "Gimmighoul",
+      "Gholdengo"
+    ],
+    "conditions": [
+      "collect 999 Coins from Roaming Form"
+    ]
+  },
+  {
+    "id": [
+      "957",
+      "958",
+      "959"
+    ],
+    "line": [
+      "Tinkatink",
+      "Tinkatuff",
+      "Tinkaton"
+    ],
+    "conditions": [
+      "Level 24",
+      "Level 38"
+    ]
+  },
+  {
+    "id": [
+      "935",
+      "936",
+      "937"
+    ],
+    "line": [
+      "Charcadet",
+      "Armarouge",
+      "Ceruledge"
+    ],
+    "conditions": [
+      "Auspicious Armor ",
+      "Malicious Armor "
+    ]
+  },
+  {
+    "id": [
+      "936"
+    ],
+    "line": [
+      "Armarouge"
+    ],
+    "conditions": [
+      "Auspicious Armor "
+    ]
+  },
+  {
+    "id": [
+      "937"
+    ],
+    "line": [
+      "Ceruledge"
+    ],
+    "conditions": [
+      "Malicious Armor "
+    ]
+  },
+  {
+    "id": [
+      "948",
+      "949"
+    ],
+    "line": [
+      "Toedscool",
+      "Toedscruel"
+    ],
+    "conditions": [
+      "Level 30"
+    ]
+  },
+  {
+    "id": [
+      "1012",
+      "1013"
+    ],
+    "line": [
+      "Poltchageist",
+      "Sinistcha"
+    ],
+    "conditions": [
+      "Unremarkable Teacup "
+    ]
+  }
+]
