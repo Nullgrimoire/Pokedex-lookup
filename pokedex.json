@@ -1,26 +1,18 @@
 {
   "Pikachu": {
     "dex": 25,
-    "Type": "Electric",
-    "HP": 35,
-    "Ability": "Static"
+    "Type": "Electric"
   },
   "Charmander": {
     "dex": 4,
-    "Type": "Fire",
-    "HP": 39,
-    "Ability": "Blaze"
+    "Type": "Fire"
   },
   "Squirtle": {
     "dex": 7,
-    "Type": "Water",
-    "HP": 44,
-    "Ability": "Torrent"
+    "Type": "Water"
   },
   "Bulbasaur": {
     "dex": 1,
-    "Type": "Grass/Poison",
-    "HP": 45,
-    "Ability": "Overgrow"
+    "Type": "Grass/Poison"
   }
 }
