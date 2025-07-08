@@ -24,14 +24,14 @@
     "dex": 4,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Charmander --> Charmeleon --> Charizard"
   },
   "Charmeleon": {
     "dex": 5,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Charmander --> Charmeleon --> Charizard"
   },
   "Charizard": {
@@ -45,35 +45,35 @@
     "dex": 7,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Squirtle --> Wartortle --> Blastoise"
   },
   "Wartortle": {
     "dex": 8,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Squirtle --> Wartortle --> Blastoise"
   },
   "Blastoise": {
     "dex": 9,
     "Form": "Mega Blastoise",
     "Generation": 6,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Squirtle --> Wartortle --> Blastoise"
   },
   "Caterpie": {
     "dex": 10,
     "Form": " ",
     "Generation": 1,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Caterpie --> Metapod --> Butterfree"
   },
   "Metapod": {
     "dex": 11,
     "Form": " ",
     "Generation": 1,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Caterpie --> Metapod --> Butterfree"
   },
   "Butterfree": {
@@ -88,21 +88,21 @@
     "Form": " ",
     "Generation": 1,
     "Type": "Bug/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Weedle --> Kakuna --> Beedrill"
   },
   "Kakuna": {
     "dex": 14,
     "Form": " ",
     "Generation": 1,
     "Type": "Bug/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Weedle --> Kakuna --> Beedrill"
   },
   "Beedrill": {
     "dex": 15,
     "Form": "Mega Beedrill",
     "Generation": 6,
     "Type": "Bug/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Weedle --> Kakuna --> Beedrill"
   },
   "Pdexgey": {
     "dex": 16,
@@ -130,48 +130,48 @@
     "Form": "Alolan Rattata",
     "Generation": 7,
     "Type": "Dark/Normal",
-    "Evolution": "Unknown"
+    "Evolution": "Rattata --> Raticate"
   },
   "Raticate": {
     "dex": 20,
     "Form": "Alolan Raticate",
     "Generation": 7,
     "Type": "Dark/Normal",
-    "Evolution": "Unknown"
+    "Evolution": "Rattata --> Raticate"
   },
   "Spearow": {
     "dex": 21,
     "Form": " ",
     "Generation": 1,
     "Type": "Normal/Flying",
-    "Evolution": "Unknown"
+    "Evolution": "Spearow --> Fearow"
   },
   "Fearow": {
     "dex": 22,
     "Form": " ",
     "Generation": 1,
     "Type": "Normal/Flying",
-    "Evolution": "Unknown"
+    "Evolution": "Spearow --> Fearow"
   },
   "Ekans": {
     "dex": 23,
     "Form": " ",
     "Generation": 1,
-    "Type": "Poison/ ",
-    "Evolution": "Unknown"
+    "Type": "Poison",
+    "Evolution": "Ekans --> Arbok"
   },
   "Arbok": {
     "dex": 24,
     "Form": " ",
     "Generation": 1,
-    "Type": "Poison/ ",
-    "Evolution": "Unknown"
+    "Type": "Poison",
+    "Evolution": "Ekans --> Arbok"
   },
   "Pikachu": {
     "dex": 25,
     "Form": "Partner Pikachu",
     "Generation": 7,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Pichu --> Pikachu --> Raichu"
   },
   "Raichu": {
@@ -186,27 +186,27 @@
     "Form": "Alolan Sandshrew",
     "Generation": 7,
     "Type": "Ice/Steel",
-    "Evolution": "Unknown"
+    "Evolution": "Sandshrew --> Sandslash"
   },
   "Sandslash": {
     "dex": 28,
     "Form": "Alolan Sandslash",
     "Generation": 7,
     "Type": "Ice/Steel",
-    "Evolution": "Unknown"
+    "Evolution": "Sandshrew --> Sandslash"
   },
   "Ndexoran": {
     "dex": 32,
     "Form": "Male",
     "Generation": 1,
-    "Type": "Poison/ ",
+    "Type": "Poison",
     "Evolution": "Unknown"
   },
   "Ndexorina": {
     "dex": 30,
     "Form": " ",
     "Generation": 1,
-    "Type": "Poison/ ",
+    "Type": "Poison",
     "Evolution": "Unknown"
   },
   "Ndexoqueen": {
@@ -220,7 +220,7 @@
     "dex": 33,
     "Form": " ",
     "Generation": 1,
-    "Type": "Poison/ ",
+    "Type": "Poison",
     "Evolution": "Unknown"
   },
   "Ndexoking": {
@@ -234,78 +234,78 @@
     "dex": 35,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fairy/ ",
-    "Evolution": "Unknown"
+    "Type": "Fairy",
+    "Evolution": "Cleffa --> Clefairy --> Clefable"
   },
   "Clefable": {
     "dex": 36,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fairy/ ",
-    "Evolution": "Unknown"
+    "Type": "Fairy",
+    "Evolution": "Cleffa --> Clefairy --> Clefable"
   },
   "Vulpix": {
     "dex": 37,
     "Form": "Alolan Vulpix",
     "Generation": 7,
-    "Type": "Ice/ ",
-    "Evolution": "Unknown"
+    "Type": "Ice",
+    "Evolution": "Vulpix --> Ninetales"
   },
   "Ninetales": {
     "dex": 38,
     "Form": "Alolan Ninetales",
     "Generation": 7,
     "Type": "Ice/Fairy",
-    "Evolution": "Unknown"
+    "Evolution": "Vulpix --> Ninetales"
   },
   "Jigglypuff": {
     "dex": 39,
     "Form": " ",
     "Generation": 1,
     "Type": "Normal/Fairy",
-    "Evolution": "Unknown"
+    "Evolution": "Igglybuff --> Jigglypuff --> Wigglytuff"
   },
   "Wigglytuff": {
     "dex": 40,
     "Form": " ",
     "Generation": 1,
     "Type": "Normal/Fairy",
-    "Evolution": "Unknown"
+    "Evolution": "Igglybuff --> Jigglypuff --> Wigglytuff"
   },
   "Zubat": {
     "dex": 41,
     "Form": " ",
     "Generation": 1,
     "Type": "Poison/Flying",
-    "Evolution": "Unknown"
+    "Evolution": "Zubat --> Golbat --> Crobat"
   },
   "Golbat": {
     "dex": 42,
     "Form": " ",
     "Generation": 1,
     "Type": "Poison/Flying",
-    "Evolution": "Unknown"
+    "Evolution": "Zubat --> Golbat --> Crobat"
   },
   "Oddish": {
     "dex": 43,
     "Form": " ",
     "Generation": 1,
     "Type": "Grass/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Oddish --> Gloom --> Vileplume"
   },
   "Gloom": {
     "dex": 44,
     "Form": " ",
     "Generation": 1,
     "Type": "Grass/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Oddish --> Gloom --> Vileplume"
   },
   "Vileplume": {
     "dex": 45,
     "Form": " ",
     "Generation": 1,
     "Type": "Grass/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Oddish --> Gloom --> Vileplume"
   },
   "Paras": {
     "dex": 46,
@@ -353,42 +353,42 @@
     "dex": 52,
     "Form": "Galarian Meowth",
     "Generation": 8,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Persian": {
     "dex": 53,
     "Form": "Alolan Persian",
     "Generation": 7,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Psyduck": {
     "dex": 54,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Golduck": {
     "dex": 55,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Mankey": {
     "dex": 56,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Primeape": {
     "dex": 57,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Growlithe": {
@@ -409,85 +409,85 @@
     "dex": 60,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
-    "Evolution": "Unknown"
+    "Type": "Water",
+    "Evolution": "Poliwag --> Poliwhirl --> Poliwrath"
   },
   "Poliwhirl": {
     "dex": 61,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
-    "Evolution": "Unknown"
+    "Type": "Water",
+    "Evolution": "Poliwag --> Poliwhirl --> Poliwrath"
   },
   "Poliwrath": {
     "dex": 62,
     "Form": " ",
     "Generation": 1,
     "Type": "Water/Fighting",
-    "Evolution": "Unknown"
+    "Evolution": "Poliwag --> Poliwhirl --> Poliwrath"
   },
   "Abra": {
     "dex": 63,
     "Form": " ",
     "Generation": 1,
-    "Type": "Psychic/ ",
-    "Evolution": "Unknown"
+    "Type": "Psychic",
+    "Evolution": "Abra --> Kadabra --> Alakazam"
   },
   "Kadabra": {
     "dex": 64,
     "Form": " ",
     "Generation": 1,
-    "Type": "Psychic/ ",
-    "Evolution": "Unknown"
+    "Type": "Psychic",
+    "Evolution": "Abra --> Kadabra --> Alakazam"
   },
   "Alakazam": {
     "dex": 65,
     "Form": "Mega Alakazam",
     "Generation": 6,
-    "Type": "Psychic/ ",
-    "Evolution": "Unknown"
+    "Type": "Psychic",
+    "Evolution": "Abra --> Kadabra --> Alakazam"
   },
   "Machop": {
     "dex": 66,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fighting/ ",
-    "Evolution": "Unknown"
+    "Type": "Fighting",
+    "Evolution": "Machop --> Machoke --> Machamp"
   },
   "Machoke": {
     "dex": 67,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fighting/ ",
-    "Evolution": "Unknown"
+    "Type": "Fighting",
+    "Evolution": "Machop --> Machoke --> Machamp"
   },
   "Machamp": {
     "dex": 68,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fighting/ ",
-    "Evolution": "Unknown"
+    "Type": "Fighting",
+    "Evolution": "Machop --> Machoke --> Machamp"
   },
   "Bellsprout": {
     "dex": 69,
     "Form": " ",
     "Generation": 1,
     "Type": "Grass/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Bellsprout --> Weepinbell --> Victreebel"
   },
   "Weepinbell": {
     "dex": 70,
     "Form": " ",
     "Generation": 1,
     "Type": "Grass/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Bellsprout --> Weepinbell --> Victreebel"
   },
   "Victreebel": {
     "dex": 71,
     "Form": " ",
     "Generation": 1,
     "Type": "Grass/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Bellsprout --> Weepinbell --> Victreebel"
   },
   "Tentacool": {
     "dex": 72,
@@ -508,27 +508,27 @@
     "Form": "Alolan Geodude",
     "Generation": 7,
     "Type": "Rock/Electric",
-    "Evolution": "Unknown"
+    "Evolution": "Geodude --> Graveler --> Golem"
   },
   "Graveler": {
     "dex": 75,
     "Form": "Alolan Graveler",
     "Generation": 7,
     "Type": "Rock/Electric",
-    "Evolution": "Unknown"
+    "Evolution": "Geodude --> Graveler --> Golem"
   },
   "Golem": {
     "dex": 76,
     "Form": "Alolan Golem",
     "Generation": 7,
     "Type": "Rock/Electric",
-    "Evolution": "Unknown"
+    "Evolution": "Geodude --> Graveler --> Golem"
   },
   "Ponyta": {
     "dex": 77,
     "Form": "Galarian Ponyta",
     "Generation": 8,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Rapdexash": {
@@ -542,7 +542,7 @@
     "dex": 79,
     "Form": "Galarian Slowpoke",
     "Generation": 8,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Slowbro": {
@@ -570,7 +570,7 @@
     "dex": 83,
     "Form": "Galarian Farfetch'd",
     "Generation": 8,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Doduo": {
@@ -591,7 +591,7 @@
     "dex": 86,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Dewgong": {
@@ -619,7 +619,7 @@
     "dex": 90,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Cloyster": {
@@ -634,21 +634,21 @@
     "Form": " ",
     "Generation": 1,
     "Type": "Ghost/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Gastly --> Haunter --> Gengar"
   },
   "Haunter": {
     "dex": 93,
     "Form": " ",
     "Generation": 1,
     "Type": "Ghost/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Gastly --> Haunter --> Gengar"
   },
   "Gengar": {
     "dex": 94,
     "Form": "Mega Gengar",
     "Generation": 6,
     "Type": "Ghost/Poison",
-    "Evolution": "Unknown"
+    "Evolution": "Gastly --> Haunter --> Gengar"
   },
   "Onix": {
     "dex": 95,
@@ -661,28 +661,28 @@
     "dex": 96,
     "Form": " ",
     "Generation": 1,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Hypno": {
     "dex": 97,
     "Form": " ",
     "Generation": 1,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Krabby": {
     "dex": 98,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Kingler": {
     "dex": 99,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Voltorb": {
@@ -717,7 +717,7 @@
     "dex": 104,
     "Form": " ",
     "Generation": 1,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Marowak": {
@@ -731,28 +731,28 @@
     "dex": 106,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fighting/ ",
-    "Evolution": "Unknown"
+    "Type": "Fighting",
+    "Evolution": "Tyrogue --> Hitmonlee"
   },
   "Hitmonchan": {
     "dex": 107,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fighting/ ",
-    "Evolution": "Unknown"
+    "Type": "Fighting",
+    "Evolution": "Tyrogue --> Hitmonchan"
   },
   "Lickitung": {
     "dex": 108,
     "Form": " ",
     "Generation": 1,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Koffing": {
     "dex": 109,
     "Form": " ",
     "Generation": 1,
-    "Type": "Poison/ ",
+    "Type": "Poison",
     "Evolution": "Unknown"
   },
   "Weezing": {
@@ -780,56 +780,56 @@
     "dex": 113,
     "Form": " ",
     "Generation": 1,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Tangela": {
     "dex": 114,
     "Form": " ",
     "Generation": 1,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Kangaskhan": {
     "dex": 115,
     "Form": "Mega Kangaskhan",
     "Generation": 6,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Horsea": {
     "dex": 116,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Seadra": {
     "dex": 117,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Goldeen": {
     "dex": 118,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Seaking": {
     "dex": 119,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Staryu": {
     "dex": 120,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Starmie": {
@@ -864,14 +864,14 @@
     "dex": 125,
     "Form": " ",
     "Generation": 1,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Magmar": {
     "dex": 126,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Pinsir": {
@@ -892,15 +892,15 @@
     "dex": 129,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
-    "Evolution": "Unknown"
+    "Type": "Water",
+    "Evolution": "Magikarp --> Gyarados"
   },
   "Gyarados": {
     "dex": 130,
     "Form": "Mega Gyarados",
     "Generation": 6,
     "Type": "Water/Dark",
-    "Evolution": "Unknown"
+    "Evolution": "Magikarp --> Gyarados"
   },
   "Lapras": {
     "dex": 131,
@@ -913,42 +913,42 @@
     "dex": 132,
     "Form": " ",
     "Generation": 1,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Eevee": {
     "dex": 133,
     "Form": "Partner Eevee",
     "Generation": 7,
-    "Type": "Normal/ ",
-    "Evolution": "Eevee --> Vaporeon/Jolteon/Flareon/Espeon/Umbreon/Leafeon/Glaceon/Sylveon"
+    "Type": "Normal",
+    "Evolution": "Eevee --> Vaporeon --> Jolteon --> Flareon --> Espeon --> Umbreon --> Leafeon --> Glaceon --> Sylveon"
   },
   "Vaporeon": {
     "dex": 134,
     "Form": " ",
     "Generation": 1,
-    "Type": "Water/ ",
-    "Evolution": "Eevee --> Vaporeon"
+    "Type": "Water",
+    "Evolution": "Eevee --> Vaporeon --> Jolteon --> Flareon --> Espeon --> Umbreon --> Leafeon --> Glaceon --> Sylveon"
   },
   "Jolteon": {
     "dex": 135,
     "Form": " ",
     "Generation": 1,
-    "Type": "Electric/ ",
-    "Evolution": "Eevee --> Jolteon"
+    "Type": "Electric",
+    "Evolution": "Eevee --> Vaporeon --> Jolteon --> Flareon --> Espeon --> Umbreon --> Leafeon --> Glaceon --> Sylveon"
   },
   "Flareon": {
     "dex": 136,
     "Form": " ",
     "Generation": 1,
-    "Type": "Fire/ ",
-    "Evolution": "Eevee --> Flareon"
+    "Type": "Fire",
+    "Evolution": "Eevee --> Vaporeon --> Jolteon --> Flareon --> Espeon --> Umbreon --> Leafeon --> Glaceon --> Sylveon"
   },
   "Porygon": {
     "dex": 137,
     "Form": " ",
     "Generation": 1,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Omanyte": {
@@ -990,7 +990,7 @@
     "dex": 143,
     "Form": " ",
     "Generation": 1,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Articuno": {
@@ -1018,112 +1018,112 @@
     "dex": 147,
     "Form": " ",
     "Generation": 1,
-    "Type": "Dragon/ ",
-    "Evolution": "Unknown"
+    "Type": "Dragon",
+    "Evolution": "Dratini --> Dragonair --> Dragonite"
   },
   "Dragonair": {
     "dex": 148,
     "Form": " ",
     "Generation": 1,
-    "Type": "Dragon/ ",
-    "Evolution": "Unknown"
+    "Type": "Dragon",
+    "Evolution": "Dratini --> Dragonair --> Dragonite"
   },
   "Dragonite": {
     "dex": 149,
     "Form": " ",
     "Generation": 1,
     "Type": "Dragon/Flying",
-    "Evolution": "Unknown"
+    "Evolution": "Dratini --> Dragonair --> Dragonite"
   },
   "Mewtwo": {
     "dex": 150,
     "Form": "Mega Mewtwo Y",
     "Generation": 6,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Mew": {
     "dex": 151,
     "Form": " ",
     "Generation": 1,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Chikorita": {
     "dex": 152,
     "Form": " ",
     "Generation": 2,
-    "Type": "Grass/ ",
-    "Evolution": "Unknown"
+    "Type": "Grass",
+    "Evolution": "Chikorita --> Bayleef --> Meganium"
   },
   "Bayleef": {
     "dex": 153,
     "Form": " ",
     "Generation": 2,
-    "Type": "Grass/ ",
-    "Evolution": "Unknown"
+    "Type": "Grass",
+    "Evolution": "Chikorita --> Bayleef --> Meganium"
   },
   "Meganium": {
     "dex": 154,
     "Form": " ",
     "Generation": 2,
-    "Type": "Grass/ ",
-    "Evolution": "Unknown"
+    "Type": "Grass",
+    "Evolution": "Chikorita --> Bayleef --> Meganium"
   },
   "Cyndaquil": {
     "dex": 155,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fire/ ",
-    "Evolution": "Unknown"
+    "Type": "Fire",
+    "Evolution": "Cyndaquil --> Quilava --> Typhlosion"
   },
   "Quilava": {
     "dex": 156,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fire/ ",
-    "Evolution": "Unknown"
+    "Type": "Fire",
+    "Evolution": "Cyndaquil --> Quilava --> Typhlosion"
   },
   "Typhlosion": {
     "dex": 157,
     "Form": "Hisuian Typhlosion",
     "Generation": 8,
     "Type": "Fire/Ghost",
-    "Evolution": "Unknown"
+    "Evolution": "Cyndaquil --> Quilava --> Typhlosion"
   },
   "Totodile": {
     "dex": 158,
     "Form": " ",
     "Generation": 2,
-    "Type": "Water/ ",
-    "Evolution": "Unknown"
+    "Type": "Water",
+    "Evolution": "Totodile --> Croconaw --> Feraligatr"
   },
   "Croconaw": {
     "dex": 159,
     "Form": " ",
     "Generation": 2,
-    "Type": "Water/ ",
-    "Evolution": "Unknown"
+    "Type": "Water",
+    "Evolution": "Totodile --> Croconaw --> Feraligatr"
   },
   "Feraligatr": {
     "dex": 160,
     "Form": " ",
     "Generation": 2,
-    "Type": "Water/ ",
-    "Evolution": "Unknown"
+    "Type": "Water",
+    "Evolution": "Totodile --> Croconaw --> Feraligatr"
   },
   "Sentret": {
     "dex": 161,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Furret": {
     "dex": 162,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Hoothoot": {
@@ -1173,7 +1173,7 @@
     "Form": " ",
     "Generation": 2,
     "Type": "Poison/Flying",
-    "Evolution": "Unknown"
+    "Evolution": "Zubat --> Golbat --> Crobat"
   },
   "Chinchou": {
     "dex": 170,
@@ -1193,28 +1193,28 @@
     "dex": 172,
     "Form": " ",
     "Generation": 2,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Pichu --> Pikachu --> Raichu"
   },
   "Cleffa": {
     "dex": 173,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fairy/ ",
-    "Evolution": "Unknown"
+    "Type": "Fairy",
+    "Evolution": "Cleffa --> Clefairy --> Clefable"
   },
   "Igglybuff": {
     "dex": 174,
     "Form": " ",
     "Generation": 2,
     "Type": "Normal/Fairy",
-    "Evolution": "Unknown"
+    "Evolution": "Igglybuff --> Jigglypuff --> Wigglytuff"
   },
   "Togepi": {
     "dex": 175,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Togetic": {
@@ -1242,14 +1242,14 @@
     "dex": 179,
     "Form": " ",
     "Generation": 2,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Flaaffy": {
     "dex": 180,
     "Form": " ",
     "Generation": 2,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Ampharos": {
@@ -1263,7 +1263,7 @@
     "dex": 182,
     "Form": " ",
     "Generation": 2,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Marill": {
@@ -1284,14 +1284,14 @@
     "dex": 185,
     "Form": " ",
     "Generation": 2,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Politoed": {
     "dex": 186,
     "Form": " ",
     "Generation": 2,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Hoppip": {
@@ -1299,41 +1299,41 @@
     "Form": " ",
     "Generation": 2,
     "Type": "Grass/Flying",
-    "Evolution": "Unknown"
+    "Evolution": "Hoppip --> Skiploom --> Jumpluff"
   },
   "Skiploom": {
     "dex": 188,
     "Form": " ",
     "Generation": 2,
     "Type": "Grass/Flying",
-    "Evolution": "Unknown"
+    "Evolution": "Hoppip --> Skiploom --> Jumpluff"
   },
   "Jumpluff": {
     "dex": 189,
     "Form": " ",
     "Generation": 2,
     "Type": "Grass/Flying",
-    "Evolution": "Unknown"
+    "Evolution": "Hoppip --> Skiploom --> Jumpluff"
   },
   "Aipom": {
     "dex": 190,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Sunkern": {
     "dex": 191,
     "Form": " ",
     "Generation": 2,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Sunflora": {
     "dex": 192,
     "Form": " ",
     "Generation": 2,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Yanma": {
@@ -1361,15 +1361,15 @@
     "dex": 196,
     "Form": " ",
     "Generation": 2,
-    "Type": "Psychic/ ",
-    "Evolution": "Eevee --> Espeon"
+    "Type": "Psychic",
+    "Evolution": "Eevee --> Vaporeon --> Jolteon --> Flareon --> Espeon --> Umbreon --> Leafeon --> Glaceon --> Sylveon"
   },
   "Umbreon": {
     "dex": 197,
     "Form": " ",
     "Generation": 2,
-    "Type": "Dark/ ",
-    "Evolution": "Eevee --> Umbreon"
+    "Type": "Dark",
+    "Evolution": "Eevee --> Vaporeon --> Jolteon --> Flareon --> Espeon --> Umbreon --> Leafeon --> Glaceon --> Sylveon"
   },
   "Murkrow": {
     "dex": 198,
@@ -1389,21 +1389,21 @@
     "dex": 200,
     "Form": " ",
     "Generation": 2,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Unown": {
     "dex": 201,
     "Form": " ",
     "Generation": 2,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Wobbuffet": {
     "dex": 202,
     "Form": " ",
     "Generation": 2,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Girafarig": {
@@ -1417,7 +1417,7 @@
     "dex": 204,
     "Form": " ",
     "Generation": 2,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Forretress": {
@@ -1431,7 +1431,7 @@
     "dex": 206,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Gligar": {
@@ -1452,14 +1452,14 @@
     "dex": 209,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Granbull": {
     "dex": 210,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Qwilfish": {
@@ -1501,21 +1501,21 @@
     "dex": 216,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Ursaring": {
     "dex": 217,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Slugma": {
     "dex": 218,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Magcargo": {
@@ -1530,34 +1530,34 @@
     "Form": " ",
     "Generation": 2,
     "Type": "Ice/Ground",
-    "Evolution": "Unknown"
+    "Evolution": "Swinub --> Piloswine"
   },
   "Piloswine": {
     "dex": 221,
     "Form": " ",
     "Generation": 2,
     "Type": "Ice/Ground",
-    "Evolution": "Unknown"
+    "Evolution": "Swinub --> Piloswine"
   },
   "Corsola": {
     "dex": 222,
     "Form": "Galarian Corsola",
     "Generation": 8,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Remoradex": {
     "dex": 223,
     "Form": " ",
     "Generation": 2,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Octillery": {
     "dex": 224,
     "Form": " ",
     "Generation": 2,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Delibird": {
@@ -1606,50 +1606,50 @@
     "dex": 231,
     "Form": " ",
     "Generation": 2,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Donphan": {
     "dex": 232,
     "Form": " ",
     "Generation": 2,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Porygon2": {
     "dex": 233,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Stantler": {
     "dex": 234,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Smeargle": {
     "dex": 235,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Tyrogue": {
     "dex": 236,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fighting/ ",
-    "Evolution": "Unknown"
+    "Type": "Fighting",
+    "Evolution": "Tyrogue --> Hitmontop"
   },
   "Hitmontop": {
     "dex": 237,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fighting/ ",
-    "Evolution": "Unknown"
+    "Type": "Fighting",
+    "Evolution": "Tyrogue --> Hitmontop"
   },
   "Smoochum": {
     "dex": 238,
@@ -1662,49 +1662,49 @@
     "dex": 239,
     "Form": " ",
     "Generation": 2,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Magby": {
     "dex": 240,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Miltank": {
     "dex": 241,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Blissey": {
     "dex": 242,
     "Form": " ",
     "Generation": 2,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Raikou": {
     "dex": 243,
     "Form": " ",
     "Generation": 2,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Entei": {
     "dex": 244,
     "Form": " ",
     "Generation": 2,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Suicune": {
     "dex": 245,
     "Form": " ",
     "Generation": 2,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Larvitar": {
@@ -1753,14 +1753,14 @@
     "dex": 252,
     "Form": " ",
     "Generation": 3,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Grovyle": {
     "dex": 253,
     "Form": " ",
     "Generation": 3,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Sceptile": {
@@ -1774,7 +1774,7 @@
     "dex": 255,
     "Form": " ",
     "Generation": 3,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Combusken": {
@@ -1795,7 +1795,7 @@
     "dex": 258,
     "Form": " ",
     "Generation": 3,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Marshtomp": {
@@ -1816,14 +1816,14 @@
     "dex": 261,
     "Form": " ",
     "Generation": 3,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Mightyena": {
     "dex": 262,
     "Form": " ",
     "Generation": 3,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Zigzagoon": {
@@ -1844,14 +1844,14 @@
     "dex": 265,
     "Form": " ",
     "Generation": 3,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Silcoon": {
     "dex": 266,
     "Form": " ",
     "Generation": 3,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Beautifly": {
@@ -1865,7 +1865,7 @@
     "dex": 268,
     "Form": " ",
     "Generation": 3,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Dustox": {
@@ -1900,7 +1900,7 @@
     "dex": 273,
     "Form": " ",
     "Generation": 3,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Nuzleaf": {
@@ -1984,7 +1984,7 @@
     "dex": 285,
     "Form": " ",
     "Generation": 3,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Breloom": {
@@ -1998,21 +1998,21 @@
     "dex": 287,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Vigoroth": {
     "dex": 288,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Slaking": {
     "dex": 289,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Nincada": {
@@ -2040,35 +2040,35 @@
     "dex": 293,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Loudred": {
     "dex": 294,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Exploud": {
     "dex": 295,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Makuhita": {
     "dex": 296,
     "Form": " ",
     "Generation": 3,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Hariyama": {
     "dex": 297,
     "Form": " ",
     "Generation": 3,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Azurill": {
@@ -2082,21 +2082,21 @@
     "dex": 299,
     "Form": " ",
     "Generation": 3,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Skitty": {
     "dex": 300,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Delcatty": {
     "dex": 301,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Sableye": {
@@ -2131,7 +2131,7 @@
     "dex": 306,
     "Form": "Mega Aggron",
     "Generation": 6,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Meditite": {
@@ -2152,42 +2152,42 @@
     "dex": 309,
     "Form": " ",
     "Generation": 3,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Manectric": {
     "dex": 310,
     "Form": "Mega Manectric",
     "Generation": 6,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Plusle": {
     "dex": 311,
     "Form": " ",
     "Generation": 3,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Minun": {
     "dex": 312,
     "Form": " ",
     "Generation": 3,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Volbeat": {
     "dex": 313,
     "Form": " ",
     "Generation": 3,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Illumise": {
     "dex": 314,
     "Form": " ",
     "Generation": 3,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Roselia": {
@@ -2201,14 +2201,14 @@
     "dex": 316,
     "Form": " ",
     "Generation": 3,
-    "Type": "Poison/ ",
+    "Type": "Poison",
     "Evolution": "Unknown"
   },
   "Swalot": {
     "dex": 317,
     "Form": " ",
     "Generation": 3,
-    "Type": "Poison/ ",
+    "Type": "Poison",
     "Evolution": "Unknown"
   },
   "Carvanha": {
@@ -2229,14 +2229,14 @@
     "dex": 320,
     "Form": " ",
     "Generation": 3,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Wailord": {
     "dex": 321,
     "Form": " ",
     "Generation": 3,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Numel": {
@@ -2257,35 +2257,35 @@
     "dex": 324,
     "Form": " ",
     "Generation": 3,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Spoink": {
     "dex": 325,
     "Form": " ",
     "Generation": 3,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Grumpig": {
     "dex": 326,
     "Form": " ",
     "Generation": 3,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Spinda": {
     "dex": 327,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Trapinch": {
     "dex": 328,
     "Form": " ",
     "Generation": 3,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Vibrava": {
@@ -2306,7 +2306,7 @@
     "dex": 331,
     "Form": " ",
     "Generation": 3,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Cacturne": {
@@ -2334,14 +2334,14 @@
     "dex": 335,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Seviper": {
     "dex": 336,
     "Form": " ",
     "Generation": 3,
-    "Type": "Poison/ ",
+    "Type": "Poison",
     "Evolution": "Unknown"
   },
   "Lunatone": {
@@ -2376,7 +2376,7 @@
     "dex": 341,
     "Form": " ",
     "Generation": 3,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Crawdaunt": {
@@ -2432,56 +2432,56 @@
     "dex": 349,
     "Form": " ",
     "Generation": 3,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Milotic": {
     "dex": 350,
     "Form": " ",
     "Generation": 3,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Castform": {
     "dex": 351,
     "Form": "Snowy Form",
     "Generation": 3,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Kecleon": {
     "dex": 352,
     "Form": " ",
     "Generation": 3,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Shuppet": {
     "dex": 353,
     "Form": " ",
     "Generation": 3,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Banette": {
     "dex": 354,
     "Form": "Mega Banette",
     "Generation": 6,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Duskull": {
     "dex": 355,
     "Form": " ",
     "Generation": 3,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Dusclops": {
     "dex": 356,
     "Form": " ",
     "Generation": 3,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Tropius": {
@@ -2495,35 +2495,35 @@
     "dex": 358,
     "Form": " ",
     "Generation": 3,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Absol": {
     "dex": 359,
     "Form": "Mega Absol",
     "Generation": 6,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Wynaut": {
     "dex": 360,
     "Form": " ",
     "Generation": 3,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Snorunt": {
     "dex": 361,
     "Form": " ",
     "Generation": 3,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Glalie": {
     "dex": 362,
     "Form": "Mega Glalie",
     "Generation": 6,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Spheal": {
@@ -2551,21 +2551,21 @@
     "dex": 366,
     "Form": " ",
     "Generation": 3,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Huntail": {
     "dex": 367,
     "Form": " ",
     "Generation": 3,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Gorebyss": {
     "dex": 368,
     "Form": " ",
     "Generation": 3,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Relicanth": {
@@ -2579,21 +2579,21 @@
     "dex": 370,
     "Form": " ",
     "Generation": 3,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Bagon": {
     "dex": 371,
     "Form": " ",
     "Generation": 3,
-    "Type": "Dragon/ ",
+    "Type": "Dragon",
     "Evolution": "Unknown"
   },
   "Shelgon": {
     "dex": 372,
     "Form": " ",
     "Generation": 3,
-    "Type": "Dragon/ ",
+    "Type": "Dragon",
     "Evolution": "Unknown"
   },
   "Salamence": {
@@ -2628,21 +2628,21 @@
     "dex": 377,
     "Form": " ",
     "Generation": 3,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Regice": {
     "dex": 378,
     "Form": " ",
     "Generation": 3,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Registeel": {
     "dex": 379,
     "Form": " ",
     "Generation": 3,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Latias": {
@@ -2663,7 +2663,7 @@
     "dex": 382,
     "Form": "Primal Kyogre",
     "Generation": 6,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Groudon": {
@@ -2691,21 +2691,21 @@
     "dex": 386,
     "Form": "Speed Forme",
     "Generation": 3,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Turtwig": {
     "dex": 387,
     "Form": " ",
     "Generation": 4,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Grotle": {
     "dex": 388,
     "Form": " ",
     "Generation": 4,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Torterra": {
@@ -2719,7 +2719,7 @@
     "dex": 390,
     "Form": " ",
     "Generation": 4,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Monferno": {
@@ -2740,14 +2740,14 @@
     "dex": 393,
     "Form": " ",
     "Generation": 4,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Prinplup": {
     "dex": 394,
     "Form": " ",
     "Generation": 4,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Empoleon": {
@@ -2782,7 +2782,7 @@
     "dex": 399,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Bibarel": {
@@ -2796,35 +2796,35 @@
     "dex": 401,
     "Form": " ",
     "Generation": 4,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Kricketune": {
     "dex": 402,
     "Form": " ",
     "Generation": 4,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Shinx": {
     "dex": 403,
     "Form": " ",
     "Generation": 4,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Luxio": {
     "dex": 404,
     "Form": " ",
     "Generation": 4,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Luxray": {
     "dex": 405,
     "Form": " ",
     "Generation": 4,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Budew": {
@@ -2845,14 +2845,14 @@
     "dex": 408,
     "Form": " ",
     "Generation": 4,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Rampardos": {
     "dex": 409,
     "Form": " ",
     "Generation": 4,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Shieldon": {
@@ -2873,7 +2873,7 @@
     "dex": 412,
     "Form": "Trash Cloak",
     "Generation": 4,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Wormadam": {
@@ -2908,42 +2908,42 @@
     "dex": 417,
     "Form": " ",
     "Generation": 4,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Buizel": {
     "dex": 418,
     "Form": " ",
     "Generation": 4,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Floatzel": {
     "dex": 419,
     "Form": " ",
     "Generation": 4,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Cherubi": {
     "dex": 420,
     "Form": " ",
     "Generation": 4,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Cherrim": {
     "dex": 421,
     "Form": " ",
     "Generation": 4,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Shellos": {
     "dex": 422,
     "Form": " ",
     "Generation": 4,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Gastrodon": {
@@ -2957,7 +2957,7 @@
     "dex": 424,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Drifloon": {
@@ -2978,7 +2978,7 @@
     "dex": 427,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Lopunny": {
@@ -2992,7 +2992,7 @@
     "dex": 429,
     "Form": " ",
     "Generation": 4,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Honchkrow": {
@@ -3006,21 +3006,21 @@
     "dex": 431,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Purugly": {
     "dex": 432,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Chingling": {
     "dex": 433,
     "Form": " ",
     "Generation": 4,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Stunky": {
@@ -3055,7 +3055,7 @@
     "dex": 438,
     "Form": " ",
     "Generation": 4,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Mime Jr.": {
@@ -3069,7 +3069,7 @@
     "dex": 440,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Chatot": {
@@ -3111,14 +3111,14 @@
     "dex": 446,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Riolu": {
     "dex": 447,
     "Form": " ",
     "Generation": 4,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Lucario": {
@@ -3132,14 +3132,14 @@
     "dex": 449,
     "Form": " ",
     "Generation": 4,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Hippowdon": {
     "dex": 450,
     "Form": " ",
     "Generation": 4,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Skorupi": {
@@ -3174,21 +3174,21 @@
     "dex": 455,
     "Form": " ",
     "Generation": 4,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Finneon": {
     "dex": 456,
     "Form": " ",
     "Generation": 4,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Lumineon": {
     "dex": 457,
     "Form": " ",
     "Generation": 4,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Mantyke": {
@@ -3230,7 +3230,7 @@
     "dex": 463,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Rhyperior": {
@@ -3244,21 +3244,21 @@
     "dex": 465,
     "Form": " ",
     "Generation": 4,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Electivire": {
     "dex": 466,
     "Form": " ",
     "Generation": 4,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Magmortar": {
     "dex": 467,
     "Form": " ",
     "Generation": 4,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Togekiss": {
@@ -3279,15 +3279,15 @@
     "dex": 470,
     "Form": " ",
     "Generation": 4,
-    "Type": "Grass/ ",
-    "Evolution": "Eevee --> Leafeon"
+    "Type": "Grass",
+    "Evolution": "Eevee --> Vaporeon --> Jolteon --> Flareon --> Espeon --> Umbreon --> Leafeon --> Glaceon --> Sylveon"
   },
   "Glaceon": {
     "dex": 471,
     "Form": " ",
     "Generation": 4,
-    "Type": "Ice/ ",
-    "Evolution": "Eevee --> Glaceon"
+    "Type": "Ice",
+    "Evolution": "Eevee --> Vaporeon --> Jolteon --> Flareon --> Espeon --> Umbreon --> Leafeon --> Glaceon --> Sylveon"
   },
   "Gliscor": {
     "dex": 472,
@@ -3307,7 +3307,7 @@
     "dex": 474,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Gallade": {
@@ -3328,7 +3328,7 @@
     "dex": 477,
     "Form": " ",
     "Generation": 4,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Froslass": {
@@ -3349,21 +3349,21 @@
     "dex": 480,
     "Form": " ",
     "Generation": 4,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Mesprit": {
     "dex": 481,
     "Form": " ",
     "Generation": 4,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Azelf": {
     "dex": 482,
     "Form": " ",
     "Generation": 4,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Dialga": {
@@ -3391,7 +3391,7 @@
     "dex": 486,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Giratina": {
@@ -3405,28 +3405,28 @@
     "dex": 488,
     "Form": " ",
     "Generation": 4,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Phione": {
     "dex": 489,
     "Form": " ",
     "Generation": 4,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Manaphy": {
     "dex": 490,
     "Form": " ",
     "Generation": 4,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Darkrai": {
     "dex": 491,
     "Form": " ",
     "Generation": 4,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Shaymin": {
@@ -3440,7 +3440,7 @@
     "dex": 493,
     "Form": " ",
     "Generation": 4,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Victini": {
@@ -3454,28 +3454,28 @@
     "dex": 495,
     "Form": " ",
     "Generation": 5,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Servine": {
     "dex": 496,
     "Form": " ",
     "Generation": 5,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Serperior": {
     "dex": 497,
     "Form": " ",
     "Generation": 5,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Tepig": {
     "dex": 498,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Pignite": {
@@ -3496,14 +3496,14 @@
     "dex": 501,
     "Form": " ",
     "Generation": 5,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Dewott": {
     "dex": 502,
     "Form": " ",
     "Generation": 5,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Samurott": {
@@ -3517,105 +3517,105 @@
     "dex": 504,
     "Form": " ",
     "Generation": 5,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Watchog": {
     "dex": 505,
     "Form": " ",
     "Generation": 5,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Lillipup": {
     "dex": 506,
     "Form": " ",
     "Generation": 5,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Herdier": {
     "dex": 507,
     "Form": " ",
     "Generation": 5,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Stoutland": {
     "dex": 508,
     "Form": " ",
     "Generation": 5,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Purrloin": {
     "dex": 509,
     "Form": " ",
     "Generation": 5,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Liepard": {
     "dex": 510,
     "Form": " ",
     "Generation": 5,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Pansage": {
     "dex": 511,
     "Form": " ",
     "Generation": 5,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Simisage": {
     "dex": 512,
     "Form": " ",
     "Generation": 5,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Pansear": {
     "dex": 513,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Simisear": {
     "dex": 514,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Panpour": {
     "dex": 515,
     "Form": " ",
     "Generation": 5,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Simipour": {
     "dex": 516,
     "Form": " ",
     "Generation": 5,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Munna": {
     "dex": 517,
     "Form": " ",
     "Generation": 5,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Musharna": {
     "dex": 518,
     "Form": " ",
     "Generation": 5,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Pdexove": {
@@ -3643,35 +3643,35 @@
     "dex": 522,
     "Form": " ",
     "Generation": 5,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Zebstrika": {
     "dex": 523,
     "Form": " ",
     "Generation": 5,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Roggenrola": {
     "dex": 524,
     "Form": " ",
     "Generation": 5,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Boldore": {
     "dex": 525,
     "Form": " ",
     "Generation": 5,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Gigalith": {
     "dex": 526,
     "Form": " ",
     "Generation": 5,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Woobat": {
@@ -3692,7 +3692,7 @@
     "dex": 529,
     "Form": " ",
     "Generation": 5,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Excadrill": {
@@ -3713,28 +3713,28 @@
     "dex": 532,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Gurdurr": {
     "dex": 533,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Conkeldurr": {
     "dex": 534,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Tympole": {
     "dex": 535,
     "Form": " ",
     "Generation": 5,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Palpitoad": {
@@ -3755,14 +3755,14 @@
     "dex": 538,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Sawk": {
     "dex": 539,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Sewaddle": {
@@ -3825,7 +3825,7 @@
     "dex": 548,
     "Form": " ",
     "Generation": 5,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Lilligant": {
@@ -3839,7 +3839,7 @@
     "dex": 550,
     "Form": "White-Striped Form",
     "Generation": 8,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Sandile": {
@@ -3867,7 +3867,7 @@
     "dex": 554,
     "Form": "Galarian Darumaka",
     "Generation": 8,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Darmanitan": {
@@ -3881,7 +3881,7 @@
     "dex": 556,
     "Form": " ",
     "Generation": 5,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Dwebble": {
@@ -3930,7 +3930,7 @@
     "dex": 563,
     "Form": " ",
     "Generation": 5,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Tirtouga": {
@@ -3965,14 +3965,14 @@
     "dex": 568,
     "Form": " ",
     "Generation": 5,
-    "Type": "Poison/ ",
+    "Type": "Poison",
     "Evolution": "Unknown"
   },
   "Garbodor": {
     "dex": 569,
     "Form": " ",
     "Generation": 5,
-    "Type": "Poison/ ",
+    "Type": "Poison",
     "Evolution": "Unknown"
   },
   "Zorua": {
@@ -3993,56 +3993,56 @@
     "dex": 572,
     "Form": " ",
     "Generation": 5,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Cinccino": {
     "dex": 573,
     "Form": " ",
     "Generation": 5,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Gothita": {
     "dex": 574,
     "Form": " ",
     "Generation": 5,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Gothorita": {
     "dex": 575,
     "Form": " ",
     "Generation": 5,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Gothitelle": {
     "dex": 576,
     "Form": " ",
     "Generation": 5,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Solosis": {
     "dex": 577,
     "Form": " ",
     "Generation": 5,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Duosion": {
     "dex": 578,
     "Form": " ",
     "Generation": 5,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Reuniclus": {
     "dex": 579,
     "Form": " ",
     "Generation": 5,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Ducklett": {
@@ -4063,21 +4063,21 @@
     "dex": 582,
     "Form": " ",
     "Generation": 5,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Vanillish": {
     "dex": 583,
     "Form": " ",
     "Generation": 5,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Vanilluxe": {
     "dex": 584,
     "Form": " ",
     "Generation": 5,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Deerling": {
@@ -4105,7 +4105,7 @@
     "dex": 588,
     "Form": " ",
     "Generation": 5,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Escavalier": {
@@ -4147,7 +4147,7 @@
     "dex": 594,
     "Form": " ",
     "Generation": 5,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Joltik": {
@@ -4182,56 +4182,56 @@
     "dex": 599,
     "Form": " ",
     "Generation": 5,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Klang": {
     "dex": 600,
     "Form": " ",
     "Generation": 5,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Klinklang": {
     "dex": 601,
     "Form": " ",
     "Generation": 5,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Tynamo": {
     "dex": 602,
     "Form": " ",
     "Generation": 5,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Eelektrik": {
     "dex": 603,
     "Form": " ",
     "Generation": 5,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Eelektross": {
     "dex": 604,
     "Form": " ",
     "Generation": 5,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Elgyem": {
     "dex": 605,
     "Form": " ",
     "Generation": 5,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Beheeyem": {
     "dex": 606,
     "Form": " ",
     "Generation": 5,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Litwick": {
@@ -4259,56 +4259,56 @@
     "dex": 610,
     "Form": " ",
     "Generation": 5,
-    "Type": "Dragon/ ",
+    "Type": "Dragon",
     "Evolution": "Unknown"
   },
   "Fraxure": {
     "dex": 611,
     "Form": " ",
     "Generation": 5,
-    "Type": "Dragon/ ",
+    "Type": "Dragon",
     "Evolution": "Unknown"
   },
   "Haxorus": {
     "dex": 612,
     "Form": " ",
     "Generation": 5,
-    "Type": "Dragon/ ",
+    "Type": "Dragon",
     "Evolution": "Unknown"
   },
   "Cubchoo": {
     "dex": 613,
     "Form": " ",
     "Generation": 5,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Beartic": {
     "dex": 614,
     "Form": " ",
     "Generation": 5,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Cryogonal": {
     "dex": 615,
     "Form": " ",
     "Generation": 5,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Shelmet": {
     "dex": 616,
     "Form": " ",
     "Generation": 5,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Accelgor": {
     "dex": 617,
     "Form": " ",
     "Generation": 5,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Stunfisk": {
@@ -4322,21 +4322,21 @@
     "dex": 619,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Mienshao": {
     "dex": 620,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Druddigon": {
     "dex": 621,
     "Form": " ",
     "Generation": 5,
-    "Type": "Dragon/ ",
+    "Type": "Dragon",
     "Evolution": "Unknown"
   },
   "Golett": {
@@ -4371,7 +4371,7 @@
     "dex": 626,
     "Form": " ",
     "Generation": 5,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Rufflet": {
@@ -4406,7 +4406,7 @@
     "dex": 631,
     "Form": " ",
     "Generation": 5,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Durant": {
@@ -4476,7 +4476,7 @@
     "dex": 641,
     "Form": "Therian Forme",
     "Generation": 5,
-    "Type": "Flying/ ",
+    "Type": "Flying",
     "Evolution": "Unknown"
   },
   "Thundurus": {
@@ -4539,14 +4539,14 @@
     "dex": 650,
     "Form": " ",
     "Generation": 6,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Quilladin": {
     "dex": 651,
     "Form": " ",
     "Generation": 6,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Chesnaught": {
@@ -4560,14 +4560,14 @@
     "dex": 653,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Braixen": {
     "dex": 654,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Delphox": {
@@ -4581,14 +4581,14 @@
     "dex": 656,
     "Form": " ",
     "Generation": 6,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Frogadier": {
     "dex": 657,
     "Form": " ",
     "Generation": 6,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Greninja": {
@@ -4602,7 +4602,7 @@
     "dex": 659,
     "Form": " ",
     "Generation": 6,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Diggersby": {
@@ -4637,14 +4637,14 @@
     "dex": 664,
     "Form": " ",
     "Generation": 6,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Spewpa": {
     "dex": 665,
     "Form": " ",
     "Generation": 6,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Vivillon": {
@@ -4672,42 +4672,42 @@
     "dex": 669,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Floette": {
     "dex": 670,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Florges": {
     "dex": 671,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Skdexdo": {
     "dex": 672,
     "Form": " ",
     "Generation": 6,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Gogoat": {
     "dex": 673,
     "Form": " ",
     "Generation": 6,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Pancham": {
     "dex": 674,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Pangoro": {
@@ -4721,21 +4721,21 @@
     "dex": 676,
     "Form": " ",
     "Generation": 6,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Espurr": {
     "dex": 677,
     "Form": " ",
     "Generation": 6,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Meowstic": {
     "dex": 678,
     "Form": "Female",
     "Generation": 6,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Honedge": {
@@ -4763,28 +4763,28 @@
     "dex": 682,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Aromatisse": {
     "dex": 683,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Swirlix": {
     "dex": 684,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Slurpuff": {
     "dex": 685,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Inkay": {
@@ -4833,14 +4833,14 @@
     "dex": 692,
     "Form": " ",
     "Generation": 6,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Clawitzer": {
     "dex": 693,
     "Form": " ",
     "Generation": 6,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Helioptile": {
@@ -4889,8 +4889,8 @@
     "dex": 700,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fairy/ ",
-    "Evolution": "Eevee --> Sylveon"
+    "Type": "Fairy",
+    "Evolution": "Eevee --> Vaporeon --> Jolteon --> Flareon --> Espeon --> Umbreon --> Leafeon --> Glaceon --> Sylveon"
   },
   "Hawlucha": {
     "dex": 701,
@@ -4917,7 +4917,7 @@
     "dex": 704,
     "Form": " ",
     "Generation": 6,
-    "Type": "Dragon/ ",
+    "Type": "Dragon",
     "Evolution": "Unknown"
   },
   "Sliggoo": {
@@ -4973,7 +4973,7 @@
     "dex": 712,
     "Form": " ",
     "Generation": 6,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Avalugg": {
@@ -5001,7 +5001,7 @@
     "dex": 716,
     "Form": " ",
     "Generation": 6,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Yveltal": {
@@ -5078,14 +5078,14 @@
     "dex": 725,
     "Form": " ",
     "Generation": 7,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Torracat": {
     "dex": 726,
     "Form": " ",
     "Generation": 7,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Incineroar": {
@@ -5099,14 +5099,14 @@
     "dex": 728,
     "Form": " ",
     "Generation": 7,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Brionne": {
     "dex": 729,
     "Form": " ",
     "Generation": 7,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Primarina": {
@@ -5141,21 +5141,21 @@
     "dex": 734,
     "Form": " ",
     "Generation": 7,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Gumshoos": {
     "dex": 735,
     "Form": " ",
     "Generation": 7,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Grubbin": {
     "dex": 736,
     "Form": " ",
     "Generation": 7,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Charjabug": {
@@ -5176,7 +5176,7 @@
     "dex": 739,
     "Form": " ",
     "Generation": 7,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Crabominable": {
@@ -5211,21 +5211,21 @@
     "dex": 744,
     "Form": "Own Tempo Rockruff",
     "Generation": 7,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Lycanroc": {
     "dex": 745,
     "Form": "Dusk Form",
     "Generation": 7,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Wishiwashi": {
     "dex": 746,
     "Form": "School Form",
     "Generation": 7,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Mareanie": {
@@ -5246,14 +5246,14 @@
     "dex": 749,
     "Form": " ",
     "Generation": 7,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Mudsdale": {
     "dex": 750,
     "Form": " ",
     "Generation": 7,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Dewpdexer": {
@@ -5274,14 +5274,14 @@
     "dex": 753,
     "Form": " ",
     "Generation": 7,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Lurantis": {
     "dex": 754,
     "Form": " ",
     "Generation": 7,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Morelull": {
@@ -5330,28 +5330,28 @@
     "dex": 761,
     "Form": " ",
     "Generation": 7,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Steenee": {
     "dex": 762,
     "Form": " ",
     "Generation": 7,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Tsareena": {
     "dex": 763,
     "Form": " ",
     "Generation": 7,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Comfey": {
     "dex": 764,
     "Form": " ",
     "Generation": 7,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Oranguru": {
@@ -5365,7 +5365,7 @@
     "dex": 766,
     "Form": " ",
     "Generation": 7,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Wimpod": {
@@ -5400,21 +5400,21 @@
     "dex": 771,
     "Form": " ",
     "Generation": 7,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Type: Null": {
     "dex": 772,
     "Form": " ",
     "Generation": 7,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Silvally": {
     "dex": 773,
     "Form": " ",
     "Generation": 7,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Minior": {
@@ -5428,7 +5428,7 @@
     "dex": 775,
     "Form": " ",
     "Generation": 7,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Turtonator": {
@@ -5477,7 +5477,7 @@
     "dex": 782,
     "Form": " ",
     "Generation": 7,
-    "Type": "Dragon/ ",
+    "Type": "Dragon",
     "Evolution": "Unknown"
   },
   "Hakamo-o": {
@@ -5526,14 +5526,14 @@
     "dex": 789,
     "Form": " ",
     "Generation": 7,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Cosmoem": {
     "dex": 790,
     "Form": " ",
     "Generation": 7,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Solgaleo": {
@@ -5575,7 +5575,7 @@
     "dex": 796,
     "Form": " ",
     "Generation": 7,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Celesteela": {
@@ -5624,7 +5624,7 @@
     "dex": 803,
     "Form": " ",
     "Generation": 7,
-    "Type": "Poison/ ",
+    "Type": "Poison",
     "Evolution": "Unknown"
   },
   "Naganadel": {
@@ -5652,112 +5652,112 @@
     "dex": 807,
     "Form": " ",
     "Generation": 7,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Meltan": {
     "dex": 808,
     "Form": " ",
     "Generation": 7,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Melmetal": {
     "dex": 809,
     "Form": " ",
     "Generation": 7,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Grookey": {
     "dex": 810,
     "Form": " ",
     "Generation": 8,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Thwackey": {
     "dex": 811,
     "Form": " ",
     "Generation": 8,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Rillaboom": {
     "dex": 812,
     "Form": " ",
     "Generation": 8,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Scorbunny": {
     "dex": 813,
     "Form": " ",
     "Generation": 8,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Raboot": {
     "dex": 814,
     "Form": " ",
     "Generation": 8,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Cinderace": {
     "dex": 815,
     "Form": " ",
     "Generation": 8,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Sobble": {
     "dex": 816,
     "Form": " ",
     "Generation": 8,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Drizzile": {
     "dex": 817,
     "Form": " ",
     "Generation": 8,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Inteleon": {
     "dex": 818,
     "Form": " ",
     "Generation": 8,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Skwovet": {
     "dex": 819,
     "Form": " ",
     "Generation": 8,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Greedent": {
     "dex": 820,
     "Form": " ",
     "Generation": 8,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Rookdexee": {
     "dex": 821,
     "Form": " ",
     "Generation": 8,
-    "Type": "Flying/ ",
+    "Type": "Flying",
     "Evolution": "Unknown"
   },
   "Corvisquire": {
     "dex": 822,
     "Form": " ",
     "Generation": 8,
-    "Type": "Flying/ ",
+    "Type": "Flying",
     "Evolution": "Unknown"
   },
   "Corviknight": {
@@ -5771,7 +5771,7 @@
     "dex": 824,
     "Form": " ",
     "Generation": 8,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Dottler": {
@@ -5792,49 +5792,49 @@
     "dex": 827,
     "Form": " ",
     "Generation": 8,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Thievul": {
     "dex": 828,
     "Form": " ",
     "Generation": 8,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Gossifleur": {
     "dex": 829,
     "Form": " ",
     "Generation": 8,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Eldegoss": {
     "dex": 830,
     "Form": " ",
     "Generation": 8,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Wooloo": {
     "dex": 831,
     "Form": " ",
     "Generation": 8,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Dubwool": {
     "dex": 832,
     "Form": " ",
     "Generation": 8,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Chewtle": {
     "dex": 833,
     "Form": " ",
     "Generation": 8,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Drednaw": {
@@ -5848,21 +5848,21 @@
     "dex": 835,
     "Form": " ",
     "Generation": 8,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Boltund": {
     "dex": 836,
     "Form": " ",
     "Generation": 8,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Rolycoly": {
     "dex": 837,
     "Form": " ",
     "Generation": 8,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Carkol": {
@@ -5904,14 +5904,14 @@
     "dex": 843,
     "Form": " ",
     "Generation": 8,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Sandaconda": {
     "dex": 844,
     "Form": " ",
     "Generation": 8,
-    "Type": "Ground/ ",
+    "Type": "Ground",
     "Evolution": "Unknown"
   },
   "Cramorant": {
@@ -5925,14 +5925,14 @@
     "dex": 846,
     "Form": " ",
     "Generation": 8,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Barraskewda": {
     "dex": 847,
     "Form": " ",
     "Generation": 8,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Toxel": {
@@ -5967,42 +5967,42 @@
     "dex": 852,
     "Form": " ",
     "Generation": 8,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Grapploct": {
     "dex": 853,
     "Form": " ",
     "Generation": 8,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Sinistea": {
     "dex": 854,
     "Form": " ",
     "Generation": 8,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Polteageist": {
     "dex": 855,
     "Form": " ",
     "Generation": 8,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Hatenna": {
     "dex": 856,
     "Form": " ",
     "Generation": 8,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Hattrem": {
     "dex": 857,
     "Form": " ",
     "Generation": 8,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Hatterene": {
@@ -6044,21 +6044,21 @@
     "dex": 863,
     "Form": " ",
     "Generation": 8,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Cursola": {
     "dex": 864,
     "Form": " ",
     "Generation": 8,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Sirfetch'd": {
     "dex": 865,
     "Form": " ",
     "Generation": 8,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Mr. Rime": {
@@ -6079,28 +6079,28 @@
     "dex": 868,
     "Form": " ",
     "Generation": 8,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Alcremie": {
     "dex": 869,
     "Form": " ",
     "Generation": 8,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Falinks": {
     "dex": 870,
     "Form": " ",
     "Generation": 8,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Pincurchin": {
     "dex": 871,
     "Form": " ",
     "Generation": 8,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Snom": {
@@ -6121,14 +6121,14 @@
     "dex": 874,
     "Form": " ",
     "Generation": 8,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Eiscue": {
     "dex": 875,
     "Form": "Noice Face",
     "Generation": 8,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Indeedee": {
@@ -6149,14 +6149,14 @@
     "dex": 878,
     "Form": " ",
     "Generation": 8,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Copperajah": {
     "dex": 879,
     "Form": " ",
     "Generation": 8,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Dracozolt": {
@@ -6240,7 +6240,7 @@
     "dex": 891,
     "Form": " ",
     "Generation": 8,
-    "Type": "Fighting/ ",
+    "Type": "Fighting",
     "Evolution": "Unknown"
   },
   "Urshifu": {
@@ -6261,28 +6261,28 @@
     "dex": 894,
     "Form": " ",
     "Generation": 8,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Regdexrago": {
     "dex": 895,
     "Form": " ",
     "Generation": 8,
-    "Type": "Dragon/ ",
+    "Type": "Dragon",
     "Evolution": "Unknown"
   },
   "Glastrier": {
     "dex": 896,
     "Form": " ",
     "Generation": 8,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Spectrier": {
     "dex": 897,
     "Form": " ",
     "Generation": 8,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Calyrex": {
@@ -6345,14 +6345,14 @@
     "dex": 906,
     "Form": " ",
     "Generation": 9,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Floragato": {
     "dex": 907,
     "Form": " ",
     "Generation": 9,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Meowscarada": {
@@ -6366,14 +6366,14 @@
     "dex": 909,
     "Form": " ",
     "Generation": 9,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Crocalor": {
     "dex": 910,
     "Form": " ",
     "Generation": 9,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Skeledirge": {
@@ -6387,14 +6387,14 @@
     "dex": 912,
     "Form": " ",
     "Generation": 9,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Quaxwell": {
     "dex": 913,
     "Form": " ",
     "Generation": 9,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Quaquaval": {
@@ -6408,35 +6408,35 @@
     "dex": 915,
     "Form": " ",
     "Generation": 9,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Oinkologne": {
     "dex": 916,
     "Form": "Female",
     "Generation": 9,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Tarountula": {
     "dex": 917,
     "Form": " ",
     "Generation": 9,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Spdexops": {
     "dex": 918,
     "Form": " ",
     "Generation": 9,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Nymble": {
     "dex": 919,
     "Form": " ",
     "Generation": 9,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Lokix": {
@@ -6450,7 +6450,7 @@
     "dex": 921,
     "Form": " ",
     "Generation": 9,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Pawmo": {
@@ -6471,28 +6471,28 @@
     "dex": 924,
     "Form": " ",
     "Generation": 9,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Maushold": {
     "dex": 925,
     "Form": "Family of Three",
     "Generation": 9,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Fdexough": {
     "dex": 926,
     "Form": " ",
     "Generation": 9,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Dachsbun": {
     "dex": 927,
     "Form": " ",
     "Generation": 9,
-    "Type": "Fairy/ ",
+    "Type": "Fairy",
     "Evolution": "Unknown"
   },
   "Smoliv": {
@@ -6527,28 +6527,28 @@
     "dex": 932,
     "Form": " ",
     "Generation": 9,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Naclstack": {
     "dex": 933,
     "Form": " ",
     "Generation": 9,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Garganacl": {
     "dex": 934,
     "Form": " ",
     "Generation": 9,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Charcadet": {
     "dex": 935,
     "Form": " ",
     "Generation": 9,
-    "Type": "Fire/ ",
+    "Type": "Fire",
     "Evolution": "Unknown"
   },
   "Armarouge": {
@@ -6569,14 +6569,14 @@
     "dex": 938,
     "Form": " ",
     "Generation": 9,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Bellibolt": {
     "dex": 939,
     "Form": " ",
     "Generation": 9,
-    "Type": "Electric/ ",
+    "Type": "Electric",
     "Evolution": "Unknown"
   },
   "Wattrel": {
@@ -6597,14 +6597,14 @@
     "dex": 942,
     "Form": " ",
     "Generation": 9,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Mabosstiff": {
     "dex": 943,
     "Form": " ",
     "Generation": 9,
-    "Type": "Dark/ ",
+    "Type": "Dark",
     "Evolution": "Unknown"
   },
   "Shroodle": {
@@ -6653,14 +6653,14 @@
     "dex": 950,
     "Form": " ",
     "Generation": 9,
-    "Type": "Rock/ ",
+    "Type": "Rock",
     "Evolution": "Unknown"
   },
   "Capsakdex": {
     "dex": 951,
     "Form": " ",
     "Generation": 9,
-    "Type": "Grass/ ",
+    "Type": "Grass",
     "Evolution": "Unknown"
   },
   "Scovillain": {
@@ -6674,7 +6674,7 @@
     "dex": 953,
     "Form": " ",
     "Generation": 9,
-    "Type": "Bug/ ",
+    "Type": "Bug",
     "Evolution": "Unknown"
   },
   "Rabsca": {
@@ -6688,14 +6688,14 @@
     "dex": 955,
     "Form": " ",
     "Generation": 9,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Espathra": {
     "dex": 956,
     "Form": " ",
     "Generation": 9,
-    "Type": "Psychic/ ",
+    "Type": "Psychic",
     "Evolution": "Unknown"
   },
   "Tinkatink": {
@@ -6723,14 +6723,14 @@
     "dex": 960,
     "Form": " ",
     "Generation": 9,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Wugtrio": {
     "dex": 961,
     "Form": " ",
     "Generation": 9,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Bombirdier": {
@@ -6744,14 +6744,14 @@
     "dex": 963,
     "Form": " ",
     "Generation": 9,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Palafin": {
     "dex": 964,
     "Form": "Hero Form",
     "Generation": 9,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Varoom": {
@@ -6779,7 +6779,7 @@
     "dex": 968,
     "Form": " ",
     "Generation": 9,
-    "Type": "Steel/ ",
+    "Type": "Steel",
     "Evolution": "Unknown"
   },
   "Glimmet": {
@@ -6800,14 +6800,14 @@
     "dex": 971,
     "Form": " ",
     "Generation": 9,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Houndstone": {
     "dex": 972,
     "Form": " ",
     "Generation": 9,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Flamigo": {
@@ -6821,14 +6821,14 @@
     "dex": 974,
     "Form": " ",
     "Generation": 9,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Cetitan": {
     "dex": 975,
     "Form": " ",
     "Generation": 9,
-    "Type": "Ice/ ",
+    "Type": "Ice",
     "Evolution": "Unknown"
   },
   "Veluza": {
@@ -6842,7 +6842,7 @@
     "dex": 977,
     "Form": " ",
     "Generation": 9,
-    "Type": "Water/ ",
+    "Type": "Water",
     "Evolution": "Unknown"
   },
   "Tatsugiri": {
@@ -6877,7 +6877,7 @@
     "dex": 982,
     "Form": "Three-Segment Form",
     "Generation": 9,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Kingambit": {
@@ -6996,7 +6996,7 @@
     "dex": 999,
     "Form": "Roaming Form",
     "Generation": 9,
-    "Type": "Ghost/ ",
+    "Type": "Ghost",
     "Evolution": "Unknown"
   },
   "Gholdengo": {
@@ -7171,7 +7171,7 @@
     "dex": 1024,
     "Form": "Stellar Form",
     "Generation": 9,
-    "Type": "Normal/ ",
+    "Type": "Normal",
     "Evolution": "Unknown"
   },
   "Pecharunt": {
