@@ -1,0 +1,22 @@
+{
+  "Pikachu": {
+    "dex": 25,
+    "Type": "Electric",
+    "Evolution": "Pichu --> Pikachu --> Raichu"
+  },
+  "Charmander": {
+    "dex": 4,
+    "Type": "Fire",
+    "Evolution": "Charmander --> Charmeleon --> Charizard"
+  },
+  "Squirtle": {
+    "dex": 7,
+    "Type": "Water",
+    "Evolution": "Squirtle --> Wartortle --> Blastoise"
+  },
+  "Bulbasaur": {
+    "dex": 1,
+    "Type": "Grass/Poison",
+    "Evolution": "Bulbasaur --> Ivysaur --> Venusaur"
+  }
+}
