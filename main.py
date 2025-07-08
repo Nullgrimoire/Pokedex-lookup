@@ -1,4 +1,13 @@
-def lookupPokemon(name):
+import json
+
+def load_pokedex(filename="pokedex.json"):
+    try:
+        with open(filename, "r") as file:
+            return json.load(file)
+    except FileNotFoundError:
+        return {}
+
+def lookup_pokemon(pokedex, name):
     pokemon = pokedex.get(name.title())
     if pokemon:
         print(f"\n{name.title()}, I choose you!")
@@ -7,19 +16,17 @@ def lookupPokemon(name):
         print(f"\n{name.title()} not found...")
 
 def main():
+    pokedex = load_pokedex()
     print("Welcome to Pokedex Lookup :) \n")
 
-    while true:
-        print("\n Options")
-        print("1. Search for Pokemon")
-        print("2. All Pokemon")
-        print("3. Exit")
+    while True:
+        print("\n1. Search Pokémon\n2. List All\n3. Exit")
         
         choice = input("> ")
 
         if choice == "1":
             name = input("Enter Desired Pokemon: ")
-            lookupPokemon(name)
+            lookup_pokemon(pokedex, name)
         elif choice == "2":
             print("\n Pokemon in Pokedex:")
             for name in pokedex:
