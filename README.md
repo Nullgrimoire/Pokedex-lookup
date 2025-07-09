@@ -21,8 +21,8 @@ Welcome to the **Pokédex Lookup CLI**, a simple but powerful terminal tool buil
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/pokedex-cli.git
-cd pokedex-cli
+git clone https://github.com/Nullgrimoire/Pokedex-lookup.git
+cd Pokedex-lookup
 ```
 
 ### 2. Run the CLI
@@ -55,6 +55,7 @@ Tests are located in the `tests/` directory and cover core logic such as Pokéde
 ├── utils/
 │   └── tools.py         # Utility functions like clear_console()
 ├── tests/               # Unit tests for core logic
+    └── test_main.py               
 └── README.md            # This file
 ```
 
