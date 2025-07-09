@@ -10,6 +10,11 @@ Author: [Nullgrimoire and Racer1428]
 import json
 from typing import Dict, Any, Optional
 from utils.tools import clear_console
+from rich.console import Console
+from rich.table import Table
+from rich.panel import Panel
+
+console = Console()
 
 def load_pokedex(filename: str = "pokedex/pokedex.json") -> Dict[str, Any]:
     """
@@ -25,10 +30,10 @@ def load_pokedex(filename: str = "pokedex/pokedex.json") -> Dict[str, Any]:
         with open(filename, "r") as file:
             return json.load(file)
     except FileNotFoundError:
-        print(f"Warning: {filename} not found. Returning empty Pokédex.")
+        console.print(f"[bold yellow]Warning:[/] {filename} not found. Returning empty Pokédex.")
         return {}
     except json.JSONDecodeError:
-        print(f"Error: {filename} is not a valid JSON file. Returning empty Pokédex.")
+        console.print(f"[bold red]Error:[/] {filename} is not a valid JSON file. Returning empty Pokédex.")
         return {}
 
 def print_pokemon_info(name: str, pokemon: Dict[str, Any]) -> None:
@@ -39,10 +44,12 @@ def print_pokemon_info(name: str, pokemon: Dict[str, Any]) -> None:
         name (str): The name of the Pokémon.
         pokemon (dict): The Pokémon's data.
     """
-    print(f"\n{name}, I choose you!")
-    print(f"No. {pokemon.get('dex', 'N/A')}")
-    print(f"Type: {pokemon.get('Type', 'Unknown')}")
-    print(f"Evolution: {pokemon.get('Evolution', 'Unknown')}")
+    panel_title = f"[bold green]{name}, I choose you![/]"
+    table = Table(show_header=False, box=None)
+    table.add_row("[bold cyan]No.[/]", f"{pokemon.get('dex', 'N/A')}")
+    table.add_row("[bold magenta]Type:[/]", f"{pokemon.get('Type', 'Unknown')}")
+    table.add_row("[bold yellow]Evolution:[/]", f"{pokemon.get('Evolution', 'Unknown')}")
+    console.print(Panel(table, title=panel_title, expand=False, border_style="green"))
 
 def lookup_pokemon(pokedex: Dict[str, Any], name: str) -> Optional[Dict[str, Any]]:
     """
@@ -64,42 +71,45 @@ def list_all_pokemon(pokedex: Dict[str, Any]) -> None:
     Args:
         pokedex (dict): The Pokédex dictionary.
     """
-    print("\nPokémon in Pokédex:")
+    table = Table(title="Pokémon in Pokédex", show_header=False, box=None, title_style="bold blue")
     for name in sorted(pokedex):
-        print(f"- {name}")
+        table.add_row(f"[white]-[/] [bold]{name}[/]")
+    console.print(table)
 
 def menu() -> None:
     """
     Display the main menu and handle user input.
     """
     pokedex = load_pokedex()
-    print("Welcome to Pokedex Lookup :) \n")
+    
     # Uncomment the next line to clear the console each loop
     clear_console()
+    
+    console.print("[bold blue]Welcome to Pokedex Lookup :)[/bold blue]\n")
+
     while True:
+        console.print("[bold]Options:[/bold]")
+        console.print("\n[cyan]1.[/] Search Pokémon\n[cyan]2.[/] List All\n[cyan]3.[/] Exit")
 
-        print("Options:")
-        print("\n1. Search Pokémon\n2. List All\n3. Exit")
-
-        choice = input("> ").strip()
+        choice = console.input("[bold yellow]> [/]").strip()
 
         if choice == "1":
-            name = input("Enter Desired Pokemon: ").strip()
+            name = console.input("[bold]Enter Desired Pokemon:[/] ").strip()
             if not name:
-                print("Please enter a Pokémon name.")
+                console.print("[red]Please enter a Pokémon name.[/]")
                 continue
             pokemon = lookup_pokemon(pokedex, name)
             if pokemon:
                 print_pokemon_info(name.title(), pokemon)
             else:
-                print(f"\n{name.title()} not found...")
+                console.print(f"[red]{name.title()} not found...[/]")
         elif choice == "2":
             list_all_pokemon(pokedex)
         elif choice == "3":
-            print("Goodbye... :(")
+            console.print("[bold magenta]Goodbye... :([/]")
             break
         else:
-            print("Please choose 1, 2, or 3.")
+            console.print("[red]Please choose 1, 2, or 3.[/]")
 
 def main() -> None:
     """
