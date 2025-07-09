@@ -19,4 +19,4 @@ what to compile for pokedex:
     regional forms
     regional forms with different evolutions
     alternate forms
-    megas
+    megas.
