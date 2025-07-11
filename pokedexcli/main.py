@@ -1,49 +1,40 @@
 """
 Simple Pokémon Pokédex Lookup Tool
 
-This script allows users to search for Pokémon information stored in a JSON file.
+This script allows users to search for Pokémon information stored in a SQLite database.
 It displays Dex number, type, and evolution chain, and includes a menu interface.
 
 Author: [Nullgrimoire and Racer1428]
 """
 
-import json
+import sqlite3
 from typing import Dict, Any, Optional
-from utils.tools import clear_console
+from .utils import clear_console
 from rich.console import Console
 from rich.table import Table
 from rich.panel import Panel
 
 console = Console()
 
-def load_pokedex(filename: str = "pokedex/pokedex.json") -> Dict[str, Any]:
+DB_PATH = "pokedex.db"
+
+def get_db_connection():
+    return sqlite3.connect(DB_PATH)
+
+def load_pokedex():
     """
-    Load the Pokédex data from a JSON file.
-
-    Args:
-        filename (str): The name of the JSON file to load. Defaults to 'pokedex/pokedex.json'.
-
+    Load all Pokémon from the SQLite database.
     Returns:
-        dict: A dictionary containing Pokémon data, keyed by Pokémon name.
+        dict: {name: {dex, Type, Evolution}}
     """
-    try:
-        with open(filename, "r") as file:
-            return json.load(file)
-    except FileNotFoundError:
-        console.print(f"[bold yellow]Warning:[/] {filename} not found. Returning empty Pokédex.")
-        return {}
-    except json.JSONDecodeError:
-        console.print(f"[bold red]Error:[/] {filename} is not a valid JSON file. Returning empty Pokédex.")
-        return {}
+    conn = get_db_connection()
+    c = conn.cursor()
+    c.execute("SELECT name, dex, Type, Evolution FROM pokemon")
+    pokedex = {row[0]: {"dex": row[1], "Type": row[2], "Evolution": row[3]} for row in c.fetchall()}
+    conn.close()
+    return pokedex
 
 def print_pokemon_info(name: str, pokemon: Dict[str, Any]) -> None:
-    """
-    Print formatted information about a Pokémon.
-
-    Args:
-        name (str): The name of the Pokémon.
-        pokemon (dict): The Pokémon's data.
-    """
     panel_title = f"[bold green]{name}, I choose you![/]"
     table = Table(show_header=False, box=None)
     table.add_row("[bold cyan]No.[/]", f"{pokemon.get('dex', 'N/A')}")
@@ -52,47 +43,22 @@ def print_pokemon_info(name: str, pokemon: Dict[str, Any]) -> None:
     console.print(Panel(table, title=panel_title, expand=False, border_style="green"))
 
 def lookup_pokemon(pokedex: Dict[str, Any], name: str) -> Optional[Dict[str, Any]]:
-    """
-    Look up a Pokémon by name.
-
-    Args:
-        pokedex (dict): The Pokédex dictionary.
-        name (str): The name of the Pokémon to look up.
-
-    Returns:
-        dict or None: The Pokémon's data if found, else None.
-    """
     return pokedex.get(name.title())
 
 def list_all_pokemon(pokedex: Dict[str, Any]) -> None:
-    """
-    Print all Pokémon names in the Pokédex, sorted alphabetically.
-
-    Args:
-        pokedex (dict): The Pokédex dictionary.
-    """
     table = Table(title="Pokémon in Pokédex", show_header=False, box=None, title_style="bold blue")
     for name in sorted(pokedex):
         table.add_row(f"[white]-[/] [bold]{name}[/]")
     console.print(table)
 
 def menu() -> None:
-    """
-    Display the main menu and handle user input.
-    """
     pokedex = load_pokedex()
-    
-    # Uncomment the next line to clear the console each loop
     clear_console()
-    
     console.print("[bold blue]Welcome to Pokedex Lookup :)[/bold blue]\n")
-
     while True:
         console.print("[bold]Options:[/bold]")
         console.print("\n[cyan]1.[/] Search Pokémon\n[cyan]2.[/] List All\n[cyan]3.[/] Exit")
-
         choice = console.input("[bold yellow]> [/]").strip()
-
         if choice == "1":
             name = console.input("[bold]Enter Desired Pokemon:[/] ").strip()
             if not name:
@@ -112,9 +78,6 @@ def menu() -> None:
             console.print("[red]Please choose 1, 2, or 3.[/]")
 
 def main() -> None:
-    """
-    Entry point for the Pokédex application.
-    """
     menu()
 
 if __name__ == "__main__":
