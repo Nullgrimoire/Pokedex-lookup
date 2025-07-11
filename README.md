@@ -9,7 +9,7 @@ Welcome to the **Pokédex Lookup CLI**, a simple but powerful terminal tool buil
 - 🔍 Search Pokémon by name  
 - 📜 View Type (with Type1/Type2 combined)  
 - 🔗 See full Evolution Chains  
-- 📁 Backed by a JSON-based Pokédex database  
+- 💾 Uses a SQLite database for fast lookups  
 - 🧼 Includes a cross-platform console clear tool
 - 🧪 Includes unit tests for core logic (see below)
 - 📝 Type hints and improved docstrings for maintainability
@@ -25,10 +25,16 @@ git clone https://github.com/Nullgrimoire/Pokedex-lookup.git
 cd Pokedex-lookup
 ```
 
-### 2. Run the CLI
+### 2. Install requirements
 
 ```bash
-python main.py
+pip install --user -r requirements.txt
+```
+
+### 3. Run the CLI
+
+```bash
+python3 -m pokedexcli
 ```
 
 ---
@@ -38,7 +44,6 @@ python main.py
 This project uses `pytest` for unit testing. To run the tests:
 
 ```bash
-pip install pytest
 pytest
 ```
 
@@ -50,27 +55,16 @@ Tests are located in the `tests/` directory and cover core logic such as Pokéde
 
 ```plaintext
 .
-├── main.py              # Main CLI script
-├── pokedex/             # Pokémon data (Dex, Type, Evolution)
-├── utils/
-│   └── tools.py         # Utility functions like clear_console()
-├── tests/               # Unit tests for core logic
-    └── test_main.py               
-└── README.md            # This file
-```
-
----
-
-## 🔧 Sample JSON Format
-
-```json
-{
-  "Pikachu": {
-    "dex": 25,
-    "Type": "Electric",
-    "Evolution": "Pichu --> Pikachu --> Raichu"
-  }
-}
+├── pokedex.db              # SQLite database
+├── pokedexcli/             # Main application package
+│   ├── __init__.py
+│   ├── main.py             # CLI entry point
+│   └── utils.py            # Utility functions (clear_console, etc.)
+├── tests/                  # Unit tests for core logic
+│   ├── __init__.py
+│   └── test_main.py
+├── requirements.txt        # Python dependencies
+└── README.md               # This file
 ```
 
 ---
@@ -107,7 +101,7 @@ Built with ❤️ by
 
 - Filter by Generation or Type
 - Add move sets or stats
-- Use colorized terminal output (`rich` or `colorama`)
+- Use colorized terminal output (`rich`)
 - Web or GUI version
 
 ---
